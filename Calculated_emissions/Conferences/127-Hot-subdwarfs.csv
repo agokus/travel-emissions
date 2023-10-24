@@ -1,0 +1,37 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Hendaye, France",Hendaye,France,"Hendaye, France",43.3614987487599,-1.76552333427145,0,0,0,0
+"Valencia,  Spain",Valencia, Spain,"Valencia, Comarca de València, Valencia, Valencian Community, Spain",39.4697065,-0.3763353,26.8,896.333,0,1
+"Toulouse,  France",Toulouse, France,"Toulouse, Haute-Garonne, Occitania, Metropolitan France, France",43.6044622,1.4442469,62.194,2080.069,0,4
+"Palma,  Spain",Palma, Spain,"Palma, Balearic Islands, Spain",39.5695818,2.6500745,276.073,1118.865,1,0
+"Coimbra,  Portugal",Coimbra, Portugal,"Coimbra, Centro, Portugal",40.2111931,-8.4294632,312.312,1308.608,1,0
+"Turin,  Italy",Turin, Italy,"Turin, Torino, Piemont, Italy",45.0677551,7.6824892,358.653,1551.242,1,0
+"London,  United Kingdom",London, United Kingdom,"London, Westminster, England, SW1A 2DX, United Kingdom",51.5073219,-0.1276474,411.404,1827.438,1,0
+"Oxford,  United Kingdom",Oxford, United Kingdom,"Oxford, Oxfordshire, South East England, England, United Kingdom",51.7520131,-1.2578499,418.94,1866.897,1,0
+"Liège,  Belgium",Liège, Belgium,"Liège, Wallonia, 4000, Belgium",50.6451381,5.5734203,432.883,1962.399,1,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.139153737368744,435.481,1984.711,1,0
+"Dublin,  Ireland",Dublin, Ireland,"Dublin, Dublin 1, Leinster, Ireland",53.3497645,-6.2602732,474.159,2316.885,1,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,477.045,2341.669,1,0
+"Göttingen,  Germany",Göttingen, Germany,"Göttingen, Landkreis Göttingen, Lower Saxony, Germany",51.5328328,9.9351811,498.144,2522.869,1,0
+"College Hill,  United Kingdom",College Hill, United Kingdom,"College Hill, Armagh, County Armagh, Northern Ireland, BT61 9DG, United Kingdom",54.352201,-6.645739,500.654,2544.429,1,0
+"Ondřejov,  Czechia",Ondřejov, Czechia,"Ondřejov, okres Praha-východ, Central Bohemia, 25165, Czechia",49.9045659,14.7831213,547.39,2906.014,1,0
+"Lund,  Sweden",Lund, Sweden,"Lund, Lund Municipality, Skåne County, Sweden",55.7029296,13.1929449,647.504,3475.732,1,0
+"Toruń,  Poland",Toruń, Poland,"Toruń, Toruń County, Kuyavian-Pomeranian Voivodeship, Poland",53.0145361,18.5965831446516,683.834,3682.47,1,0
+"Milan,  Italy",Milan, Italy,"Milan, Lombardy, Italy",45.4668,9.1905,812.277,3599.741,2,0
+"Tübingen,  Germany",Tübingen, Germany,"Tübingen, Landkreis Tübingen, Baden-Württemberg, Germany",48.5236164,9.0535531,880.396,4050.439,2,0
+"Fauske,  Norway",Fauske, Norway,"Fauske, Nordland, Norway",67.23671525,15.78442207548,1042.028,5707.092,1,0
+"Bamberg,  Germany",Bamberg, Germany,"Bamberg, Bavaria, Germany",49.8916044,10.8868478,1455.371,7233.148,3,0
+"Birjand,  Iran",Birjand, Iran,"Birjand, Behjat Abad, شهرداری تهران منطقه شش ناحیه سه, Tehran, بخش مرکزی شهرستان تهران, Tehran County, Tehran Province, 1597933813, Iran",35.7174261,51.4142641,1505.203,9119.62,1,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,1801.493,10956.033,1,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,1986.376,12101.941,1,0
+"Daytona Beach,  United States",Daytona Beach, United States,"Daytona Beach, Volusia County, Florida, United States",29.2108147,-81.0228331,2295.841,14020.011,1,0
+"Waco,  United States",Waco, United States,"Waco, McLennan County, Texas, United States",31.549333,-97.1466695,2634.283,16117.68,1,0
+"Krakow,  Poland",Krakow, Poland,"Krakow, Wieliczka County, Lesser Poland Voivodeship, Poland",50.0469432,19.9971534358367,2690.493,14474.704,4,0
+"Cape Town,  South Africa",Cape Town, South Africa,"Cape Town, City of Cape Town, Western Cape, 8001, South Africa",-33.928992,18.417396,2884.887,17670.927,1,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,2896.525,17743.063,1,0
+"Santa Cruz County,  United States",Santa Cruz County, United States,"Santa Cruz County, California, United States",37.050096,-121.9905908,3012.525,18462.03,1,0
+"La Plata,  Argentina",La Plata, Argentina,"La Plata, Partido de La Plata, Buenos Aires, Argentina",-34.9206797,-57.9537638,3389.367,20797.702,1,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,3919.077,20839.178,7,0
+"Santa Barbara,  United States",Santa Barbara, United States,"Santa Barbara, Santa Barbara County, California, United States",34.4221319,-119.7026673,6084.813,37294.474,2,0
+"High Point,  United States",High Point, United States,"High Point, Guilford County, North Carolina, United States",35.9556924,-80.0053176,6394.45,39003.959,3,0
+"Valparaíso,  Chile",Valparaíso, Chile,"Valparaíso, Provincia de Valparaíso, Valparaiso Region, Chile",-33.0458456,-71.6196749,7206.001,44243.618,2,0
+"Yunnan,  China",Yunnan, China,"Yunnan, China",25,102,17927.66,109858.044,6,0

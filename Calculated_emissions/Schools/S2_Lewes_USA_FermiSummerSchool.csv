@@ -1,0 +1,23 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Lewes, Delaware, United States",Lewes,United States,"Lewes, Delaware, United States",38.7856502282727,-75.1592633037407,0,0,0,0
+"Newark,  United States",Newark, United States,"Newark, New Castle County, Delaware, United States",39.6852191,-75.7508289,6.836,228.617,0,1
+"University of Maryland,  United States",University of Maryland, United States,"University of Maryland, College Park, University Boulevard East, Berwyn, College Park, Prince George's County, Maryland, 20740, United States",38.99203005,-76.9461029019905,9.471,316.767,0,1
+"Washington,  United States",Washington, United States,"Washington, District of Columbia, United States",38.8949924,-77.0365581,9.867,330.006,0,1
+"Greenbelt,  United States",Greenbelt, United States,"Greenbelt, Good Luck Road, New Carrollton, Prince George's County, Maryland, 20706, United States",38.9937333,-76.883065797021,54.905,1836.271,0,6
+"Clemson,  United States",Clemson, United States,"Clemson, Pickens County, South Carolina, 29631, United States",34.6850749,-82.8364111,376.578,1645.096,1,0
+"Chicago,  United States",Chicago, United States,"Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212,463.365,2224.183,1,0
+"Houghton County,  United States",Houghton County, United States,"Houghton County, Michigan, United States",46.8591287,-88.7774734,538.377,2853.773,1,0
+"Lubbock,  United States",Lubbock, United States,"Lubbock, Lubbock County, Texas, United States",33.5635206,-101.879336,901.958,4919.611,1,0
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, California, United States",34.0536909,-118.242766,1278.418,7714.005,1,0
+"Seattle,  United States",Seattle, United States,"Seattle, King County, Washington, United States",47.6038321,-122.3300624,1287.715,7771.631,1,0
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Derby Street, Claremont, Berkeley, Alameda County, California, 94720-1076, United States",37.8753497,-122.239633649188,1345.124,8127.45,1,0
+"Dublin,  Ireland",Dublin, Ireland,"Dublin, Dublin 1, Leinster, Ireland",53.3497645,-6.2602732,1753.324,10657.483,1,0
+"Oxford,  United Kingdom",Oxford, United Kingdom,"Oxford, Oxfordshire, South East England, England, United Kingdom",51.7520131,-1.2578499,1873.001,11399.241,1,0
+"Erlangen,  Germany",Erlangen, Germany,"Erlangen, Bavaria, Germany",49.5978157,11.0038064,2160.722,13182.543,1,0
+"Zeuthen,  Germany",Zeuthen, Germany,"Zeuthen, Dahme-Spreewald, Brandenburg, 15738, Germany",52.3508259,13.6293881,2172.211,13253.752,1,0
+"Munich,  Germany",Munich, Germany,"Munich, Bavaria, Germany",48.1371079,11.5753822,2195.642,13398.976,1,0
+"Perugia,  Italy",Perugia, Italy,"Perugia, Umbria, Italy",43.1070321,12.4029962099065,2298.052,14033.715,1,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,3581.172,21986.517,1,0
+"County Durham,  United Kingdom",County Durham, United Kingdom,"County Durham, North East England, England, United Kingdom",54.666667,-1.75,3671.788,22338.502,2,0
+"Potchefstroom,  South Africa",Potchefstroom, South Africa,"Potchefstroom, Tlokwe Local Municipality, Potchefstroom, North West, 2520, South Africa",-26.7150922,27.1013887,4174.999,25667.067,1,0
+"Abu Dhabi,  United Arab Emirates",Abu Dhabi, United Arab Emirates,"Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",24.4538352,54.3774014,7321.945,44962.243,2,0

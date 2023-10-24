@@ -1,0 +1,64 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Rupnagar,  India",Rupnagar, India,"Rupnagar, NH205, Rupnagar, Rupnagar Tahsil, Rupnagar, Punjab, 140001, India",30.9714438,76.5302085,0,0,0,1
+"Patiala,  India",Patiala, India,"Patiala, Punjab, India",30.2090874,76.3398720856,6.785,226.909,0,1
+"Datana,  India",Datana, India,"Datana, Theog, Shimla, Himachal Pradesh, 171212, India",31.1745214,77.4063098,10.978,367.168,0,1
+"Chandigarh,  India",Chandigarh, India,"Chandigarh, 160018, India",30.7334421,76.7797143,14.839,496.272,0,2
+"Garhwāl,  India",Garhwāl, India,"Garhwāl, Chamoli, India",30.25,79.333333,22.398,749.112,0,1
+"Pilani,  India",Pilani, India,"Pilani, Surajgarh Tehsil, Jhunjhunun, Rajasthan, 333031, India",28.3622661,75.6042342,34.16,1142.479,0,2
+"Jaipur,  India",Jaipur, India,"Jaipur, Jaipur Municipal Corporation, Jaipur Tehsil, Jaipur, Rajasthan, 302001, India",26.9154576,75.8189817,80.263,2684.377,0,3
+"Sahibzada Ajit Singh Nagar,  India",Sahibzada Ajit Singh Nagar, India,"Sahibzada Ajit Singh Nagar, S.A.S. Nagar (Mohali) Tahsil, Sahibzada Ajit Singh Nagar, Punjab, 160059, India",30.7047049,76.7178146,120.875,4042.645,0,17
+"Delhi,  India",Delhi, India,"Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110006, India",28.6517178,77.2219388,181.114,6057.334,0,10
+"Kota,  India",Kota, India,"Kota, Rajasthan, India",25.1968256,76.0008933089,306.585,1278.621,1,0
+"Lucknow,  India",Lucknow, India,"Lucknow, Sadar, Lucknow, Uttar Pradesh, 226019, India",26.8381,80.9346001,328.839,1395.141,1,0
+"Amarkantak,  India",Amarkantak, India,"Amarkantak, Pushparajgarh Tehsil, Anuppur, Madhya Pradesh, 484886, India",22.670465,81.7588417,462.44,2216.235,1,0
+"Nanded,  India",Nanded, India,"Nanded, Nanded district, Maharashtra, India",19.17257215,77.2914123717,511.692,2639.221,1,0
+"Dhanbad,  India",Dhanbad, India,"Dhanbad, Dhanbad-Cum-Kenduadih-Cum-Jagata, Dhanbad, Jharkhand, 826001, India",23.7952809,86.4309638,516.043,2676.554,1,0
+"Sambalpur,  India",Sambalpur, India,"Sambalpur, Odisha, 768111, India",21.4,83.883333,518.734,2697.909,1,0
+"Bolpur Santiniketan,  India",Bolpur Santiniketan, India,"Bolpur Santiniketan, NH114, Bolpur, Bolpur Sriniketan, Birbhum, West Bengal, 731204, India",23.6580081,87.698785,546.272,2899.656,1,0
+"Behala,  India",Behala, India,"Behala, Kolkata, West Bengal, 700034, India",22.4976756,88.3176763,591.671,3158.002,1,0
+"Jadavpur,  India",Jadavpur, India,"Jadavpur, Jadavpur Station Link Road, Santoshpur, Ananda Pally, Kolkata, West Bengal, 700 032, India",22.4951079,88.3749813,593.34,3167.502,1,0
+"Contai,  India",Contai, India,"Contai, Contai-I, Purba Medinipur, West Bengal, 721401, India",21.7805923,87.7448286,594.27,3172.795,1,0
+"Dharwad,  India",Dharwad, India,"Dharwad, Dharawada taluku, Dharwad district, Karnataka, 580001, India",15.4540505,75.0066516,641.755,3443.014,1,0
+"Kanpur,  India",Kanpur, India,"Kanpur, Kanpur Nagar, Uttar Pradesh, 208012, India",26.4609135,80.3217588,647.268,2735.772,2,0
+"Surathkal,  India",Surathkal, India,"Surathkal, Mangaluru taluk, Dakshina Kannada, Karnataka, 575014, India",12.9894357,74.8006038,738.267,3992.233,1,0
+"Vellore,  India",Vellore, India,"Vellore, Vellore District, Tamil Nadu, India",12.7948109,79.0006410969,756.561,4096.335,1,0
+"Prayagraj,  India",Prayagraj, India,"Prayagraj, Uttar Pradesh, 211001, India",25.4381302,81.8338005,789.672,3481.386,2,0
+"Gandhinagar,  India",Gandhinagar, India,"Gandhinagar, Gandhinagar Taluka, Gandhinagar District, Gujarat, 382021, India",23.2232877,72.6492267,813.897,3608.225,2,0
+"Bhopal,  India",Bhopal, India,"Bhopal, Madhya Pradesh, 462001, India",23.2584857,77.401989,1188.04,5240.568,3,0
+"Indore,  India",Indore, India,"Indore, Madhya Pradesh, 452001, India",22.7203616,75.8681996,1233.986,5481.136,3,0
+"Karnataka,  India",Karnataka, India,"Karnataka, India",14.5203896,75.7223521,1356.068,7298.932,2,0
+"Surat,  India",Surat, India,"Surat, Katargam Taluka, Surat, Gujarat, 395001, India",21.1864607,72.8081281,1392.9,6696.64,3,0
+"Tartu,  Estonia",Tartu, Estonia,"Tartu, Tartu linn, Tartu maakond, Estonia",58.3801207,26.72245,1568.59,9512.495,1,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,1635.847,9929.359,1,0
+"Opava,  Czechia",Opava, Czechia,"Opava, okres Opava, Moravskoslezský kraj, Moravia-Silesia, Czechia",49.9389004,17.9024174,1699.84,10325.988,1,0
+"Hyderabad,  India",Hyderabad, India,"Hyderabad, Bahadurpura mandal, Hyderabad, Telangana, India",17.360589,78.4740613,1732.231,9230.555,3,0
+"Cas. Turino,  Italy",Cas. Turino, Italy,"Cas. Turino, Ferrandina, Matera, Basilicata, Italy",40.534742,16.3946914,1757.071,10680.706,1,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,1810.144,11009.653,1,0
+"Kyoto,  Japan",Kyoto, Japan,"Kyoto, Kyoto Prefecture, Japan",35.021041,135.7556075,1825.972,11107.755,1,0
+"Pisa,  Italy",Pisa, Italy,"Pisa, Tuscany, Italy",43.7159395,10.4018624,1898.073,11554.639,1,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,1933.984,11777.214,1,0
+"Bonn,  Germany",Bonn, Germany,"Bonn, North Rhine-Westphalia, Germany",50.735851,7.10066,1945.83,11850.639,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,2064.222,12584.433,1,0
+"Ahmedabad,  India",Ahmedabad, India,"Ahmedabad, Ahmadabad City Taluka, Ahmedabad District, Gujarat, 380001, India",23.0216238,72.5797068,2079.672,9255.803,5,0
+"Dibrugarh,  India",Dibrugarh, India,"Dibrugarh, Dibrugarh East, Dibrugarh, 786001, India",27.4844597,94.9019447,2133.469,11513.862,3,0
+"Southampton,  United Kingdom",Southampton, United Kingdom,"Southampton, South East England, England, United Kingdom",50.9025349,-1.404189,2135.372,13025.422,1,0
+"Bhubaneswar,  India",Bhubaneswar, India,"Bhubaneswar, Master Canteen Chowk, Ward 41, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751006, India",20.2667774,85.8435592,2358.864,12587.517,4,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,2672.888,16147.304,2,0
+"Thiruvananthapuram,  India",Thiruvananthapuram, India,"Thiruvananthapuram, Kerala, India",8.57697055,77.0501246373,2738.807,14943.979,3,0
+"Kharagpur,  India",Kharagpur, India,"Kharagpur, Munger, Bihar, India",25.13317305,86.5250403634,2984.647,15100.995,6,0
+"Syracuse,  United States",Syracuse, United States,"Syracuse, Onondaga County, New York, United States",43.0481221,-76.1474244,3678.781,22591.496,1,0
+"Princeton,  United States",Princeton, United States,"Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958,3749.283,23028.471,1,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,3806.598,23383.713,1,0
+"Lawrence,  United States",Lawrence, United States,"Lawrence, Douglas County, Kansas, 66044, United States",38.9719384,-95.2359496,3965.254,24367.064,1,0
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands",52.3727598,4.8936041,3977.326,24232.235,2,0
+"Natal,  Brazil",Natal, Brazil,"Natal, Região Geográfica Imediata de Natal, Região Geográfica Intermediária de Natal, Rio Grande do Norte, Northeast Region, Brazil",-5.805398,-35.2080905,4006.474,24622.543,1,0
+"Norman,  United States",Norman, United States,"Norman, Cleveland County, Oklahoma, United States",35.2225717,-97.4394816,4106.866,25244.774,1,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,4112.168,25277.64,1,0
+"Guwahati,  India",Guwahati, India,"Guwahati, Kamrup Metropolitan, Assam, 781015, India",26.1805978,91.753943,4368.031,23394.018,7,0
+"Brasília,  Brazil",Brasília, Brazil,"Brasília, Plano Piloto, Região Geográfica Imediata do Distrito Federal, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, Região Geográfica Intermediária do Distrito Federal, Federal District, Central-West Region, 70.701-010, Brazil",-15.7934036,-47.8823172,4570.804,28120.275,1,0
+"Mumbai,  India",Mumbai, India,"Mumbai, Mumbai Suburban, Maharashtra, India",19.0759899,72.8773928,5175.164,26882.488,10,0
+"Perth,  Australia",Perth, Australia,"Perth, City of Perth, Western Australia, 6000, Australia",-31.9527121,115.8604796,5348.234,32729.146,2,0
+"Chennai,  India",Chennai, India,"Chennai, Chennai District, Tamil Nadu, India",13.0836939,80.270186,8304.679,44960.161,11,0
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,8906.989,48178.708,12,0
+"Kolkata,  India",Kolkata, India,"Kolkata, Howrah, Thakurpukur Maheshtala, Howrah, West Bengal, 711101, India",22.5414185,88.3576912439,10059.179,53690.47,17,0
+"Pune,  India",Pune, India,"Pune, Pune District, Maharashtra, India",18.521428,73.8544541,11637.604,61142.982,22,0

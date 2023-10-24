@@ -1,0 +1,11 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Kruger National Park, South Africa",Paul Kruger Gate,South Africa,"Protea Hotel Kruger Gate, South Africa",-24.9763239067,31.481899103,0,0,0,0
+"Pretoria,  South Africa",Pretoria, South Africa,"Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0126, South Africa",-25.7459374,28.1879444,212.142,781.033,1,0
+"Triest,  Italy",Triest, Italy,"Triest, UTI Giuliana / Julijska MTU, Friuli-Venezia Giulia, Italy",45.6504806,13.7931263,2595.87,15879.593,1,0
+"Zurich,  Switzerland",Zurich, Switzerland,"Zurich, District Zurich, Zurich, Switzerland",47.3744489,8.5410422,2697.249,16507.946,1,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,2700.799,16529.948,1,0
+"Liverpool,  United Kingdom",Liverpool, United Kingdom,"Liverpool, North West England, England, United Kingdom",53.4071991,-2.99168,3008.11,18434.667,1,0
+"Rochester,  United States",Rochester, United States,"Rochester, Monroe, New York, United States",43.157285,-77.615214,4328.993,26621.524,1,0
+"Oxford,  United Kingdom",Oxford, United Kingdom,"Oxford, Oxfordshire, South East England, England, United Kingdom",51.7520131,-1.2578499,5875.494,35997.112,2,0
+"Cape Town,  South Africa",Cape Town, South Africa,"Cape Town, City of Cape Town, Western Cape, 8001, South Africa",-33.928992,18.417396,6929.611,37135.126,11,0
+"City of Edinburgh,  United Kingdom",City of Edinburgh, United Kingdom,"City of Edinburgh, Scotland, United Kingdom",55.9533456,-3.1883749,9264.533,56792.782,3,0

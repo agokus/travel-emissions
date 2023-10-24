@@ -1,0 +1,7 @@
+"location","city","country","address","latitude","longitude","co2_kg","distance_km","plane trips_amount","train trips_amount"
+"Moscow,  Russia","Moscow"," Russia","Moscow, Central Federal District, Russia","55.7504461","37.6174943","0.0","0.0","0","12"
+"Sarov,  Russia","Sarov"," Russia","Sarov, Nizhny Novgorod Oblast, Volga Federal District, 607188, Russia","54.934631","43.334606","22.281","745.198","0","1"
+"Yekaterinburg,  Russia","Yekaterinburg"," Russia","Yekaterinburg, Yekaterinburg Municipality, Sverdlovsk Oblast, Ural Federal District, Russia","56.839104","60.60825","535.894","2834.072","1","0"
+"Nainital,  India","Nainital"," India","Nainital, India","29.2031392","79.4176945","1457.889","8826.367","1","0"
+"New York,  United States","New York"," United States","New York, United States","40.7127281","-74.0060152","2457.4","15021.354","1","0"
+"Novosibirsk,  Russia","Novosibirsk"," Russia","Novosibirsk, Novosibirsk Oblast, Siberian Federal District, 630000, Russia","55.0282171","82.9234509","13350.633","73091.793","13","0"

@@ -1,0 +1,8 @@
+"location","city","country","address","latitude","longitude","co2_kg","distance_km","plane trips_amount","train trips_amount"
+"Bengaluru,  India","Bengaluru"," India","Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India","12.9791198","77.5912997","0.0","0.0","0","5"
+"Thiruvananthapuram,  India","Thiruvananthapuram"," India","Thiruvananthapuram, Kerala, India","8.576970549999999","77.05012463730725","250.717","986.104","1","0"
+"Bilaspur,  India","Bilaspur"," India","Bilaspur, Rampur, Uttar Pradesh, India","28.8680526","79.29838501460121","660.753","3551.127","1","0"
+"Nainital,  India","Nainital"," India","Nainital, India","29.2031392","79.4176945","674.212","3627.717","1","0"
+"Mumbai,  India","Mumbai"," India","Mumbai, Mumbai Suburban, Maharashtra, India","19.0759899","72.8773928","1154.834","5066.709","3","0"
+"Ahmedabad,  India","Ahmedabad"," India","Ahmedabad, Ahmadabad City Taluka, Ahmedabad District, Gujarat, 380001, India","23.0216238","72.5797068","1476.435","7414.045","3","0"
+"London,  United Kingdom","London"," United Kingdom","London, Greater London, England, United Kingdom","51.5073219","-0.1276474","15758.159","96411.439","6","0"

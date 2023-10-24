@@ -1,0 +1,5 @@
+"location","city","country","address","latitude","longitude","co2_kg","distance_km","plane trips_amount","train trips_amount"
+"Canakkale,  Turkey","Canakkale"," Turkey","Canakkale, Marmara Region, Turkey","40.0549886","26.9278292","0.0","0.0","0","8"
+"Izmir,  Turkey","Izmir"," Turkey","Izmir, Konak, Izmir, Aegean Region, 35180, Turkey","38.4147331","27.1434119","65.779","2199.97","0","6"
+"Istanbul,  Turkey","Istanbul"," Turkey","Istanbul, Fatih, Istanbul, Marmara Region, 34126, Turkey","41.0096334","28.9651646","72.572","2427.172","0","6"
+"Tehran,  Iran","Tehran"," Iran","Tehran, بخش مرکزی شهرستان تهران, Tehran County, Tehran Province, Iran","35.6892523","51.3896004","16155.213","87753.925","20","0"

@@ -1,0 +1,31 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,0,0,0,22
+"Osaka Prefecture,  Japan",Osaka Prefecture, Japan,"Osaka Prefecture, Japan",34.6198813,135.490357,51.459,1721.03,0,2
+"Daegu,  South Korea",Daegu, South Korea,"Daegu, South Korea",35.8713,128.6018,442.918,2048.584,1,0
+"Changchun City,  China",Changchun City, China,"Changchun City, Jilin, 130000, China",43.8130735,125.3171216,573.843,3056.552,1,0
+"Shanghai,  China",Shanghai, China,"Shanghai, Huangpu District, Shanghai, 200001, China",31.2322758,121.4692071,664.964,3575.091,1,0
+"Taipei,  Taiwan",Taipei, Taiwan,"Taipei, Taiwan",25.0375198,121.5636796,785.51,4261.075,1,0
+"Xiamen,  China",Xiamen, China,"Xiamen, Siming, 厦门市, Fujian, China",24.4801069,118.0853479,897.428,4894.141,1,0
+"Daejeon,  South Korea",Daejeon, South Korea,"Daejeon, South Korea",36.3496,127.3848,1403.701,6789.399,3,0
+"Nanjing,  China",Nanjing, China,"Nanjing, Nanjing City, Jiangsu, 210008, China",32.0609736,118.7916458,1475.567,7978.961,2,0
+"Bangkok,  Thailand",Bangkok, Thailand,"Bangkok, Phra Borom Maha Ratchawang Subdistrict, Phra Nakhon District, Bangkok, 10200, Thailand",13.7544238,100.4930399,1529.46,9269.968,1,0
+"Tohoku,  Japan",Tohoku, Japan,"Tohoku, Kamikita County, Aomori Prefecture, Japan",40.7279915,141.2579371,1639.157,6622.7,6,0
+"Delhi,  India",Delhi, India,"Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110006, India",28.6517178,77.2219388,1923.4,11711.617,1,0
+"Hilo,  United States",Hilo, United States,"Hilo, Hawaiʻi County, Hawaii, United States",19.7073734,-155.0815803,2137.215,13036.844,1,0
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,2192.286,13378.173,1,0
+"Santa Cruz County,  United States",Santa Cruz County, United States,"Santa Cruz County, California, United States",37.050096,-121.9905908,2716.771,16628.94,1,0
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, California, United States",34.0536909,-118.242766,2868,17566.261,1,0
+"Riverside,  United States",Riverside, United States,"Riverside, Riverside County, California, United States",33.9533546,-117.3961623,2890.429,17705.279,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,3063.243,18776.382,1,0
+"Oxford,  United Kingdom",Oxford, United Kingdom,"Oxford, Oxfordshire, South East England, England, United Kingdom",51.7520131,-1.2578499,3121.172,19135.429,1,0
+"Padua,  Italy",Padua, Italy,"Padua, Padova, Veneto, Italy",45.4077172,11.8734455,3126.958,19171.292,1,0
+"West Lafayette,  United States",West Lafayette, United States,"West Lafayette, Tippecanoe County, Indiana, United States",40.4258686,-86.9080655,3348.835,20546.485,1,0
+"Washington,  United States",Washington, United States,"Washington, District of Columbia, United States",38.8949924,-77.0365581,3543.013,21750.005,1,0
+"Athens,  United States",Athens, United States,"Athens, Athens-Clarke County, Georgia, United States",33.9597677,-83.376398,3596.481,22081.401,1,0
+"Puebla,  Mexico",Puebla, Mexico,"Puebla, Mexico",18.833333,-98,3714.003,22809.803,1,0
+"Seoul,  South Korea",Seoul, South Korea,"Seoul, Nowon-gu, South Korea",37.5666791,126.9782914,3820.056,18765.084,8,0
+"Canberra,  Australia",Canberra, Australia,"Canberra, District of Canberra Central, Australian Capital Territory, 2601, Australia",-35.2975906,149.1012676,5210.901,31877.953,2,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,5451.128,29557.551,7,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,6103.932,37412.977,2,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,8048.35,49254.862,3,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,11175.827,68848.668,2,0

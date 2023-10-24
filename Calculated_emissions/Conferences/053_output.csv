@@ -1,0 +1,79 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Jodrell Bank,  United Kingdom",Jodrell Bank, United Kingdom,"Jodrell Bank, Lower Withington, Cheshire East, North West England, England, SK11 9DW, United Kingdom",53.2434155,-2.2990958,0,0,0,13
+"Keele,  United Kingdom",Keele, United Kingdom,"Keele, Newcastle-under-Lyme, Staffordshire, West Midlands, England, United Kingdom",53.0038078,-2.2877425,1.58,52.828,0,1
+"Liverpool,  United Kingdom",Liverpool, United Kingdom,"Liverpool, North West England, England, United Kingdom",53.4071991,-2.99168,2.432,81.341,0,1
+"Huddersfield,  United Kingdom",Huddersfield, United Kingdom,"Huddersfield, Kirklees, West Yorkshire, Yorkshire and the Humber, England, HD1 2AA, United Kingdom",53.6466645,-1.7822482,3.967,132.667,0,1
+"Sheffield,  United Kingdom",Sheffield, United Kingdom,"Sheffield, Yorkshire and the Humber, England, United Kingdom",53.3806626,-1.4702278,4.131,138.175,0,1
+"Leeds,  United Kingdom",Leeds, United Kingdom,"Leeds, West Yorkshire, Yorkshire and the Humber, England, United Kingdom",53.7974185,-1.5437941,10.679,357.166,0,2
+"Newcastle upon Tyne,  United Kingdom",Newcastle upon Tyne, United Kingdom,"Newcastle upon Tyne, Tyne and Wear, North East England, England, United Kingdom",54.9738474,-1.6131572,12.171,407.048,0,1
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.139153737368744,12.503,418.146,0,1
+"Dublin,  Ireland",Dublin, Ireland,"Dublin, Dublin 1, Leinster, Ireland",53.3497645,-6.2602732,15.087,504.571,0,1
+"Southampton,  United Kingdom",Southampton, United Kingdom,"Southampton, South East England, England, United Kingdom",50.9025349,-1.404189,15.978,534.379,0,1
+"Hatfield,  United Kingdom",Hatfield, United Kingdom,"Hatfield, Welwyn Hatfield, Hertfordshire, East of England, England, United Kingdom",51.7634675,-0.2258741,26.511,886.644,0,2
+"Portsmouth,  United Kingdom",Portsmouth, United Kingdom,"Portsmouth, South East England, England, United Kingdom",50.8036831,-1.075614,34.031,1138.151,0,2
+"Oxford,  United Kingdom",Oxford, United Kingdom,"Oxford, Oxfordshire, South East England, England, United Kingdom",51.7520131,-1.2578499,54.469,1821.712,0,5
+"Manchester,  United Kingdom",Manchester, United Kingdom,"Manchester, Greater Manchester, North West England, England, United Kingdom",53.4794892,-2.2451148,89.136,2981.136,0,45
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,118.488,3962.802,0,8
+"City of Edinburgh,  United Kingdom",City of Edinburgh, United Kingdom,"City of Edinburgh, Scotland, United Kingdom",55.9533456,-3.1883749,180.493,616.132,1,0
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.48110886662043,246.926,966.255,1,0
+"Brussels,  Belgium",Brussels, Belgium,"Brussels, City of Brussels, Brussels-Capital, Belgium",50.8465573,4.351697,266.971,1071.208,1,0
+"Uccle - Ukkel,  Belgium",Uccle - Ukkel, Belgium,"Uccle - Ukkel, Brussels-Capital, 1180, Belgium",50.8035441,4.3338445,267.543,1074.203,1,0
+"Nijmegen,  Netherlands",Nijmegen, Netherlands,"Nijmegen, Gelderland, Netherlands",51.8474946,5.8637771,285.299,1167.17,1,0
+"Orléans,  France",Orléans, France,"Orléans, Loiret, Centre-Loire Valley, Metropolitan France, France",47.9027336,1.9086066,316.952,1332.9,1,0
+"Bielefeld,  Germany",Bielefeld, Germany,"Bielefeld, North Rhine-Westphalia, Germany",52.0191005,8.531007,350.324,1507.63,1,0
+"Bordeaux,  France",Bordeaux, France,"Bordeaux, Gironde, New Aquitaine, Metropolitan France, France",44.841225,-0.5800364,421.86,1882.188,1,0
+"Santander,  Spain",Santander, Spain,"Santander, Cantabria, Spain",43.4620412,-3.8099719,457.948,2177.662,1,0
+"Munich,  Germany",Munich, Germany,"Munich, Bavaria, Germany",48.1371079,11.5753822,469.091,2273.358,1,0
+"Nice,  France",Nice, France,"Nice, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitan France, France",43.7009358,7.2683912,501.561,2552.216,1,0
+"Porto,  Portugal",Porto, Portugal,"Porto, North, Portugal",41.1494512,-8.6107884,536.186,2836.386,1,0
+"Torrejón de Ardoz,  Spain",Torrejón de Ardoz, Spain,"Torrejón de Ardoz, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28850, Spain",40.4587767,-3.4793343,536.732,2840.722,1,0
+"Uppsala,  Sweden",Uppsala, Sweden,"Uppsala, Uppsala kommun, Uppsala County, 753 20, Sweden",59.8586126,17.6387436,538.955,2858.018,1,0
+"Triest,  Italy",Triest, Italy,"Triest, UTI Giuliana / Julijska MTU, Friuli-Venezia Giulia, Italy",45.6504806,13.7931263,543.012,2881.106,1,0
+"Brighton,  United Kingdom",Brighton, United Kingdom,"Brighton, Brighton and Hove, South East England, England, United Kingdom",50.8214626,-0.1400561,543.926,1861.147,3,0
+"Zagreb,  Croatia",Zagreb, Croatia,"Zagreb, City of Zagreb, Croatia",45.8131847,15.9771774,584.561,3117.545,1,0
+"Krakow,  Poland",Krakow, Poland,"Krakow, Wieliczka County, Lesser Poland Voivodeship, Poland",50.0469432,19.9971534358367,593.16,3166.475,1,0
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands",52.3727598,4.8936041,764.419,3022.54,3,0
+"Onsala,  Sweden",Onsala, Sweden,"Onsala, Kungsbacka kommun, Halland County, 43932, Sweden",57.4272188,12.0302702,887.276,4109.531,2,0
+"Barcelona,  Spain",Barcelona, Spain,"Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",41.3828939,2.1774322,1043.412,5442.986,2,0
+"Stockholm,  Sweden",Stockholm, Sweden,"Stockholm, Stockholms kommun, Stockholm County, 111 29, Sweden",59.3251172,18.0710935,1079.111,5722.867,2,0
+"Osservatorio astrofisico di Arcetri,  Italy",Osservatorio astrofisico di Arcetri, Italy,"Osservatorio astrofisico di Arcetri, Via Guglielmo Righini, Pian dei Giullari, Quartiere 3, Florence, Metropolitan City of Florence, Tuscany, 50125, Italy",43.75018505,11.2541735578515,1096.158,5819.876,2,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,1405.436,6804.301,3,0
+"Tehran,  Iran",Tehran, Iran,"Tehran, بخش مرکزی شهرستان تهران, Tehran County, Iran",35.6892523,51.3896004,1507.001,9130.766,1,0
+"Aveiro,  Portugal",Aveiro, Portugal,"Aveiro, Centro, Portugal",40.640496,-8.6537841,1663.734,8840.761,3,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,1665.641,10114.021,1,0
+"Old Westbury,  United States",Old Westbury, United States,"Old Westbury, North Hempstead, Nassau County, New York, 11568, United States",40.7887113,-73.5995717,1754.136,10662.514,1,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,1805.853,10983.059,1,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,1881.189,10078.227,3,0
+"Blacksburg,  United States",Blacksburg, United States,"Blacksburg, Montgomery County, Virginia, United States",37.2296566,-80.4136767,1980.627,12066.31,1,0
+"Bonn,  Germany",Bonn, Germany,"Bonn, North Rhine-Westphalia, Germany",50.735851,7.10066,2002.715,8526.245,6,0
+"Kaleden,  Canada",Kaleden, Canada,"Kaleden, Area I (Skaha West/Kaleden/Apex), Regional District of Okanagan-Similkameen, British Columbia, V0H 1K0, Canada",49.3932656,-119.5988914,2348.603,14347.03,1,0
+"Victoria,  Canada",Victoria, Canada,"Victoria, Capital Regional District, British Columbia, Canada",48.4283182,-123.3649533,2427.985,14839.041,1,0
+"Catania,  Italy",Catania, Italy,"Catania, Sicily, Italy",37.5022355,15.08738,2439.052,13252.831,3,0
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,2629.254,10826.863,9,0
+"Kolkata,  India",Kolkata, India,"Kolkata, Howrah, Thakurpukur Maheshtala, Howrah, West Bengal, 711101, India",22.5414185,88.3576912438887,2638.839,16145.92,1,0
+"Pisa,  Italy",Pisa, Italy,"Pisa, Tuscany, Italy",43.7159395,10.4018624,2677.834,14157.378,5,0
+"Coimbatore,  India",Coimbatore, India,"Coimbatore, Coimbatore North, Coimbatore District, Tamil Nadu, 641001, India",11.0018115,76.9628425,2721.053,16655.485,1,0
+"Chennai,  India",Chennai, India,"Chennai, Chennai District, Tamil Nadu, India",13.0836939,80.270186,2733.037,16729.761,1,0
+"Thiruvananthapuram,  India",Thiruvananthapuram, India,"Thiruvananthapuram, Kerala, India",8.57697055,77.0501246373073,2792.061,17095.594,1,0
+"Pretoria,  South Africa",Pretoria, South Africa,"Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0126, South Africa",-25.7459374,28.1879444,3023.894,18532.498,1,0
+"Potchefstroom,  South Africa",Potchefstroom, South Africa,"Potchefstroom, Tlokwe Local Municipality, Potchefstroom, North West, 2520, South Africa",-26.7150922,27.1013887,3046.468,18672.411,1,0
+"Kyushu,  Japan",Kyushu, Japan,"Kyushu, Japan",32.4820755,131.100905161534,3094.508,18970.161,1,0
+"Guangzhou City,  China",Guangzhou City, China,"Guangzhou City, Guangdong Province, China",23.1301964,113.2592945,3107.694,19051.894,1,0
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,3183.822,16754.151,6,0
+"Durban,  South Africa",Durban, South Africa,"Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4057, South Africa",-29.861825,31.009909,3192.411,19576.968,1,0
+"Dwingeloo,  Netherlands",Dwingeloo, Netherlands,"Dwingeloo, Westerveld, Drenthe, Netherlands",52.8333065,6.3669419,3463.473,14214.867,12,0
+"Cagliari,  Italy",Cagliari, Italy,"Cagliari, Sardinia, Italy",39.2169525,9.1128513,3991.705,21461.47,6,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,4316.527,17701.489,15,0
+"Granada,  Spain",Granada, Spain,"Granada, Comarca de la Vega de Granada, Granada, Andalusia, Spain",37.1734995,-3.5995337,4650.372,25000.725,7,0
+"Indore,  India",Indore, India,"Indore, Madhya Pradesh, 452001, India",22.7203616,75.8681996,4739.68,28957.319,2,0
+"Daejeon,  South Korea",Daejeon, South Korea,"Daejeon, South Korea",36.3496,127.3848,5842.182,35790.643,2,0
+"Nagoya,  Japan",Nagoya, Japan,"Nagoya, Aichi Prefecture, Japan",35.1851045,136.8998438,6155.494,37732.555,2,0
+"Kumamoto Prefecture,  Japan",Kumamoto Prefecture, Japan,"Kumamoto Prefecture, Japan",32.6450475,130.6341345,6166.157,37798.646,2,0
+"Shanghai,  China",Shanghai, China,"Shanghai, Huangpu District, Shanghai, 200001, China",31.2322758,121.4692071,8989.174,55086.102,3,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,9278.949,56882.133,3,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,13269.095,81193.824,5,0
+"Cape Town,  South Africa",Cape Town, South Africa,"Cape Town, City of Cape Town, Western Cape, 8001, South Africa",-33.928992,18.417396,16138.869,98980.74,5,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,16553.352,101969.017,3,0
+"Pune,  India",Pune, India,"Pune, Pune District, Maharashtra, India",18.521428,73.8544541,17097.682,104504.173,7,0
+"Canberra,  Australia",Canberra, Australia,"Canberra, District of Canberra Central, Australian Capital Territory, 2601, Australia",-35.2975906,149.1012676,60837.997,374768.818,11,0
+"Perth,  Australia",Perth, Australia,"Perth, City of Perth, Western Australia, 6000, Australia",-31.9527121,115.8604796,71379.433,439266.215,15,0

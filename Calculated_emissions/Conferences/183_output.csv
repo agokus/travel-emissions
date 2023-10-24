@@ -1,0 +1,37 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Benasque, Spain",Benasque,Spain,"Benasque, Spain",42.6047251265,0.5232769337,0,0,0,0
+"Barcelona,  Spain",Barcelona, Spain,"Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",41.3828939,2.1774322,23.052,770.963,0,2
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,25.585,855.677,0,1
+"Nice,  France",Nice, France,"Nice, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitan France, France",43.7009358,7.2683912,276.425,1120.707,1,0
+"Pisa,  Italy",Pisa, Italy,"Pisa, Tuscany, Italy",43.7159395,10.4018624,371.851,1620.347,1,0
+"Aachen,  Germany",Aachen, Germany,"Aachen, Städteregion Aachen, North Rhine-Westphalia, Germany",50.776351,6.083862,437.722,2003.96,1,0
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.4811088666,461.044,2204.25,1,0
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands",52.3727598,4.8936041,468.491,2268.209,1,0
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,498.307,2524.273,1,0
+"Geneva,  Switzerland",Geneva, Switzerland,"Geneva, Grand Genève, Geneva, Switzerland",46.2017559,6.1466014,582.582,2397.086,2,0
+"Copenhagen,  Denmark",Copenhagen, Denmark,"Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1357, Denmark",55.6867243,12.5700724,631.627,3385.383,1,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,692.511,3731.848,1,0
+"Oslo,  Norway",Oslo, Norway,"Oslo, Norway",59.9133301,10.7389701,755.838,4092.221,1,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,905.732,4268.028,2,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,1000.071,4256.385,3,0
+"Zurich,  Switzerland",Zurich, Switzerland,"Zurich, District Zurich, Zurich, Switzerland",47.3744489,8.5410422,1130.371,4938.623,3,0
+"Portsmouth,  United Kingdom",Portsmouth, United Kingdom,"Portsmouth, South East England, England, United Kingdom",50.8036831,-1.075614,1241.047,5518.105,3,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,1360.545,6418.772,3,0
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,1740.738,7928.664,4,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,1867.365,11364.307,1,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,1964.834,11968.426,1,0
+"Princeton,  United States",Princeton, United States,"Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958,1986.726,12104.109,1,0
+"Batavia,  United States",Batavia, United States,"Batavia, Genesee, New York, 14020, United States",42.9980144,-78.1875515,2023.644,12332.932,1,0
+"Columbus,  United States",Columbus, United States,"Columbus, Franklin, Ohio, United States",39.9622601,-83.0007065,2190.441,13366.741,1,0
+"City of Edinburgh,  United Kingdom",City of Edinburgh, United Kingdom,"City of Edinburgh, Scotland, United Kingdom",55.9533456,-3.1883749,2266.747,12063.313,4,0
+"Haifa,  Israel",Haifa, Israel,"Haifa, Haifa Subdistrict, Haifa District, Israel",32.8191218,34.9983856,2327.469,12782.671,2,0
+"Mumbai,  India",Mumbai, India,"Mumbai, Mumbai Suburban, Maharashtra, India",19.0759899,72.8773928,2344.498,14321.59,1,0
+"Stockholm,  Sweden",Stockholm, Sweden,"Stockholm, Stockholms kommun, Stockholm County, 111 29, Sweden",59.3251172,18.0710935,2443.995,13280.959,3,0
+"Brighton,  United Kingdom",Brighton, United Kingdom,"Brighton, Brighton and Hove, South East England, England, United Kingdom",50.8214626,-0.1400561,2471.336,10979.888,6,0
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, California, United States",34.0536909,-118.242766,3086.909,18923.063,1,0
+"San Diego,  United States",San Diego, United States,"San Diego, San Diego County, California, United States",32.7174202,-117.1627728,3102.263,19018.229,1,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,3736.51,22739.652,2,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,4079.27,24864.086,2,0
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Derby Street, Claremont, Berkeley, Alameda County, California, 94720-1076, United States",37.8753497,-122.2396336492,6109.422,37447.002,2,0
+"Seoul,  South Korea",Seoul, South Korea,"Seoul, Nowon-gu, South Korea",37.5666791,126.9782914,6254.367,38345.373,2,0
+"Auckland,  New Zealand",Auckland, New Zealand,"Auckland, Waitematā, Auckland, 1010, New Zealand",-36.852095,174.7631803,12463.958,76832.529,2,0

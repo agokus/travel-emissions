@@ -1,0 +1,46 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Grindelwald, Switzerland",Grindelwald,Switzerland,"Grindelwald, Switzerland",46.6233529358,8.0383199243,0,0,0,0
+"Grenoble,  France",Grenoble, France,"Grenoble, Isère, Auvergne-Rhône-Alpes, Metropolitan France, France",45.1875602,5.7357819,14.303,478.368,0,1
+"Turin,  Italy",Turin, Italy,"Turin, Torino, Piemont, Italy",45.0677551,7.6824892,62.875,2102.859,0,6
+"Geneva,  Switzerland",Geneva, Switzerland,"Geneva, Grand Genève, Geneva, Switzerland",46.2017559,6.1466014,182.184,6093.099,0,20
+"Munich,  Germany",Munich, Germany,"Munich, Bavaria, Germany",48.1371079,11.5753822,183.172,630.092,1,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,187.562,652.963,1,0
+"Leuven,  Belgium",Leuven, Belgium,"Leuven, Flemish Brabant, Flanders, Belgium",50.879202,4.7011675,265.768,1064.906,1,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,343.975,1474.389,1,0
+"Barcelona,  Spain",Barcelona, Spain,"Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",41.3828939,2.1774322,347.877,1494.823,1,0
+"Hamburg,  Germany",Hamburg, Germany,"Hamburg, Germany",53.550341,10.000654,361.359,1565.41,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,365.178,1254.11,2,0
+"Coventry,  United Kingdom",Coventry, United Kingdom,"Coventry, West Midlands Combined Authority, West Midlands, England, United Kingdom",52.4081812,-1.510477,421.923,1882.516,1,0
+"Birmingham,  United Kingdom",Birmingham, United Kingdom,"Birmingham, West Midlands Combined Authority, West Midlands, England, United Kingdom",52.4796992,-1.9026911,429.565,1933.905,1,0
+"Marseille,  France",Marseille, France,"Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, Metropolitan France, 13000, France",43.2961743,5.3699525,451.028,1701.409,2,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,476.743,2339.075,1,0
+"Tautenburg,  Germany",Tautenburg, Germany,"Tautenburg, Verwaltungsgemeinschaft Dornburg-Camburg, Saale-Holzland-Kreis, Thuringia, Germany",50.9915287,11.7157817,548.898,2220.721,2,0
+"Göttingen,  Germany",Göttingen, Germany,"Göttingen, Landkreis Göttingen, Lower Saxony, Germany",51.5328328,9.9351811,554.87,2251.99,2,0
+"Vienna,  Austria",Vienna, Austria,"Vienna, Austria",48.2083537,16.3725042,622.167,2604.347,2,0
+"Copenhagen,  Denmark",Copenhagen, Denmark,"Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1357, Denmark",55.6867243,12.5700724,900.402,4222.253,2,0
+"Tel Aviv-Yafo,  Israel",Tel Aviv-Yafo, Israel,"Tel Aviv-Yafo, Tel Aviv Subdistrict, Tel Aviv District, Israel",32.0852997,34.7818064,1018.935,5577.26,1,0
+"Belfast,  United Kingdom",Belfast, United Kingdom,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",54.5964411,-5.9302761,1024.153,5285.048,2,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,1151.988,5051.805,3,0
+"Montreal,  Canada",Montreal, Canada,"Montreal, Urban agglomeration of Montreal, Montreal (06), Quebec, Canada",45.4972159,-73.6103642,1969.97,12000.26,1,0
+"Middletown,  United States",Middletown, United States,"Middletown, Middlesex County, Connecticut, United States",41.54961415,-72.6515775675,2028.045,12360.207,1,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,2128.959,12985.673,1,0
+"Hanover,  United States",Hanover, United States,"Hanover, York County, Pennsylvania, 17331, United States",39.8063247,-76.9842735,2160.167,13179.104,1,0
+"University of Notre Dame du Lac,  United States",University of Notre Dame du Lac, United States,"University of Notre Dame du Lac, Warrick Street, Maple Lane, Saint Joseph County, Indiana, 46556, United States",41.70456775,-86.2382202602,2314.195,14133.769,1,0
+"Chicago,  United States",Chicago, United States,"Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212,2338.477,14284.269,1,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,2635.819,16127.199,1,0
+"Boulder,  United States",Boulder, United States,"Boulder, Boulder County, Colorado, United States",40.0149856,-105.270545,2723.968,16673.549,1,0
+"Cape Town,  South Africa",Cape Town, South Africa,"Cape Town, City of Cape Town, Western Cape, 8001, South Africa",-33.928992,18.417396,2943.569,18034.639,1,0
+"Irvine,  United States",Irvine, United States,"Irvine, Orange County, California, United States",33.6856969,-117.8259819,3122.464,19143.432,1,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,3154.668,19343.038,1,0
+"Porto,  Portugal",Porto, Portugal,"Porto, North, Portugal",41.1494512,-8.6107884,3304.669,17551.786,6,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,3953.069,24081.889,2,0
+"New Haven,  United States",New Haven, United States,"New Haven, New Haven County, Connecticut, United States",41.29843435,-72.9310234271,4078.733,24860.757,2,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,6090.391,37329.045,2,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,7909.132,48182.33,4,0
+"Fairfax,  United States",Fairfax, United States,"Fairfax, Fairfax (city), Virginia, United States",38.8462236,-77.3063733,8752.971,53412.461,4,0
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Derby Street, Claremont, Berkeley, Alameda County, California, 94720-1076, United States",37.8753497,-122.2396336492,9197.579,56377.804,3,0
+"Santa Cruz County,  United States",Santa Cruz County, United States,"Santa Cruz County, California, United States",37.050096,-121.9905908,9261.853,56776.176,3,0
+"Toowoomba,  Australia",Toowoomba, Australia,"Toowoomba, Toowoomba Regional, Queensland, 4350, Australia",-27.5610193,151.953351,10539.872,64907.01,2,0
+"State College,  United States",State College, United States,"State College, Centre County, Pennsylvania, United States",40.7944504,-77.8616386,17262.987,105319.082,8,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,37782.316,232707.901,7,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,40481.697,248180.803,13,0

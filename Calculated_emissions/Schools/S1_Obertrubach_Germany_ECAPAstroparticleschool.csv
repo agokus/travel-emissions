@@ -1,0 +1,24 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Obertrubach, Germany",Obertrubach,Germany,"Obertrubach, Germany",49.6951726876775,11.3482449994419,0,0,0,0
+"Erlangen,  Germany",Erlangen, Germany,"Erlangen, Bavaria, Germany",49.5978157,11.0038064,1.624,54.319,0,1
+"Karlsruhe,  Germany",Karlsruhe, Germany,"Karlsruhe, Baden-Württemberg, Germany",49.0068705,8.4034195,13.557,453.415,0,1
+"Siegen,  Germany",Siegen, Germany,"Siegen, Kreis Siegen-Wittgenstein, North Rhine-Westphalia, Germany",50.8749804,8.0227233,16.164,540.603,0,1
+"Freiburg im Breisgau,  Germany",Freiburg im Breisgau, Germany,"Freiburg im Breisgau, Baden-Württemberg, Germany",47.9960901,7.8494005,19.03,636.462,0,1
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,19.357,647.386,0,1
+"Aachen,  Germany",Aachen, Germany,"Aachen, Städteregion Aachen, North Rhine-Westphalia, Germany",50.776351,6.083862,23.516,786.481,0,1
+"Nova Gorica,  Slovenia",Nova Gorica, Slovenia,"Nova Gorica, Slovenia",45.9580549,13.6474706,26.881,899.037,0,1
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,30.671,1025.77,0,1
+"Munich,  Germany",Munich, Germany,"Munich, Bavaria, Germany",48.1371079,11.5753822,31.224,1044.274,0,3
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,34.828,1164.807,0,3
+"Dortmund,  Germany",Dortmund, Germany,"Dortmund, North Rhine-Westphalia, Germany",51.5142273,7.4652789,40.735,1362.369,0,2
+"Bochum,  Germany",Bochum, Germany,"Bochum, North Rhine-Westphalia, Germany",51.4818111,7.2196635,42.185,1410.885,0,2
+"Münster,  Germany",Münster, Germany,"Münster, North Rhine-Westphalia, Germany",51.9625101,7.6251879,43.44,1452.841,0,2
+"Innsbruck,  Austria",Innsbruck, Austria,"Innsbruck, Tyrol, Austria",47.2654296,11.3927685,48.475,1621.246,0,3
+"Wuppertal,  Germany",Wuppertal, Germany,"Wuppertal, North Rhine-Westphalia, Germany",51.264018,7.1780374,61.497,2056.764,0,3
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands",52.3727598,4.8936041,64.64,2161.871,0,2
+"Zeuthen,  Germany",Zeuthen, Germany,"Zeuthen, Dahme-Spreewald, Brandenburg, 15738, Germany",52.3508259,13.6293881,160.523,5368.656,0,8
+"Glasgow,  United Kingdom",Glasgow, United Kingdom,"Glasgow, Glasgow City, Scotland, G2 9SD, United Kingdom",55.8609825,-4.2488787,495.244,2497.963,1,0
+"Oujda,  Morocco",Oujda, Morocco,"Oujda, Pachalik d'Oujda باشوية وجدة, Oujda-Angad Prefecture, Oriental, Morocco",34.677874,-1.929306,736.036,3979.537,1,0
+"Chicago,  United States",Chicago, United States,"Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212,2340.355,14295.907,1,0
+"Gainesville,  United States",Gainesville, United States,"Gainesville, Alachua County, Florida, United States",29.6519684,-82.3249846,2547.147,15577.613,1,0
+"Potchefstroom,  South Africa",Potchefstroom, South Africa,"Potchefstroom, Tlokwe Local Municipality, Potchefstroom, North West, 2520, South Africa",-26.7150922,27.1013887,2821.268,17276.62,1,0

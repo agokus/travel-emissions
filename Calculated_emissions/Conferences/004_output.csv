@@ -1,0 +1,25 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Schloss Ringberg, Oberhof, Kreuth, Germany",Oberhof,Germany,"Schloss Ringberg, Oberhof, Kreuth, Germany",47.6812611919,11.7613415616,0,0,0,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,8.16,272.899,0,2
+"Gomaringen,  Germany",Gomaringen, Germany,"Gomaringen, Verwaltungsverband Steinlach-Wiesaz, Landkreis Tübingen, Baden-Württemberg, 72810, Germany",48.4535917,9.0985587,12.942,432.832,0,1
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,17.847,596.901,0,1
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,21.009,702.649,0,1
+"Bad Münstereifel,  Germany",Bad Münstereifel, Germany,"Bad Münstereifel, Kreis Euskirchen, North Rhine-Westphalia, 53902, Germany",50.5545674,6.7636511,29.067,972.141,0,1
+"Tautenburg,  Germany",Tautenburg, Germany,"Tautenburg, Verwaltungsgemeinschaft Dornburg-Camburg, Saale-Holzland-Kreis, Thuringia, Germany",50.9915287,11.7157817,44.559,1490.264,0,2
+"Kassel,  Germany",Kassel, Germany,"Kassel, Niestetal, Hesse, Germany",51.3154546,9.4924096,52.591,1758.894,0,2
+"Stuttgart,  Germany",Stuttgart, Germany,"Stuttgart, Baden-Württemberg, Germany",48.7784485,9.1800132,68.243,2282.368,0,5
+"Krakow,  Poland",Krakow, Poland,"Krakow, Wieliczka County, Lesser Poland Voivodeship, Poland",50.0469432,19.9971534358,314.514,1320.136,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,332.827,1416.023,1,0
+"Gif-sur-Yvette,  France",Gif-sur-Yvette, France,"Gif-sur-Yvette, Palaiseau, Essonne, Ile-de-France, Metropolitan France, 91190, France",48.7018823,2.134529,338.1,1443.628,1,0
+"Bonn,  Germany",Bonn, Germany,"Bonn, North Rhine-Westphalia, Germany",50.735851,7.10066,633.862,21199.413,0,22
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.4811088666,676.348,2888.036,2,0
+"Cologne,  Germany",Cologne, Germany,"Cologne, North Rhine-Westphalia, Germany",50.938361,6.959974,1275.637,5045.975,5,0
+"Mumbai,  India",Mumbai, India,"Mumbai, Mumbai Suburban, Maharashtra, India",19.0759899,72.8773928,2068.523,12611.088,1,0
+"Ithaca,  United States",Ithaca, United States,"Ithaca, Ithaca Town, Tompkins County, New York, United States",42.4396039,-76.4968019,2153.507,13137.824,1,0
+"Lancaster,  United States",Lancaster, United States,"Lancaster, Lancaster County, Pennsylvania, United States",40.03813,-76.3056686,2203.467,13447.474,1,0
+"University of Maryland,  United States",University of Maryland, United States,"University of Maryland, College Park, University Boulevard East, Berwyn, College Park, Prince George's County, Maryland, 20740, United States",38.99203005,-76.946102902,2241.062,13680.488,1,0
+"Silver Spring,  United States",Silver Spring, United States,"Silver Spring, Montgomery County, Maryland, United States",39.0086411,-77.0206311691,2242.271,13687.984,1,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,3145.464,19285.989,1,0
+"Hilo,  United States",Hilo, United States,"Hilo, Hawaiʻi County, Hawaii, United States",19.7073734,-155.0815803,4038.811,24822.968,1,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, 8320000, Chile",-33.4377756,-70.6504502,7921.012,48675.271,2,0
+"Moffett Field Historical Society Museum,  United States",Moffett Field Historical Society Museum, United States,"Moffett Field Historical Society Museum, Building 126, Cummins Avenue, Ames Research Center, Santa Clara County, California, 94035-0016, United States",37.41129325,-122.0541698031,9304.528,57040.676,3,0

@@ -1,0 +1,8 @@
+"location","city","country","address","latitude","longitude","co2_kg","distance_km","plane trips_amount","train trips_amount"
+"Cordoba,  Argentina","Cordoba"," Argentina","Cordoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X5000, Argentina","-31.4173391","-64.183319","0.0","0.0","0","46"
+"Salta,  Argentina","Salta"," Argentina","Salta, Argentina","-25.1076701","-64.3494964","330.452","1403.585","1","0"
+"São Paulo,  Brazil","São Paulo"," Brazil","São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Southeast Region, Brazil","-23.5506507","-46.6333824","717.196","3872.324","1","0"
+"Montevideo,  Uruguay","Montevideo"," Uruguay","Montevideo, Uruguay","-34.9058916","-56.1913095","765.421","3354.411","2","0"
+"San Juan,  Argentina","San Juan"," Argentina","San Juan, Argentina","-30.7054363","-69.1988222","3215.374","12589.23","13","0"
+"Nagpur,  India","Nagpur"," India","Nagpur, Nagpur District, Maharashtra, India","21.1498134","79.0820556","5261.053","32398.447","1","0"
+"Autonomous City of Buenos Aires,  Argentina","Autonomous City of Buenos Aires"," Argentina","Autonomous City of Buenos Aires, Comuna 6, Autonomous City of Buenos Aires, Argentina","-34.6075682","-58.4370894","5847.527","24411.135","19","0"

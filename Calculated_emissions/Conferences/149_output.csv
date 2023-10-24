@@ -1,0 +1,12 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"La Bérarde, France",La Bérarde,France,"La Bérarde, France",44.9334711356677,6.29078217991262,0,0,0,0
+"Grenoble,  France",Grenoble, France,"Grenoble, Isère, Auvergne-Rhône-Alpes, Metropolitan France, France",45.1875602,5.7357819,3.114,104.162,0,1
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,48.082,1608.1,0,2
+"Innsbruck,  Austria",Innsbruck, Austria,"Innsbruck, Tyrol, Austria",47.2654296,11.3927685,112.654,3767.708,0,4
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,264.457,1058.044,1,0
+"Bonn,  Germany",Bonn, Germany,"Bonn, North Rhine-Westphalia, Germany",50.735851,7.10066,309.936,1296.168,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,529.511,2119.211,2,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,585.645,2413.122,2,0
+"Munich,  Germany",Munich, Germany,"Munich, Bavaria, Germany",48.1371079,11.5753822,1072.381,4308.374,4,0
+"Helsinki,  Finland",Helsinki, Finland,"Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, Finland",60.1674881,24.9427473,1546.824,8384.459,2,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,2063.131,12577.671,1,0

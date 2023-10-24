@@ -1,0 +1,28 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Garching,  Germany",Garching, Germany,"Garching, Bavaria, Germany",48.1371079,11.5753822,0,0,0,4
+"Bratislava,  Slovakia",Bratislava, Slovakia,"Bratislava, Region of Bratislava, Slovakia",48.1516988,17.1093063,48.39,1618.4,0,2
+"Vienna,  Austria",Vienna, Austria,"Vienna, Austria",48.2083537,16.3725042,62.738,2098.266,0,3
+"Berlin,  Germany",Berlin, Germany,"Berlin, 10117, Germany",52.5170365,13.3888599,146.517,4900.239,0,5
+"Budapest,  Hungary",Budapest, Hungary,"Budapest, V. kerület, Central Hungary, Hungary",47.4983815,19.0404707,275.235,1114.478,1,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,367.26,1596.308,1,0
+"Bucharest,  Romania",Bucharest, Romania,"Bucharest, Romania",44.4361414,26.1027202,480.442,2370.846,1,0
+"Stockholm,  Sweden",Stockholm, Sweden,"Stockholm, Stockholms kommun, Stockholm County, 111 29, Sweden",59.3251172,18.0710935,507.152,2600.227,1,0
+"Dublin,  Ireland",Dublin, Ireland,"Dublin, Dublin 1, Leinster, Ireland",53.3497645,-6.2602732,525.457,2751.257,1,0
+"Brussels,  Belgium",Brussels, Belgium,"Brussels, City of Brussels, Brussels-Capital, Belgium",50.8465573,4.351697,1749.629,7201.117,6,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,1949.55,8247.878,6,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,2164.117,11688.273,3,0
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands",52.3727598,4.8936041,2209.446,9282.04,7,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,2249.52,11965.277,4,0
+"Beijing,  China",Beijing, China,"Beijing, 100051, China",39.906217,116.3912757,2530.922,15477.046,1,0
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,2888.64,12838.217,7,0
+"Kuala Lumpur,  Malaysia",Kuala Lumpur, Malaysia,"Kuala Lumpur, Malaysia",3.1516964,101.6942371,3179.784,19498.708,1,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,3969.034,24390.493,1,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,4343.335,26500.761,2,0
+"Lisbon,  Portugal",Lisbon, Portugal,"Lisbon, Portugal",38.7077507,-9.1365919,4385.046,23699.835,6,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,6004.468,25559.484,18,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,10635.786,64872.53,5,0
+"Bangkok,  Thailand",Bangkok, Thailand,"Bangkok, Phra Borom Maha Ratchawang Subdistrict, Phra Nakhon District, Bangkok, 10200, Thailand",13.7544238,100.4930399,11476.6,70293.56,4,0
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, California, United States",34.0536909,-118.242766,15657.695,95998.414,5,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,18325.771,112325.542,6,0
+"São Paulo,  Brazil",São Paulo, Brazil,"São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Southeast Region, Brazil",-23.5506507,-46.6333824,22513.725,138072.901,7,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,31801.318,195847.226,6,0

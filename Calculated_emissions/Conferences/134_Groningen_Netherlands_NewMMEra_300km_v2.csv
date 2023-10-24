@@ -1,0 +1,67 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,0,0,0,7
+"Utrecht,  Netherlands",Utrecht, Netherlands,"Utrecht, Netherlands",52.0949753,5.109708,9.511,318.094,0,1
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.4811088666,11.005,368.054,0,1
+"The Hague,  Netherlands",The Hague, Netherlands,"The Hague, South Holland, Netherlands",52.0799838,4.3113461,11.842,396.041,0,1
+"Hanover,  Germany",Hanover, Germany,"Hanover, Region Hannover, Lower Saxony, Germany",52.3744779,9.7385532,13.928,465.821,0,1
+"Bonn,  Germany",Bonn, Germany,"Bonn, North Rhine-Westphalia, Germany",50.735851,7.10066,16.655,557.037,0,1
+"Siegen,  Germany",Siegen, Germany,"Siegen, Kreis Siegen-Wittgenstein, North Rhine-Westphalia, Germany",50.8749804,8.0227233,16.683,557.95,0,1
+"Dwingeloo,  Netherlands",Dwingeloo, Netherlands,"Dwingeloo, Westerveld, Drenthe, Netherlands",52.8333065,6.3669419,56.452,1888.016,0,21
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands",52.3727598,4.8936041,87.74,2934.456,0,10
+"Frankfurt,  Germany",Frankfurt, Germany,"Frankfurt, Hesse, Germany",50.1106444,8.6820917,206.222,750.19,1,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,233.249,891.009,1,0
+"Berlin,  Germany",Berlin, Germany,"Berlin, 10117, Germany",52.5170365,13.3888599,240.448,928.515,1,0
+"Oxford,  United Kingdom",Oxford, United Kingdom,"Oxford, Oxfordshire, South East England, England, United Kingdom",51.7520131,-1.2578499,274.046,1108.25,1,0
+"Warwick,  United Kingdom",Warwick, United Kingdom,"Warwick, Warwickshire, West Midlands, England, United Kingdom",52.2814519,-1.5815742,275.528,1116.011,1,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,313.617,1315.442,1,0
+"Geneva,  Switzerland",Geneva, Switzerland,"Geneva, Grand Genève, Geneva, Switzerland",46.2017559,6.1466014,360.66,1561.749,1,0
+"Annecy,  France",Annecy, France,"Annecy, Upper Savoy, Auvergne-Rhône-Alpes, Metropolitan France, France",45.8992348,6.1288847,373.52,1629.082,1,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,431.866,1953.668,1,0
+"Stockholm,  Sweden",Stockholm, Sweden,"Stockholm, Stockholms kommun, Stockholm County, 111 29, Sweden",59.3251172,18.0710935,432.619,1960.134,1,0
+"Krakow,  Poland",Krakow, Poland,"Krakow, Wieliczka County, Lesser Poland Voivodeship, Poland",50.0469432,19.9971534358,434.896,1979.688,1,0
+"Nice,  France",Nice, France,"Nice, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitan France, France",43.7009358,7.2683912,451.144,2119.229,1,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,468.096,1790.34,2,0
+"Urbino,  Italy",Urbino, Italy,"Urbino, Pesaro e Urbino, Marche, 61029, Italy",43.7262608,12.6363135,471.128,2290.852,1,0
+"Erlangen,  Germany",Erlangen, Germany,"Erlangen, Bavaria, Germany",49.5978157,11.0038064,511.743,2026.181,2,0
+"Milton Keynes,  United Kingdom",Milton Keynes, United Kingdom,"Milton Keynes, South East England, England, MK9 3AF, United Kingdom",52.0429797,-0.7589607,515.326,2044.942,2,0
+"Leicester,  United Kingdom",Leicester, United Kingdom,"Leicester, Leicestershire, East Midlands, England, LE1 5YA, United Kingdom",52.6361398,-1.1330789,522.026,2080.024,2,0
+"Manchester,  United Kingdom",Manchester, United Kingdom,"Manchester, Greater Manchester, North West England, England, United Kingdom",53.4794892,-2.2451148,571.927,2341.297,2,0
+"Salerno,  Italy",Salerno, Italy,"Salerno, Campania, Italy",40.41944165,15.3107562303,587.915,3136.631,1,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,606.179,3240.562,1,0
+"Algiers,  Algeria",Algiers, Algeria,"Algiers, Central Algiers, Sidi M'Hamed District, Algiers, 16007, Algeria",36.7753606,3.0601882,686.413,3697.15,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,703.33,2691.691,3,0
+"Granada,  Spain",Granada, Spain,"Granada, Comarca de la Vega de Granada, Granada, Andalusia, Spain",37.1734995,-3.5995337,721.867,3898.906,1,0
+"Brera,  Italy",Brera, Italy,"Brera, Cascina Ronco, Vedano Olona, Varese, Lombardy, 21043, Italy",45.7706425,8.8829619,770.167,3379.258,2,0
+"Strasbourg,  France",Strasbourg, France,"Strasbourg, Bas-Rhin, Grand Est, Metropolitan France, France",48.584614,7.7507127,785.255,3131.637,3,0
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,888.777,4122.419,2,0
+"Marseille,  France",Marseille, France,"Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, Metropolitan France, 13000, France",43.2961743,5.3699525,924.309,4427.573,2,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,1030.16,5336.633,2,0
+"Amman,  Jordan",Amman, Jordan,"Amman, 2062, Jordan",31.9515694,35.9239625,1210.725,6655.519,1,0
+"Triest,  Italy",Triest, Italy,"Triest, UTI Giuliana / Julijska MTU, Friuli-Venezia Giulia, Italy",45.6504806,13.7931263,1304.411,5936.68,3,0
+"City of Edinburgh,  United Kingdom",City of Edinburgh, United Kingdom,"City of Edinburgh, Scotland, United Kingdom",55.9533456,-3.1883749,1315.231,5579.905,4,0
+"Zeuthen,  Germany",Zeuthen, Germany,"Zeuthen, Dahme-Spreewald, Brandenburg, 15738, Germany",52.3508259,13.6293881,1731.859,6781.456,7,0
+"Philadelphia,  United States",Philadelphia, United States,"Philadelphia, Philadelphia County, Pennsylvania, United States",39.9527237,-75.1635262,1990.273,12126.097,1,0
+"Greenbelt,  United States",Greenbelt, United States,"Greenbelt, Good Luck Road, New Carrollton, Prince George's County, Maryland, 20706, United States",38.9937333,-76.883065797,2048.465,12486.767,1,0
+"Barcelona,  Spain",Barcelona, Spain,"Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",41.3828939,2.1774322,2082.508,10851.723,4,0
+"Kirtipur,  Nepal",Kirtipur, Nepal,"Kirtipur, Kathmandu, Bagmati Pradesh, 44618, Nepal",27.66765675,85.276215768,2243.815,13697.554,1,0
+"Gainesville,  United States",Gainesville, United States,"Gainesville, Alachua County, Florida, United States",29.6519684,-82.3249846,2402.95,14683.873,1,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,2510.273,15349.067,1,0
+"Tehran,  Iran",Tehran, Iran,"Tehran, بخش مرکزی شهرستان تهران, Tehran County, Iran",35.6892523,51.3896004,2628.769,15873.85,2,0
+"Lubbock,  United States",Lubbock, United States,"Lubbock, Lubbock County, Texas, United States",33.5635206,-101.879336,2669.116,16333.573,1,0
+"Kunming,  China",Kunming, China,"Kunming, Yunnan, China",24.8843019,102.8324209,2684.484,16428.825,1,0
+"Edinburg,  United States",Edinburg, United States,"Edinburg, Hidalgo County, Texas, United States",26.3013982,-98.1624501,2810.461,17209.635,1,0
+"Shanghai,  China",Shanghai, China,"Shanghai, Huangpu District, Shanghai, 200001, China",31.2322758,121.4692071,2849.739,17453.08,1,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,2917.326,17871.989,1,0
+"Johannesburg,  South Africa",Johannesburg, South Africa,"Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa",-26.205,28.049722,2961.418,18145.268,1,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,2986.153,18298.576,1,0
+"Rio de Janeiro,  Brazil",Rio de Janeiro, Brazil,"Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Southeast Region, Brazil",-22.9110137,-43.2093727,3171.903,19449.86,1,0
+"São Paulo,  Brazil",São Paulo, Brazil,"São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Southeast Region, Brazil",-23.5506507,-46.6333824,3245.083,19903.432,1,0
+"Honolulu,  United States",Honolulu, United States,"Maunakea Street, The Arts District, Chinatown, Honolulu, Honolulu County, Hawaii, 96817-4658, United States",21.3144218,-157.8597463,3774.503,23184.785,1,0
+"La Serena,  Chile",La Serena, Chile,"La Serena, Provincia de Elqui, Coquimbo Region, Chile",-29.902631,-71.2520253,3867.499,23761.175,1,0
+"State College,  United States",State College, United States,"State College, Centre County, Pennsylvania, United States",40.7944504,-77.8616386,4046.034,24658.089,2,0
+"Washington,  United States",Washington, United States,"Washington, District of Columbia, United States",38.8949924,-77.0365581,4108.009,25042.209,2,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,4186.829,17022.406,15,0
+"Mumbai,  India",Mumbai, India,"Mumbai, Mumbai Suburban, Maharashtra, India",19.0759899,72.8773928,4424.778,27005.55,2,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,5358.625,33003.2,1,0
+"Nanjing,  China",Nanjing, China,"Nanjing, Nanjing City, Jiangsu, 210008, China",32.0609736,118.7916458,8337.518,51047.128,3,0
+"Perth,  Australia",Perth, Australia,"Perth, City of Perth, Western Australia, 6000, Australia",-31.9527121,115.8604796,9129.65,56166.431,2,0

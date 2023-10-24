@@ -1,0 +1,38 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Fitzroy Island, Australia",Fitzroy Island,Australia,"Fitzroy Island, Australia",-16.9317038971,145.9894564695,0,0,0,0
+"Guizhou,  China",Guizhou, China,"Guizhou, China",27,107,2114.11,12893.637,1,0
+"Kirtipur,  Nepal",Kirtipur, Nepal,"Kirtipur, Kathmandu, Bagmati Pradesh, 44618, Nepal",27.66765675,85.276215768,2681.467,16410.126,1,0
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,2684.573,16429.382,1,0
+"Mumbai,  India",Mumbai, India,"Mumbai, Mumbai Suburban, Maharashtra, India",19.0759899,72.8773928,2917.357,17872.179,1,0
+"San Francisco,  United States",San Francisco, United States,"San Francisco, California, United States",37.7790262,-122.419906,3675.699,22572.396,1,0
+"Durban,  South Africa",Durban, South Africa,"Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4057, South Africa",-29.861825,31.009909,3688.382,22651.005,1,0
+"San Diego,  United States",San Diego, United States,"San Diego, San Diego County, California, United States",32.7174202,-117.1627728,3789.622,23278.493,1,0
+"Tel Aviv-Yafo,  Israel",Tel Aviv-Yafo, Israel,"Tel Aviv-Yafo, Tel Aviv Subdistrict, Tel Aviv District, Israel",32.0852997,34.7818064,4218.034,25933.795,1,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,4292.442,26394.978,1,0
+"College Station,  United States",College Station, United States,"College Station, Brazos County, Texas, United States",30.5955289,-96.3071042,4413.92,27147.904,1,0
+"Uppsala,  Sweden",Uppsala, Sweden,"Uppsala, Uppsala kommun, Uppsala County, 753 20, Sweden",59.8586126,17.6387436,4460.232,27434.948,1,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,4751.901,29242.715,1,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,4820.764,29669.529,1,0
+"Montreal,  Canada",Montreal, Canada,"Montreal, Urban agglomeration of Montreal, Montreal (06), Quebec, Canada",45.4972159,-73.6103642,4928.545,30337.56,1,0
+"Perth,  Australia",Perth, Australia,"Perth, City of Perth, Western Australia, 6000, Australia",-31.9527121,115.8604796,4931.596,27677.86,4,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,4943.597,30430.85,1,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,5039.181,31023.282,1,0
+"Taipei,  Taiwan",Taipei, Taiwan,"Taipei, Taiwan",25.0375198,121.5636796,5295.207,32190.832,3,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,6902.232,42151.203,3,0
+"Davis,  United States",Davis, United States,"Davis, Yolo County, California, United States",38.545379,-121.7445835,7400.374,45448.344,2,0
+"Santa Barbara,  United States",Santa Barbara, United States,"Santa Barbara, Santa Barbara County, California, United States",34.4221319,-119.7026673,7454.47,45783.632,2,0
+"Seattle,  United States",Seattle, United States,"Seattle, King County, Washington, United States",47.6038321,-122.3300624,7497.131,46048.046,2,0
+"Riverside,  United States",Riverside, United States,"Riverside, Riverside County, California, United States",33.9533546,-117.3961623,7582.167,46575.1,2,0
+"Tempe,  United States",Tempe, United States,"Tempe, Maricopa County, Arizona, United States",33.4255056,-111.9400091,7897.361,48528.678,2,0
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.4811088666,9653.968,59416.164,2,0
+"Pittsburgh,  United States",Pittsburgh, United States,"Pittsburgh, Allegheny County, Pennsylvania, United States",40.4416941,-79.9900861,9684.714,59606.723,2,0
+"Pisa,  Italy",Pisa, Italy,"Pisa, Tuscany, Italy",43.7159395,10.4018624,9686.984,59620.797,2,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,9804.083,60346.58,2,0
+"Greenbelt,  United States",Greenbelt, United States,"Greenbelt, Good Luck Road, New Carrollton, Prince George's County, Maryland, 20706, United States",38.9937333,-76.883065797,9879.601,60814.638,2,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,10075.644,62029.718,2,0
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,14303.838,88026.487,3,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,14802.327,91116.129,3,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,15366.191,83667.096,18,0
+"Austin,  United States",Austin, United States,"Austin, Travis County, Texas, United States",30.2711286,-97.7436995,17476.32,107479.933,4,0
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,19689.61,121197.948,4,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,19857.249,122027.325,5,0

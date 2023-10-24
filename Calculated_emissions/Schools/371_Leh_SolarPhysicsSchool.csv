@@ -1,0 +1,24 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Leh, India",Leh,India,"Leh, India",34.1477390046,77.5568658821,0,0,0,0
+"Varanasi,  India",Varanasi, India,"Varanasi, Sadar, Varanasi, Uttar Pradesh, 221007, India",25.3356491,83.0076292,926.712,4448.213,2,0
+"Ahmedabad,  India",Ahmedabad, India,"Ahmedabad, Ahmadabad City Taluka, Ahmedabad District, Gujarat, 380001, India",23.0216238,72.5797068,1028.846,5325.346,2,0
+"Thiruvananthapuram,  India",Thiruvananthapuram, India,"Thiruvananthapuram, Kerala, 695001, India",8.5241122,76.9360573,1041.415,5703.649,1,0
+"Nainital,  India",Nainital, India,"Nainital, India",29.2031392,79.4176945,1133.016,4625.847,4,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,1235.377,6950.495,1,0
+"Kolkata,  India",Kolkata, India,"Kolkata, Howrah, Thakurpukur Maheshtala, Howrah, West Bengal, 711101, India",22.5414185,88.3576912439,1244.104,6661.784,2,0
+"Stockholm,  Sweden",Stockholm, Sweden,"Stockholm, Stockholms kommun, Stockholm County, 111 29, Sweden",59.3251172,18.0710935,1677.216,10185.762,1,0
+"Prague,  Czechia",Prague, Czechia,"Prague, Czechia",50.0596288,14.4464592733,1752.1,10649.893,1,0
+"Oslo,  Norway",Oslo, Norway,"Oslo, Norway",59.9133301,10.7389701,1811.119,11015.697,1,0
+"Windisch,  Switzerland",Windisch, Switzerland,"Windisch, Bezirk Brugg, Aargau, 5210, Switzerland",47.4793472,8.2179918,1911.88,11640.214,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,2037.039,12415.952,1,0
+"Sheffield,  United Kingdom",Sheffield, United Kingdom,"Sheffield, Yorkshire and the Humber, England, United Kingdom",53.3806626,-1.4702278,2079.541,12679.377,1,0
+"Warwick,  United Kingdom",Warwick, United Kingdom,"Warwick, Warwickshire, West Midlands, England, United Kingdom",52.2814519,-1.5815742,2091.95,12756.294,1,0
+"Exeter,  United Kingdom",Exeter, United Kingdom,"Exeter, Devon, South West England, England, United Kingdom",50.725562,-3.5269108,2149.324,13111.894,1,0
+"Belfast,  United Kingdom",Belfast, United Kingdom,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",54.5964411,-5.9302761,2158.392,13168.097,1,0
+"Nsukka,  Nigeria",Nsukka, Nigeria,"Nsukka, Enugu, 410001, Nigeria",6.8561,7.3927,2538.038,15521.15,1,0
+"Mumbai,  India",Mumbai, India,"Mumbai, Mumbai Suburban, Maharashtra, India",19.0759899,72.8773928,2594.602,13929.023,4,0
+"Pune,  India",Pune, India,"Pune, Pune District, Maharashtra, India",18.521428,73.8544541,2646.794,14226.026,4,0
+"Graz,  Austria",Graz, Austria,"Graz, Styria, Austria",47.0708678,15.4382786,3482.53,21165.477,2,0
+"Princeton,  United States",Princeton, United States,"Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958,3665.431,22508.754,1,0
+"Potomac,  United States",Potomac, United States,"Potomac, Montgomery County, Maryland, United States",39.01796535,-77.1957744386,3736.101,22946.766,1,0
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,13838.649,75381.67,16,0

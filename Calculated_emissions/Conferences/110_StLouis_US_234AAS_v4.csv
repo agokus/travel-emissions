@@ -1,0 +1,80 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"St. Louis,  United States",St. Louis, United States,"St. Louis, City of Saint Louis, Missouri, United States",38.6529545,-90.2411165602464,0,0,0,36
+"Jackson,  United States",Jackson, United States,"Jackson, Hinds County, Mississippi, United States",32.2990021,-90.1847691,331.202,1407.514,1,0
+"Columbia,  United States",Columbia, United States,"Columbia, Richland County, South Carolina, United States",34.0007493,-81.0343313,429.732,1935.335,1,0
+"Nashville,  United States",Nashville, United States,"Nashville, Davidson County, Tennessee, United States",36.1622767,-86.7742984,437.486,1630.853,2,0
+"Montpelier,  United States",Montpelier, United States,"Montpelier, Washington County, Vermont, 05602, United States",44.2602164,-72.575114,596.289,3184.282,1,0
+"Oklahoma City,  United States",Oklahoma City, United States,"Oklahoma City, Oklahoma County, Oklahoma, 73104:73106, United States",35.4729886,-97.5170536,688.892,2953.713,2,0
+"Clemson,  United States",Clemson, United States,"Clemson, Pickens County, South Carolina, United States",34.6850749,-82.8364111,727.264,3154.622,2,0
+"Morgantown,  United States",Morgantown, United States,"Morgantown, Monongalia County, West Virginia, United States",39.6296809,-79.9559437,804.189,3557.395,2,0
+"Lousiana Memorial Plaza,  United States",Lousiana Memorial Plaza, United States,"Lousiana Memorial Plaza, Downtown Development District, Baton Rouge, East Baton Rouge Parish, Louisiana, United States",30.44391255,-91.1902687969947,823.485,3658.424,2,0
+"Mexico City,  Mexico",Mexico City, Mexico,"Mexico City, Mexico",19.4326296,-99.1331785,845.698,4603.312,1,0
+"Dover,  United States",Dover, United States,"Dover, Kent County, Delaware, United States",39.158168,-75.5243682,999.958,5077.253,2,0
+"Bellingham,  United States",Bellingham, United States,"Bellingham, Whatcom County, Washington, United States",48.7544012,-122.4788361,1023.963,5605.533,1,0
+"Providence,  United States",Providence, United States,"Providence, Providence County, Rhode Island, United States",41.8239891,-71.4128343,1219.046,6519.19,2,0
+"Bogota,  Colombia",Bogota, Colombia,"Bogota, Bogota Capital District, 11001, Colombia",4.6533326,-74.083652,1361.136,8226.694,1,0
+"Anchorage,  United States",Anchorage, United States,"Anchorage, Alaska, United States",61.2163129,-149.894852,1559.937,9458.867,1,0
+"Des Moines,  United States",Des Moines, United States,"Des Moines, Polk County, Iowa, United States",41.5910323,-93.6046655,1615.393,6146.649,7,0
+"Frankfort,  United States",Frankfort, United States,"Frankfort, Franklin County, Kentucky, 40601, United States",38.2009055,-84.8732836,1686.931,6519.388,7,0
+"Pullman,  United States",Pullman, United States,"Pullman, Whitman County, Washington, United States",46.7304268,-117.173895,1738.468,9471.264,2,0
+"Montreal,  Canada",Montreal, Canada,"Montreal, Urban agglomeration of Montreal, Montreal (06), Quebec, Canada",45.4972159,-73.6103642,1758.27,9378.735,3,0
+"Indianapolis,  United States",Indianapolis, United States,"Indianapolis, Marion County, Indiana, United States",39.7683331,-86.1583502,1837.952,6657.673,9,0
+"Seattle,  United States",Seattle, United States,"Seattle, King County, Washington, United States",47.6038321,-122.3300624,2023.806,11075.457,2,0
+"Salem,  United States",Salem, United States,"Salem, Marion County, Oregon, United States",44.9391565,-123.033121,2039.706,11164.847,2,0
+"Lansing,  United States",Lansing, United States,"Lansing, Ingham County, Michigan, United States",42.7337712,-84.5553805,2197.924,9221.715,7,0
+"Topeka,  United States",Topeka, United States,"Topeka, Shawnee County, Kansas, United States",39.049011,-95.677556,2202.731,8593.639,9,0
+"Ann Arbor,  United States",Ann Arbor, United States,"Ann Arbor, Washtenaw County, Michigan, United States",42.2681569,-83.7312291,2254.449,9517.673,7,0
+"Raleigh,  United States",Raleigh, United States,"Raleigh, Wake County, North Carolina, United States",35.7803977,-78.6390989,2267.926,10700.962,5,0
+"Madison,  United States",Madison, United States,"Madison, Dane County, Wisconsin, United States",43.074761,-89.3837613,2277.204,8983.571,9,0
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands",52.3727598,4.8936041,2298.576,14036.965,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,2309.705,14105.94,1,0
+"Brussels,  Belgium",Brussels, Belgium,"Brussels, City of Brussels, Brussels-Capital, Belgium",50.8465573,4.351697,2314.961,14138.518,1,0
+"Saint Paul,  United States",Saint Paul, United States,"Saint Paul, Ramsey County, Minnesota, United States",44.9497487,-93.0931028,2422.928,10399.809,7,0
+"Little Rock,  United States",Little Rock, United States,"Little Rock, Pulaski County, Arkansas, United States",34.7464809,-92.2895948,2428.013,9407.775,10,0
+"Geneva,  Switzerland",Geneva, Switzerland,"Geneva, Grand Genève, Geneva, Switzerland",46.2017559,6.1466014,2437.477,14897.874,1,0
+"Philadelphia,  United States",Philadelphia, United States,"Philadelphia, Philadelphia County, Pennsylvania, United States",39.9527237,-75.1635262,2535.677,13000.444,5,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,2659.815,16275.931,1,0
+"State College,  United States",State College, United States,"State College, Centre County, Pennsylvania, United States",40.7944504,-77.8616386,2736.483,12969.731,6,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,2751.097,16841.698,1,0
+"Salt Lake City,  United States",Salt Lake City, United States,"Salt Lake City, Salt Lake County, Utah, 84139, United States",40.7596198,-111.8867975,2770.904,14932.295,4,0
+"Atlanta,  United States",Atlanta, United States,"Atlanta, Fulton County, Georgia, United States",33.7489924,-84.3902644,2795.665,12024.793,8,0
+"Carson City,  United States",Carson City, United States,"Carson City, Nevada, United States",39.1649125,-119.7666496,2800.86,15292.848,3,0
+"Columbus,  United States",Columbus, United States,"Columbus, Franklin County, Ohio, United States",39.9622601,-83.0007065,3053.54,12721.751,10,0
+"Concord,  United States",Concord, United States,"Concord, Merrimack County, New Hampshire, United States",43.207178,-71.537476,3072.327,16438.595,5,0
+"Vancouver,  Canada",Vancouver, Canada,"Vancouver, District of North Vancouver, British Columbia, Canada",49.2608724,-123.1139529,3132.496,17157.328,3,0
+"Missoula,  United States",Missoula, United States,"Missoula, Missoula County, Montana, United States",46.8701049,-113.995267,3152.036,17101.188,4,0
+"Baghdad,  Iraq",Baghdad, Iraq,"Baghdad, Al-Karkh Central Subdistrict, Al-Karkh District, Baghdad Governorate, Iraq",33.3024309,44.3787992,3500.985,21489.516,1,0
+"Dallas,  United States",Dallas, United States,"Dallas, Dallas County, Texas, United States",32.7762719,-96.7968559,3594.261,15879.521,9,0
+"Rochester,  United States",Rochester, United States,"Rochester, Monroe County, New York, United States",43.157285,-77.615214,3813.484,18708.647,8,0
+"New Haven,  United States",New Haven, United States,"New Haven, New Haven County, Connecticut, United States",41.3082138,-72.9250518,3943.927,20980.593,7,0
+"New Delhi,  India",New Delhi, India,"New Delhi, Delhi, India",28.6138954,77.2090057,4042.996,24848.908,1,0
+"Houston,  United States",Houston, United States,"Houston, Harris County, Texas, United States",29.7589382,-95.3676974,4133.627,19702.818,9,0
+"Hong Kong Island,  China",Hong Kong Island, China,"Hong Kong Island, Hong Kong, China",22.2793278,114.1628131,4158.489,25564.735,1,0
+"Austin,  United States",Austin, United States,"Austin, Travis County, Texas, United States",30.2711286,-97.7436995,4266.385,20842.959,9,0
+"Albany,  United States",Albany, United States,"Albany, Albany County, New York, 12207, United States",42.6511674,-73.754968,4383.018,23270.316,8,0
+"Ithaca,  United States",Ithaca, United States,"Ithaca, Ithaca Town, Tompkins County, New York, United States",42.4396039,-76.4968019,4418.959,22153.283,9,0
+"Tallahassee,  United States",Tallahassee, United States,"Tallahassee, Leon County, Florida, United States",30.4380832,-84.2809332,4509.634,21176.76,10,0
+"Albuquerque,  United States",Albuquerque, United States,"Albuquerque, Bernalillo County, New Mexico, United States",35.0841034,-106.650985,4551.186,24227.301,8,0
+"Tuscaloosa,  United States",Tuscaloosa, United States,"Tuscaloosa, Tuscaloosa County, Alabama, United States",33.2095614,-87.5675258,4643.315,19412.512,15,0
+"Socorro,  United States",Socorro, United States,"Socorro, Socorro County, New Mexico, United States",34.0572858,-106.8930799,4728.197,25234.61,8,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,4789.952,25244.054,9,0
+"Chicago,  United States",Chicago, United States,"Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212,5378.352,20239.864,24,0
+"Lynchburg,  United States",Lynchburg, United States,"Lynchburg, Virginia, United States",37.4137536,-79.1422464,6477.201,29298.204,15,0
+"Charlottesville,  United States",Charlottesville, United States,"Charlottesville, Virginia, United States",38.029306,-78.4766781,6640.295,30698.875,15,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,6707.873,41156.209,2,0
+"Flagstaff,  United States",Flagstaff, United States,"Flagstaff, Coconino County, Arizona, United States",35.1987522,-111.6518229,9345.56,50465.473,13,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, 85701, United States",32.2228765,-110.9748477,10393.246,56218.503,14,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,10627.175,65238.461,3,0
+"Berlin,  Germany",Berlin, Germany,"Berlin, 10117, Germany",52.5170365,13.3888599,12267.031,74983.016,5,0
+"Washington,  United States",Washington, United States,"Washington, District of Columbia, United States",38.8950368,-77.0365427,14095.662,68397.69,30,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,14220.603,87510.596,3,0
+"Trenton,  United States",Trenton, United States,"Trenton, Mercer County, New Jersey, United States",40.2170575,-74.7429463,14955.867,77540.491,29,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,20537.43,109974.725,33,0
+"Seoul,  South Korea",Seoul, South Korea,"Seoul, Nowon-gu, South Korea",37.5666791,126.9782914,20973.332,128735.169,6,0
+"Denver,  United States",Denver, United States,"Denver, Denver County, Colorado, United States",39.7392364,-104.9848623,21099.565,107485.032,42,0
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,22148.996,135183.351,10,0
+"Honolulu,  United States",Honolulu, United States,"Honolulu, Honolulu County, Hawaii, United States",21.304547,-157.855676,28321.618,172812.413,13,0
+"San Diego,  United States",San Diego, United States,"San Diego, San Diego County, California, 92101, United States",32.7174202,-117.1627728,34076.638,185984.572,37,0
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, Los Angeles County, California, United States",34.0536909,-118.242766,34599.469,188923.965,37,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,36336.43,178662.505,76,0
+"San Francisco,  United States",San Francisco, United States,"San Francisco, California, United States",37.7790262,-122.419906,37892.23,207436.094,37,0

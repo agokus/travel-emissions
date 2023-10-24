@@ -1,0 +1,15 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Autrans, France",Autrans,France,"Autrans, France",45.1750121392437,5.54614347560707,0,0,0,0
+"Grenoble,  France",Grenoble, France,"Grenoble, Isère, Auvergne-Rhône-Alpes, Metropolitan France, France",45.1875602,5.7357819,4.117,137.692,0,5
+"Clermont-Ferrand,  France",Clermont-Ferrand, France,"Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, Metropolitan France, France",45.7774551,3.0819427,12.177,407.266,0,1
+"Milan,  Italy",Milan, Italy,"Milan, Lombardy, Italy",45.4668,9.1905,17.058,570.487,0,1
+"Zurich,  Switzerland",Zurich, Switzerland,"Zurich, District Zurich, Zurich, Switzerland",47.3744489,8.5410422,19.913,665.984,0,1
+"Nancy,  France",Nancy, France,"Nancy, Meurthe-et-Moselle, Grand Est, Metropolitan France, France",48.6937223,6.1834097,23.404,782.755,0,1
+"Padua,  Italy",Padua, Italy,"Padua, Padova, Veneto, Italy",45.4077172,11.8734455,59.096,1976.443,0,2
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,84.99,2842.468,0,3
+"Centre for Fine Arts,  Belgium",Centre for Fine Arts, Belgium,"Centre for Fine Arts, Brussels, 23, Rue Ravenstein - Ravensteinstraat, Quartier Royal - Koninklijke Wijk, Brussels, City of Brussels, Brussels-Capital, 1000, Belgium",50.84373495,4.35977919630637,304.515,1267.782,1,0
+"Prague,  Czechia",Prague, Czechia,"Prague, Czechia",50.0596288,14.446459273258,389.567,1713.106,1,0
+"Yebes,  Spain",Yebes, Spain,"Yebes, Guadalajara, Castile-La Mancha, 19141, Spain",40.5331907,-3.1107441,396.978,1751.905,1,0
+"Exeter,  United Kingdom",Exeter, United Kingdom,"Exeter, Devon, South West England, England, United Kingdom",50.725562,-3.5269108,411.056,1825.62,1,0
+"Krakow,  Poland",Krakow, Poland,"Krakow, Wieliczka County, Lesser Poland Voivodeship, Poland",50.0469432,19.9971534358367,485.24,2412.047,1,0
+"Toruń,  Poland",Toruń, Poland,"Toruń, Toruń County, Kuyavian-Pomeranian Voivodeship, Poland",53.0145361,18.5965831446516,503.189,2566.197,1,0

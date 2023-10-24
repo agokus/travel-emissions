@@ -1,0 +1,24 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Taipei, Taiwan",Taipei, Taiwan,"Hanzhong Street, Ximen Village, Wanhua District, Ximending Commercial Area, Taipei, 108, Taiwan",25.0452747,121.5078001,0,0,0,38
+"Taoyuan City,  Taiwan",Taoyuan City, Taiwan,"Taoyuan City, Taiwan",24.9929995,121.3010003,8.051,269.277,0,5
+"Hsinchu,  Taiwan",Hsinchu, Taiwan,"Hsinchu, Taiwan Province, Taiwan",24.8066333,120.9686833,31.221,1044.188,0,8
+"Shanghai,  China",Shanghai, China,"Shanghai, China",31.2252985,121.4890497,325.218,1376.179,1,0
+"Hong Kong Island,  China",Hong Kong Island, China,"Hong Kong Island, Hong Kong, China",22.2793278,114.1628131,373.159,1627.194,1,0
+"Hanoi,  Vietnam",Hanoi, Vietnam,"Hanoi, Vietnam",21.0294498,105.8544441,622.574,3333.861,1,0
+"Saitama Prefecture,  Japan",Saitama Prefecture, Japan,"Saitama Prefecture, Japan",35.9754168,139.4160114,772.265,4185.704,1,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,775.998,4206.949,1,0
+"Mito,  Japan",Mito, Japan,"Mito, Ibaraki Prefecture, Japan",36.3657792,140.4713933,808.719,4393.147,1,0
+"Ho Chi Minh City,  Vietnam",Ho Chi Minh City, Vietnam,"Ho Chi Minh City, Vietnam",10.7715512,106.6983801,820.412,4459.689,1,0
+"Delhi,  India",Delhi, India,"Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110006, India",28.6517178,77.2219388,1451.337,8785.762,1,0
+"Nanjing City,  China",Nanjing City, China,"Nanjing City, Jiangsu, China",32.0615601,118.7915171,2646.708,11571.494,7,0
+"Hilo,  United States",Hilo, United States,"Hilo, Hawaiʻi County, Hawaii, United States",19.7073734,-155.0815803,2761.833,16908.24,1,0
+"Seoul,  South Korea",Seoul, South Korea,"Seoul, Nowon-gu, South Korea",37.5666791,126.9782914,2792.039,14843.577,5,0
+"Jaipur,  India",Jaipur, India,"Jaipur, Jaipur Municipal Corporation, Jaipur Tehsil, Jaipur, Rajasthan, 302001, India",26.9154576,75.8189817,3005.767,18210.49,2,0
+"Bonn,  Germany",Bonn, Germany,"Bonn, North Rhine-Westphalia, Germany",50.735851,7.10066,3077.399,18864.122,1,0
+"Liverpool,  United Kingdom",Liverpool, United Kingdom,"Liverpool, North West England, England, United Kingdom",53.4071991,-2.99168,3194.335,19588.896,1,0
+"École normale supérieure Paris-Saclay,  France",École normale supérieure Paris-Saclay, France,"École normale supérieure Paris-Saclay, 4, Avenue des Sciences, Le Moulon, Campus Urbain de Paris-Saclay, Gif-sur-Yvette, Palaiseau, Essonne, Ile-de-France, Metropolitan France, 91190, France",48.71291565,2.1647796064,3212.647,19702.388,1,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,3553.227,21813.309,1,0
+"Granada,  Spain",Granada, Spain,"Granada, Comarca de la Vega de Granada, Granada, Andalusia, Spain",37.1734995,-3.5995337,3593.557,22063.281,1,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,5777.961,30999.462,9,0
+"Manchester,  United Kingdom",Manchester, United Kingdom,"Manchester, Greater Manchester, North West England, England, United Kingdom",53.4794892,-2.2451148,6361.306,39008.186,2,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,72687.402,446744.075,18,0

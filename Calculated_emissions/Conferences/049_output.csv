@@ -1,0 +1,23 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Potomac, Maryland, United States",Potomac,United States,"Potomac, Maryland, United States",39.0172672471757,-77.2093750109518,0,0,0,0
+"University of Maryland,  United States",University of Maryland, United States,"University of Maryland, College Park, University Boulevard East, Berwyn, College Park, Prince George's County, Maryland, 20740, United States",38.99203005,-76.9461029019905,1.302,43.531,0,1
+"Hanover,  United States",Hanover, United States,"Hanover, York County, Pennsylvania, 17331, United States",39.8063247,-76.9842735,5.354,179.05,0,1
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,7.041,235.473,0,2
+"Greenbelt,  United States",Greenbelt, United States,"Greenbelt, Good Luck Road, New Carrollton, Prince George's County, Maryland, 20706, United States",38.9937333,-76.883065797021,25.981,868.942,0,16
+"Washington,  United States",Washington, United States,"Washington, District of Columbia, United States",38.8949924,-77.0365581,31.33,1047.81,0,27
+"Clearview,  United States",Clearview, United States,"Clearview, Ohio County, West Virginia, United States",40.1411829,-80.6881348,186.719,648.574,1,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,189.321,662.127,1,0
+"Mansfield,  United States",Mansfield, United States,"Mansfield, Richland County, Ohio, United States",40.75839,-82.5154471,250.811,986.597,1,0
+"Ann Arbor,  United States",Ann Arbor, United States,"Ann Arbor, Washtenaw County, Michigan, United States",42.2681569,-83.7312291,314.103,1317.984,1,0
+"Montreal,  Canada",Montreal, Canada,"Montreal, Urban agglomeration of Montreal, Montreal (06), Quebec, Canada",45.4972159,-73.6103642,359.688,1556.659,1,0
+"Chicago,  United States",Chicago, United States,"Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212,420.366,1874.365,1,0
+"New Haven,  United States",New Haven, United States,"New Haven, New Haven County, Connecticut, United States",41.29843435,-72.9310234270791,463.993,1768.964,2,0
+"Minneapolis,  United States",Minneapolis, United States,"Minneapolis, Hennepin County, Minnesota, United States",44.9772995,-93.2654692,557.056,2961.022,1,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,611.275,2547.32,2,0
+"Nashville,  United States",Nashville, United States,"Nashville, Kingman County, Kansas, United States",37.4416863,-98.4225773,689.773,3716.271,1,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,914.265,3807.115,3,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,1138.97,6252.106,1,0
+"Irvine,  United States",Irvine, United States,"Irvine, Orange County, California, United States",33.6856969,-117.8259819,1239.88,7311.913,1,0
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Derby Street, Claremont, Berkeley, Alameda County, California, 94720-1076, United States",37.8753497,-122.239633649188,1287.178,7768.301,1,0
+"Boulder,  United States",Boulder, United States,"Boulder, Boulder County, Colorado, United States",40.0149856,-105.270545,3523.946,19206.827,4,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,18618.824,109951.428,15,0

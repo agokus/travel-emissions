@@ -1,0 +1,21 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Kodaikanal, India",Kodaikanal,India,"Kodaikanal, India",10.2379380078,77.4889754282,0,0,0,0
+"Kozhikode,  India",Kozhikode, India,"Kozhikode, Kozhikode district, Kerala, 673001, India",11.2450558,75.7754716,13.032,435.839,0,1
+"Thiruvananthapuram,  India",Thiruvananthapuram, India,"Thiruvananthapuram, Kerala, 695001, India",8.5241122,76.9360573,23.85,797.663,0,2
+"Chennai,  India",Chennai, India,"Chennai, Chennai District, Tamil Nadu, India",13.0836939,80.270186,26.232,877.338,0,1
+"Kalapet,  India",Kalapet, India,"Kalapet, Ozhukarai Taluk, Puducherry district, Puducherry, 605014, India",12.030844,79.8648402,39.19,1310.703,0,2
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,328.805,10996.813,0,18
+"Bhubaneswar,  India",Bhubaneswar, India,"Bhubaneswar, Master Canteen Chowk, Ward 41, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751006, India",20.2667774,85.8435592,539.457,2860.875,1,0
+"Ahmedabad,  India",Ahmedabad, India,"Ahmedabad, Ahmedabad City Taluka, Ahmedabad District, Gujarat, 380001, India",23.0216238,72.5797068,568.974,3028.846,1,0
+"Udaipur,  India",Udaipur, India,"Udaipur, Rajasthan, 313001, India",24.578721,73.6862571,614.812,3289.69,1,0
+"Rewa,  India",Rewa, India,"Rewa, Madhya Pradesh, India",24.75926685,81.6550002108,625.128,3348.396,1,0
+"Pilani,  India",Pilani, India,"Pilani, Surajgarh Tehsil, Jhunjhunun, Rajasthan, 333031, India",28.3622661,75.6042342,748.523,4050.596,1,0
+"New Delhi,  India",New Delhi, India,"New Delhi, Delhi, India",28.6138954,77.2090057,755.081,4087.912,1,0
+"Delhi,  India",Delhi, India,"Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110006, India",28.6517178,77.2219388,756.552,4096.286,1,0
+"Haridwar,  India",Haridwar, India,"Haridwar, Hardwar, Haridwar, Uttarakhand, 249401, India",29.9384473,78.1452985,807.15,4384.221,1,0
+"Chandigarh,  India",Chandigarh, India,"Kaushal Hospital, Chandigarh, Jan Marg, Sector 42, Ward 10, Kajheri, S.A.S. Nagar (Mohali) Tahsil, Chandigarh, 160022, India",30.722908,76.7447786,837.88,4559.097,1,0
+"Indore,  India",Indore, India,"Indore, Madhya Pradesh, 452001, India",22.7203616,75.8681996,1062.707,5596.089,2,0
+"Pune,  India",Pune, India,"Pune, Pune District, Maharashtra, India",18.521428,73.8544541,1312.392,6005.229,3,0
+"Kolkata,  India",Kolkata, India,"Kolkata, Howrah, Thakurpukur Maheshtala, Howrah, West Bengal, 711101, India",22.5414185,88.3576912439,2666.21,14336.515,4,0
+"Mumbai,  India",Mumbai, India,"Mumbai, Mumbai Suburban, Maharashtra, India",19.0759899,72.8773928,3225.086,15410.664,7,0
+"Nainital,  India",Nainital, India,"Nainital, Uttarakhand, India",29.3897286,79.4528632204,6310.199,34237.235,8,0

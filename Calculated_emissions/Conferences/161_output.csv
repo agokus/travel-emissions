@@ -1,0 +1,46 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Canton Orford, Canada",Orford,Canada,"Canton Orford, Canada",45.3633178429,-72.2014638338,0,0,0,0
+"Dorval,  Canada",Dorval, Canada,"Dorval, Urban agglomeration of Montreal, Montreal (06), Quebec, Canada",45.4453082,-73.7510888,7.428,248.438,0,1
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,20.327,679.837,0,1
+"Fredericton,  Canada",Fredericton, Canada,"Fredericton, Lincoln Parish, Sunbury County, New Brunswick, Canada",45.94795935,-66.653362359,26.007,869.787,0,1
+"Montreal,  Canada",Montreal, Canada,"Montreal, Urban agglomeration of Montreal, Montreal (06), Quebec, Canada",45.4972159,-73.6103642,47.795,1598.478,0,7
+"Ottawa,  Canada",Ottawa, Canada,"Ottawa, (Old) Ottawa, Ottawa, Eastern Ontario, Ontario, K2P 1B7, Canada",45.4121213,-75.6902639,49.346,1650.363,0,3
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,353.465,1524.081,1,0
+"Lanham,  United States",Lanham, United States,"Lanham, Glenn Dale, Prince George's County, Maryland, 20706, United States",38.965365,-76.8417926542,369.241,1606.682,1,0
+"Alexandria,  United States",Alexandria, United States,"Alexandria, Virginia, United States",38.8051095,-77.0470229,378.401,1654.641,1,0
+"Berrien Springs,  United States",Berrien Springs, United States,"Berrien Springs, Oronoko Charter Township, Berrien County, Michigan, 49103, United States",41.9464336,-86.3388965,483.39,2396.161,1,0
+"Dallas,  United States",Dallas, United States,"Dallas, Dallas County, Texas, United States",32.7762719,-96.7968559,925.68,5052.974,1,0
+"San Antonio,  United States",San Antonio, United States,"San Antonio, Bexar County, Texas, United States",29.4246002,-98.4951405,1057.944,5796.573,1,0
+"Greenbelt,  United States",Greenbelt, United States,"Greenbelt, Good Luck Road, New Carrollton, Prince George's County, Maryland, 20706, United States",38.9937333,-76.883065797,1106.381,4813.011,3,0
+"Penticton,  Canada",Penticton, Canada,"Penticton, Regional District of Okanagan-Similkameen, British Columbia, Canada",49.494891,-119.594421,1222.27,7078.948,1,0
+"Stanford,  United States",Stanford, United States,"Stanford, Palo Alto, Santa Clara County, California, United States",37.4265407,-122.1702925841,1387.066,8387.409,1,0
+"County Durham,  United Kingdom",County Durham, United Kingdom,"County Durham, North East England, England, United Kingdom",54.666667,-1.75,1621.69,9841.61,1,0
+"Birmingham,  United Kingdom",Birmingham, United Kingdom,"Birmingham, West Midlands Combined Authority, West Midlands, England, United Kingdom",52.4796992,-1.9026911,1644.539,9983.229,1,0
+"Bergen,  Norway",Bergen, Norway,"Bergen, Vestland, Norway",60.3943055,5.3259192,1688.182,10253.727,1,0
+"Orléans,  France",Orléans, France,"Orléans, Loiret, Centre-Loire Valley, Metropolitan France, France",47.9027336,1.9086066,1789.911,10884.251,1,0
+"Toulouse,  France",Toulouse, France,"Toulouse, Haute-Garonne, Occitania, Metropolitan France, France",43.6044622,1.4442469,1851.486,11265.891,1,0
+"Roquetes,  Spain",Roquetes, Spain,"Roquetes, Baix Ebre, Tarragona, Catalonia, 43520, Spain",40.8203657,0.50343,1879.886,11441.918,1,0
+"Strasbourg,  France",Strasbourg, France,"Strasbourg, Bas-Rhin, Grand Est, Metropolitan France, France",48.584614,7.7507127,1902.549,11582.379,1,0
+"Karlsruhe,  Germany",Karlsruhe, Germany,"Karlsruhe, Baden-Württemberg, Germany",49.0068705,8.4034195,1908.823,11621.265,1,0
+"Freiburg im Breisgau,  Germany",Freiburg im Breisgau, Germany,"Freiburg im Breisgau, Baden-Württemberg, Germany",47.9960901,7.8494005,1914.803,11658.332,1,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,1942.926,11832.635,1,0
+"Helsinki,  Finland",Helsinki, Finland,"Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, Finland",60.1674881,24.9427473,2007.775,12234.575,1,0
+"Ondřejov,  Czechia",Ondřejov, Czechia,"Ondřejov, okres Praha-východ, Central Bohemia, 25165, Czechia",49.9045659,14.7831213,2021.508,12319.693,1,0
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,2053.805,12519.867,1,0
+"Siedlce,  Poland",Siedlce, Poland,"Siedlce, Siedlce County, Masovian Voivodeship, Poland",52.1615938,22.281253303,2119.701,12928.293,1,0
+"Catania,  Italy",Catania, Italy,"Catania, Sicily, Italy",37.5022355,15.08738,2281.645,13932.023,1,0
+"Athens,  Greece",Athens, Greece,"Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 10667, Greece",37.9839412,23.7283052,2460.545,15040.847,1,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,2688.927,16246.715,2,0
+"Chiba,  Japan",Chiba, Japan,"Chiba, Chiba Prefecture, Japan",35.609985,140.118126,3405.88,20900.055,1,0
+"Aichi,  Japan",Aichi, Japan,"Aichi, Togo, Aichi County, Aichi Prefecture, Japan",35.1219442,137.0817407232,3454.279,21200.028,1,0
+"Osaka Prefecture,  Japan",Osaka Prefecture, Japan,"Osaka Prefecture, Japan",34.6198813,135.490357,3487.019,21402.956,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,3568.807,21700.228,2,0
+"Brussels,  Belgium",Brussels, Belgium,"Brussels, City of Brussels, Brussels-Capital, Belgium",50.8465573,4.351697,3591.011,21837.843,2,0
+"Chennai,  India",Chennai, India,"Chennai, Chennai District, Tamil Nadu, India",13.0836939,80.270186,4214.333,25910.858,1,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,4590.282,28031.348,2,0
+"Otago,  New Zealand",Otago, New Zealand,"Otago, New Zealand",-45.1299859,169.5248818,4972.934,30612.68,1,0
+"Göttingen,  Germany",Göttingen, Germany,"Göttingen, Landkreis Göttingen, Lower Saxony, Germany",51.5328328,9.9351811,5690.783,34642.619,3,0
+"Boulder,  United States",Boulder, United States,"Boulder, Boulder County, Colorado, United States",40.0149856,-105.270545,6029.362,32989.925,6,0
+"Budapest,  Hungary",Budapest, Hungary,"Budapest, V. kerület, Central Hungary, Hungary",47.4983815,19.0404707,8612.434,52541.412,4,0
+"Oulu,  Finland",Oulu, Finland,"Oulu, Oulun seutukunta, North Ostrobothnia, Regional State Administrative Agency for Northern Finland, Mainland Finland, Finland",65.0118734,25.4716809,9638.359,58690.456,5,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,17111.758,105010.722,5,0

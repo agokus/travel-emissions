@@ -1,0 +1,22 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Chiang Mai,  Thailand",Chiang Mai, Thailand,"Chiang Mai, Saraphi District, Chiang Mai Province, 4452, Thailand",18.7882778,98.9868056,0,0,0,8
+"Chiang Rai Province,  Thailand",Chiang Rai Province, Thailand,"Chiang Rai Province, Thailand",19.7589517,99.6734592,7.825,261.711,0,1
+"Nakhon Si Thammarat Province,  Thailand",Nakhon Si Thammarat Province, Thailand,"Nakhon Si Thammarat Province, Thailand",8.6772337,99.7309635,467.004,2255.433,1,0
+"Nakhon Ratchasima Province,  Thailand",Nakhon Ratchasima Province, Thailand,"Nakhon Ratchasima Province, Thailand",15.2241917,101.9313754,511.988,2027.462,2,0
+"Kuala Lumpur,  Malaysia",Kuala Lumpur, Malaysia,"Kuala Lumpur, Malaysia",3.1516964,101.6942371,656.786,3528.554,1,0
+"China, China",China,China,China,35.000074,104.999927,703.775,3795.948,1,0
+"Nagpur,  India",Nagpur, India,"Nagpur, Nagpur District, Maharashtra, India",21.1498134,79.0820556,772.257,4185.659,1,0
+"India, India",India,India,India,22.3511148,78.6677428,791.575,4295.588,1,0
+"Udaipur,  India",Udaipur, India,"Udaipur, Rajasthan, 313001, India",24.578721,73.6862571,982.221,5370.854,1,0
+"Mumbai,  India",Mumbai, India,"Mumbai, Mumbai Suburban, Maharashtra, India",19.0759899,72.8773928,1002.108,5482.663,1,0
+"Khon Kaen Province,  Thailand",Khon Kaen Province, Thailand,"Khon Kaen Province, Thailand",16.6022387,102.6352933,1191.857,4588.481,5,0
+"Singapore, Singapore",Singapore,Singapore,Singapore,1.357107,103.8194992,1486.024,8038.47,2,0
+"Kathmandu,  Nepal",Kathmandu, Nepal,"Kathmandu, Kamaladi Marg, Kamalpokhari, Baghbazar, Kathmandu, Bagmati Pradesh, 46600, Nepal",27.708317,85.3205817,1911.325,10249.717,3,0
+"Shah Alam,  Malaysia",Shah Alam, Malaysia,"Shah Alam, Petaling, Selangor, Malaysia",3.0733644,101.5195149,1976.163,10618.692,3,0
+"Jakarta Special Capital Region,  Indonesia",Jakarta Special Capital Region, Indonesia,"Jakarta Special Capital Region, Indonesia",-6.1753942,106.827183,2122.041,11627.742,2,0
+"Kyiv,  Ukraine",Kyiv, Ukraine,"Kyiv, Ukraine",50.4500336,30.5241361,2257.423,13781.894,1,0
+"Padua,  Italy",Padua, Italy,"Padua, Padova, Veneto, Italy",45.4077172,11.8734455,2715.696,16622.281,1,0
+"Zeuthen,  Germany",Zeuthen, Germany,"Zeuthen, Dahme-Spreewald, Brandenburg, 15738, Germany",52.3508259,13.6293881,5264.407,32209.583,2,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,5451.73,33370.614,2,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28080, Spain",40.4167047,-3.7035825,6317.258,38735.176,2,0
+"Bangkok,  Thailand",Bangkok, Thailand,"Bangkok, Phra Borom Maha Ratchawang Subdistrict, Phra Nakhon District, Bangkok, 10200, Thailand",13.7544238,100.4930399,9412.65,38504.99,33,0

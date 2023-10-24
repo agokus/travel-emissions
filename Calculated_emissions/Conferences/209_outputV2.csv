@@ -1,0 +1,17 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Kunming, Yunnan, China",Kunming,China,"Kunming, Yunnan, China",24.9148783447,102.8254996183,0,0,0,0
+"Guangxi,  China",Guangxi, China,"Guangxi, China",24,109,37.792,1263.954,0,1
+"Taipei,  Taiwan",Taipei, Taiwan,"Taipei, Taiwan",25.0375198,121.5636796,699.863,3773.69,1,0
+"Hebei,  China",Hebei, China,"Hebei, China",39.0000001,116,738.619,3994.233,1,0
+"Ahmedabad,  India",Ahmedabad, India,"Ahmedabad, Ahmadabad City Taluka, Ahmedabad District, Gujarat, 380001, India",23.0216238,72.5797068,1120.804,6149.979,1,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,2498.568,14872.623,2,0
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,2683.779,16424.46,1,0
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,2684.484,16428.825,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,2686.205,16439.493,1,0
+"Manly,  Australia",Manly, Australia,"Manly, Sydney, Northern Beaches Council, Northern Beaches, New South Wales, 2095, Australia",-33.7971937,151.2879845,2709.814,16585.821,1,0
+"Marseille,  France",Marseille, France,"Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, Metropolitan France, 13000, France",43.2961743,5.3699525,2843.244,17412.823,1,0
+"Shanghai,  China",Shanghai, China,"Shanghai, Huangpu District, Shanghai, 200001, China",31.2322758,121.4692071,3622.52,19569.555,5,0
+"Nanjing,  China",Nanjing, China,"Nanjing, Nanjing City, Jiangsu, 210008, China",32.0609736,118.7916458,4561.075,24492.57,7,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,5267.022,32225.789,2,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,11593.99,62842.533,15,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,16128.402,99125.516,4,0

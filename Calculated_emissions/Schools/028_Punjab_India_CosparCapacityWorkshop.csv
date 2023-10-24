@@ -1,0 +1,17 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Sahibzada Ajit Singh Nagar,  India",Sahibzada Ajit Singh Nagar, India,"Sahibzada Ajit Singh Nagar, S.A.S. Nagar (Mohali) Tahsil, Sahibzada Ajit Singh Nagar, Punjab, 160059, India",30.7047049,76.7178146,0,0,0,1
+"Delhi,  India",Delhi, India,"Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110006, India",28.6517178,77.2219388,178.497,605.733,1,0
+"Kanpur,  India",Kanpur, India,"Kanpur, Kanpur Nagar, Uttar Pradesh, 208012, India",26.4609135,80.3217588,323.634,1367.886,1,0
+"Church of North India,  India",Church of North India, India,"Church of North India, Hill Cart Road, Siliguri, Matigara, Darjeeling, West Bengal, 734401, India",26.7176857,88.4242089,517.032,2684.406,1,0
+"Hyderabad,  India",Hyderabad, India,"Hyderabad, Bahadurpura mandal, Hyderabad, Telangana, India",17.360589,78.4740613,577.41,3076.852,1,0
+"Nainital,  India",Nainital, India,"Nainital, India",29.2031392,79.4176945,673.807,2537.869,3,0
+"Kerala,  India",Kerala, India,"Kerala, India",10.3528744,76.5120396,841.688,4580.765,1,0
+"Mumbai,  India",Mumbai, India,"Mumbai, Mumbai Suburban, Maharashtra, India",19.0759899,72.8773928,1035.033,5376.498,2,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,1261.941,7603.756,1,0
+"Shanghai,  China",Shanghai, China,"Shanghai, Huangpu District, Shanghai, 200001, China",31.2322758,121.4692071,1435.904,8690.105,1,0
+"Pune,  India",Pune, India,"Pune, Pune District, Maharashtra, India",18.521428,73.8544541,1586.946,8337.679,3,0
+"Stockholm,  Sweden",Stockholm, Sweden,"Stockholm, Stockholms kommun, Stockholm County, 111 29, Sweden",59.3251172,18.0710935,1732.414,10527.879,1,0
+"Ahmedabad,  India",Ahmedabad, India,"Ahmedabad, Ahmadabad City Taluka, Ahmedabad District, Gujarat, 380001, India",23.0216238,72.5797068,2079.672,9255.803,5,0
+"Istanbul,  Turkey",Istanbul, Turkey,"Istanbul, Fatih, Istanbul, Marmara Region, 34126, Turkey",41.0096334,28.9651646,2830.882,17126.555,2,0
+"Kolkata,  India",Kolkata, India,"Kolkata, Howrah, Thakurpukur Maheshtala, Howrah, West Bengal, 711101, India",22.5414185,88.3576912438887,2958.582,15791.315,5,0
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,4453.494,24089.354,6,0

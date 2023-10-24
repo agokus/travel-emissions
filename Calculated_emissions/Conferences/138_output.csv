@@ -1,0 +1,30 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Kreuth, Germany",Kreuth,Germany,"Kreuth, Germany",47.6792440997608,11.7505042799426,0,0,0,0
+"Zurich,  Switzerland",Zurich, Switzerland,"Zurich, District Zurich, Zurich, Switzerland",47.3744489,8.5410422,14.495,484.795,0,1
+"Graz,  Austria",Graz, Austria,"Graz, Styria, Austria",47.0708678,15.4382786,17.065,570.73,0,1
+"Bern,  Switzerland",Bern, Switzerland,"Bern, Bern-Mittelland administrative district, Bernese Mittelland administrative region, Bern, Switzerland",46.9482713,7.4514512,19.897,665.467,0,1
+"Nice,  France",Nice, France,"Nice, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitan France, France",43.7009358,7.2683912,33.438,1118.332,0,1
+"Lyon,  France",Lyon, France,"Lyon, Métropole de Lyon, Departemental constituency of Rhône, Auvergne-Rhône-Alpes, Metropolitan France, France",45.7578137,4.8320114,33.903,1133.892,0,1
+"Hamburg,  Germany",Hamburg, Germany,"Hamburg, Germany",53.550341,10.000654,39.974,1336.918,0,1
+"Vienna,  Austria",Vienna, Austria,"Vienna, Austria",48.2083537,16.3725042,62.885,2103.172,0,3
+"Göttingen,  Germany",Göttingen, Germany,"Göttingen, Landkreis Göttingen, Lower Saxony, Germany",51.5328328,9.9351811,81.077,2711.612,0,3
+"Berlin,  Germany",Berlin, Germany,"Berlin, 10117, Germany",52.5170365,13.3888599,132.685,4437.636,0,4
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,178.473,5969.007,0,10
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,332.827,1416.023,1,0
+"Montpellier,  France",Montpellier, France,"Montpellier, Hérault, Occitania, Metropolitan France, France",43.6112422,3.8767337,351.817,1515.45,1,0
+"Lund,  Sweden",Lund, Sweden,"Lund, Lund Municipality, Skåne County, Sweden",55.7029296,13.1929449,406.905,1803.882,1,0
+"Warwick,  United Kingdom",Warwick, United Kingdom,"Warwick, Warwickshire, West Midlands, England, United Kingdom",52.2814519,-1.5815742,456.267,2163.224,1,0
+"Exeter,  United Kingdom",Exeter, United Kingdom,"Exeter, Devon, South West England, England, United Kingdom",50.725562,-3.5269108,474.353,2318.547,1,0
+"Vilafranca / Villafranca del Cid,  Spain",Vilafranca / Villafranca del Cid, Spain,"Vilafranca / Villafranca del Cid, l'Alt Maestrat, Castelló / Castellón, Valencian Community, 12150, Spain",40.4270485,-0.2577628,495.038,2496.198,1,0
+"St Andrews,  United Kingdom",St Andrews, United Kingdom,"St Andrews, Fife, Scotland, KY16 9PA, United Kingdom",56.3403902,-2.7955844,527.284,2765.75,1,0
+"Uppsala,  Sweden",Uppsala, Sweden,"Uppsala, Uppsala kommun, Uppsala County, 753 20, Sweden",59.8586126,17.6387436,534.468,2822.757,1,0
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,854.208,3825.54,2,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.139153737368744,861.235,3885.89,2,0
+"Porto,  Portugal",Porto, Portugal,"Porto, North, Portugal",41.1494512,-8.6107884,1313.476,7056.554,2,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,2041.188,12441.669,1,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,2227.026,13593.495,1,0
+"Tempe,  United States",Tempe, United States,"Tempe, Maricopa County, Arizona, United States",33.4255056,-111.9400091,3067.16,18800.661,1,0
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, California, United States",34.0536909,-118.242766,3149.86,19313.234,1,0
+"São Paulo,  Brazil",São Paulo, Brazil,"São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Southeast Region, Brazil",-23.5506507,-46.6333824,3204.304,19650.68,1,0
+"Ithaca,  United States",Ithaca, United States,"Ithaca, Ithaca Town, Tompkins County, New York, United States",42.4396039,-76.4968019,4307.015,26275.648,2,0
+"Boulder,  United States",Boulder, United States,"Boulder, Boulder County, Colorado, United States",40.0149856,-105.270545,5526.557,33834.394,2,0

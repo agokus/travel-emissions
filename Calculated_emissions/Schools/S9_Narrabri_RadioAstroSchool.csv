@@ -1,0 +1,10 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Narrabri,  Australia",Narrabri, Australia,"Narrabri, Narrabri Shire Council, New South Wales, 2390, Australia",-30.3296154,149.7814491,0,0,0,1
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,595.07,19901.994,0,24
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,664.188,2487.749,3,0
+"Canberra,  Australia",Canberra, Australia,"Canberra, District of Canberra Central, Australian Capital Territory, 2601, Australia",-35.2975906,149.1012676,1373.915,5560.544,5,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,2535.101,11313.753,6,0
+"Kunming,  China",Kunming, China,"Kunming, Yunnan, China",24.8843019,102.8324209,2589.059,15837.381,1,0
+"La Plata,  Argentina",La Plata, Argentina,"La Plata, Partido de La Plata, Buenos Aires, Argentina",-34.9206797,-57.9537638,3970.497,24399.557,1,0
+"Socorro,  United States",Socorro, United States,"Socorro, Socorro County, New Mexico, United States",34.0572858,-106.8930799,4217.194,25928.589,1,0
+"Perth,  Australia",Perth, Australia,"Perth, City of Perth, Western Australia, 6000, Australia",-31.9527121,115.8604796,17587.004,96606.445,15,0

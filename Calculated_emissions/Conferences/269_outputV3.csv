@@ -1,0 +1,30 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Bollmannsruh, Germany",Bollmannsruh,Germany,"Bollmannsruh, Germany",52.50696033,12.6814579929,0,0,0,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,5.053,169.013,0,3
+"Copenhagen,  Denmark",Copenhagen, Denmark,"Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1357, Denmark",55.6867243,12.5700724,21.144,707.144,0,1
+"Berlin,  Germany",Berlin, Germany,"Berlin, 10117, Germany",52.5170365,13.3888599,22.885,765.399,0,8
+"Stuttgart,  Germany",Stuttgart, Germany,"Stuttgart, Baden-Württemberg, Germany",48.7784485,9.1800132,28.853,964.999,0,1
+"Munich,  Germany",Munich, Germany,"Munich, Bavaria, Germany",48.1371079,11.5753822,29.438,984.556,0,1
+"Herne,  Germany",Herne, Germany,"Herne, North Rhine-Westphalia, Germany",51.5380394,7.219985,69.763,2333.221,0,3
+"Prague,  Czechia",Prague, Czechia,"Prague, Czechia",50.0596288,14.4464592733,89.271,2985.647,0,5
+"Oldenburg,  Germany",Oldenburg, Germany,"Oldenburg, Lower Saxony, Germany",53.1389753,8.2146017,92.16,3082.265,0,5
+"Bonn,  Germany",Bonn, Germany,"Bonn, North Rhine-Westphalia, Germany",50.735851,7.10066,129.348,4326.034,0,5
+"Athens,  Greece",Athens, Greece,"Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 10667, Greece",37.9839412,23.7283052,678.887,3654.323,1,0
+"Noordwijk,  Netherlands",Noordwijk, Netherlands,"Noordwijk, South Holland, Netherlands",52.2410856,4.4461969,1104.508,4476.582,4,0
+"Västerås,  Sweden",Västerås, Sweden,"Västerås, Västerås kommun, Västmanland County, 721 01, Sweden",59.6110992,16.5463679,1132.714,4950.888,3,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,1236.436,6618.15,2,0
+"Belgrade,  Serbia",Belgrade, Serbia,"Belgrade, Stari Grad Urban Municipality, City of Belgrade, Central Serbia, 11000, Serbia",44.8178131,20.4568974,1330.577,6161.403,3,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,1360.319,7323.127,2,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,1521.229,6658.484,4,0
+"Ankara,  Turkey",Ankara, Turkey,"Ankara, Çankaya, Ankara, Central Anatolia Region, 06420, Turkey",39.9207893,32.8540412,1533.304,8307.522,2,0
+"Abu Dhabi,  United Arab Emirates",Abu Dhabi, United Arab Emirates,"Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",24.4538352,54.3774014,1543.845,9359.126,1,0
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.4811088666,1654.039,6700.618,6,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,1670.772,6788.232,6,0
+"Budapest,  Hungary",Budapest, Hungary,"Budapest, V. kerület, Central Hungary, Hungary",47.4983815,19.0404707,1683.78,7182.961,5,0
+"Brussels,  Belgium",Brussels, Belgium,"Brussels, City of Brussels, Brussels-Capital, Belgium",50.8465573,4.351697,2048.881,8441.342,7,0
+"Bratislava,  Slovakia",Bratislava, Slovakia,"Bratislava, Region of Bratislava, Slovakia",48.1516988,17.1093063,2262.667,9234.078,8,0
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,2397.162,10591.521,6,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,2922.86,17906.283,1,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,2979.12,18254.984,1,0
+"Jerusalem,  Israel",Jerusalem, Israel,"Jerusalem, Jerusalem Subdistrict, Jerusalem District, Israel",31.79592425,35.2119807597,4281.161,23463.941,4,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,5242.403,32282.854,1,0

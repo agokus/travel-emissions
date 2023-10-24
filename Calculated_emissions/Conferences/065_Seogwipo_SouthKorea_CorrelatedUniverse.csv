@@ -1,0 +1,19 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Seogwipo, SouthKorea",Seogwipo,South Korea,"Seogwipo, SouthKorea",33.2516754186,126.5613103867,0,0,0,0
+"Daegu,  South Korea",Daegu, South Korea,"Daegu, South Korea",35.8713,128.6018,391.498,1391.24,2,0
+"Beijing,  China",Beijing, China,"Beijing, 100051, China",39.906217,116.3912757,476.023,2332.887,1,0
+"Sjanghai,  China",Sjanghai, China,"Sjanghai, Huangpu District, Shanghai, 200001, China",31.2322758,121.4692071,525.985,2100.751,2,0
+"Kyoto,  Japan",Kyoto, Japan,"Kyoto, Kyoto Prefecture, Japan",35.021041,135.7556075,791.225,3489.515,2,0
+"Seoul,  South Korea",Seoul, South Korea,"Seoul, Nowon-gu, South Korea",37.5666791,126.9782914,1476.713,5772.161,6,0
+"Daejeon,  South Korea",Daejeon, South Korea,"Daejeon, South Korea",36.3496,127.3848,2570.081,9175.122,13,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,2581.758,15792.13,1,0
+"Padua,  Italy",Padua, Italy,"Padua, Padova, Veneto, Italy",45.4077172,11.8734455,2962.395,18151.324,1,0
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,3018.72,18500.43,1,0
+"Oxford,  United Kingdom",Oxford, United Kingdom,"Oxford, Oxfordshire, South East England, England, United Kingdom",51.7520131,-1.2578499,3029.086,18564.675,1,0
+"Turin,  Italy",Turin, Italy,"Turin, Torino, Piemont, Italy",45.0677551,7.6824892,3050.113,18695,1,0
+"Geneva,  Switzerland",Geneva, Switzerland,"Geneva, Grand Genève, Geneva, Switzerland",46.2017559,6.1466014,3050.514,18697.487,1,0
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Derby Street, Claremont, Berkeley, Alameda County, California, 94720-1076, United States",37.8753497,-122.2396336492,3062.325,18770.694,1,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,3443.807,21135.128,1,0
+"State College,  United States",State College, United States,"State College, Centre County, Pennsylvania, United States",40.7944504,-77.8616386,3715.597,22819.686,1,0
+"Waltham,  United States",Waltham, United States,"Waltham, Middlesex County, Massachusetts, United States",42.3756401,-71.2358004,3716.421,22824.789,1,0
+"Brisbane City,  Australia",Brisbane City, Australia,"Brisbane City, Queensland, Australia",-27.4689682,153.0234991,4784.794,29236.934,2,0

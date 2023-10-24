@@ -1,0 +1,33 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Hilo,  United States",Hilo, United States,"Hilo, Hawaiʻi County, Hawaii, United States",19.7073734,-155.0815803,0,0,0,9
+"Victoria,  Canada",Victoria, Canada,"Victoria, Capital Regional District, British Columbia, Canada",48.4283182,-123.3649533,1411.7,8540.09,1,0
+"Vancouver,  Canada",Vancouver, Canada,"Vancouver, District of North Vancouver, British Columbia, Canada",49.2608724,-123.1139529,1434.565,8681.805,1,0
+"Boulder,  United States",Boulder, United States,"Boulder, Boulder County, Colorado, United States",40.0149856,-105.270545,1719.924,10450.466,1,0
+"La Moine,  United States",La Moine, United States,"La Moine, Illinois, 62319, United States",40.3221832,-90.8447352,2114.274,12894.653,1,0
+"Pittsburgh,  United States",Pittsburgh, United States,"Pittsburgh, Allegheny County, Pennsylvania, United States",40.4416941,-79.9900861,2410.186,14728.722,1,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,2414.744,14756.972,1,0
+"Centre County,  United States",Centre County, United States,"Centre County, Pennsylvania, United States",40.9381735,-77.7865722,2467.598,15084.564,1,0
+"Greenbelt,  United States",Greenbelt, United States,"Greenbelt, Good Luck Road, New Carrollton, Prince George's County, Maryland, 20706, United States",38.9937333,-76.883065797,2501.964,15297.567,1,0
+"Santa Cruz County,  United States",Santa Cruz County, United States,"Santa Cruz County, California, United States",37.050096,-121.9905908,2504.88,14956.12,2,0
+"Princeton,  United States",Princeton, United States,"Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958,2554.916,15625.761,1,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,3488.832,21414.192,1,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,3944.824,23821.132,3,0
+"Rio de Janeiro,  Brazil",Rio de Janeiro, Brazil,"Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Southeast Region, Brazil",-22.9110137,-43.2093727,4232.664,26024.475,1,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,4243.86,26093.865,1,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,4543.228,27530.051,3,0
+"Gainesville,  United States",Gainesville, United States,"Gainesville, Alachua County, Florida, United States",29.6519684,-82.3249846,4792.132,29282.416,2,0
+"Washington,  United States",Washington, United States,"Washington, D.C., Cypress Gardens, Polk County, Florida, United States",27.99124005,-81.6909167646,4852.614,29657.286,2,0
+"Newark,  United States",Newark, United States,"Newark, Essex County, New Jersey, United States",40.735657,-74.1723667,5131.393,31385.161,2,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,5551.281,33987.632,2,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,7912.414,48412.323,3,0
+"Tel Aviv-Yafo,  Israel",Tel Aviv-Yafo, Israel,"Tel Aviv-Yafo, Tel Aviv Subdistrict, Tel Aviv District, Israel",32.0852997,34.7818064,9206.695,56643.953,2,0
+"Autonomous City of Buenos Aires,  Argentina",Autonomous City of Buenos Aires, Argentina,"Autonomous City of Buenos Aires, Comuna 6, Autonomous City of Buenos Aires, Argentina",-34.6075682,-58.4370894,11547.179,70940.664,3,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,11684.169,71580.079,4,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,11785.436,72417.387,3,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,12398.398,76216.534,3,0
+"Mumbai,  India",Mumbai, India,"Mumbai, Mumbai Suburban, Maharashtra, India",19.0759899,72.8773928,12916.579,79428.231,3,0
+"Montreal,  Canada",Montreal, Canada,"Montreal, Urban agglomeration of Montreal, Montreal (06), Quebec, Canada",45.4972159,-73.6103642,15320.744,93700.329,6,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,15835.994,97313.162,4,0
+"Houston,  United States",Houston, United States,"Houston, Harris County, Texas, United States",29.7589382,-95.3676974,17930.319,109245.567,9,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,19541.154,120068.158,5,0
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,42004.433,258038.051,11,0

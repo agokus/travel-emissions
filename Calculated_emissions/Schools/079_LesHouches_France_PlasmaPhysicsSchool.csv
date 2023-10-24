@@ -1,0 +1,43 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Les Houches, France",Les Houches,France,"Les Houches, France",45.893500142653,6.80867924047437,0,0,0,0
+"Lausanne,  Switzerland",Lausanne, Switzerland,"Lausanne, District de Lausanne, Vaud, Switzerland",46.5218269,6.6327025,4.261,142.498,0,1
+"Turin,  Italy",Turin, Italy,"Turin, Torino, Piemont, Italy",45.0677551,7.6824892,6.853,229.198,0,1
+"Lyon,  France",Lyon, France,"Lyon, Métropole de Lyon, Departemental constituency of Rhône, Auvergne-Rhône-Alpes, Metropolitan France, France",45.7578137,4.8320114,9.158,306.292,0,1
+"Grenoble,  France",Grenoble, France,"Grenoble, Isère, Auvergne-Rhône-Alpes, Metropolitan France, France",45.1875602,5.7357819,13.629,455.812,0,2
+"Marseille,  France",Marseille, France,"Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, Metropolitan France, 13000, France",43.2961743,5.3699525,18.536,619.938,0,1
+"Montpellier,  France",Montpellier, France,"Montpellier, Hérault, Occitania, Metropolitan France, France",43.6112422,3.8767337,20.5,685.604,0,1
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,23.228,776.871,0,1
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,24.883,832.211,0,1
+"Florence,  Italy",Florence, Italy,"Florence, Metropolitan City of Florence, Tuscany, Italy",43.7698712,11.2555757,25.305,846.338,0,1
+"Fourqueux,  France",Fourqueux, France,"Fourqueux, Saint-Germain-en-Laye, Yvelines, Ile-de-France, Metropolitan France, 78112, France",48.88620905,2.05680174175466,29.184,976.054,0,1
+"Toulouse,  France",Toulouse, France,"Toulouse, Haute-Garonne, Occitania, Metropolitan France, France",43.6044622,1.4442469,29.499,986.604,0,1
+"Bordeaux,  France",Bordeaux, France,"Bordeaux, New Aquitaine, Metropolitan France, France",44.841225,-0.5800364,35.16,1175.919,0,1
+"Rennes,  France",Rennes, France,"Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, France",48.1113387,-1.6800198,41.16,1376.576,0,1
+"Bures-sur-Yvette,  France",Bures-sur-Yvette, France,"Bures-sur-Yvette, Palaiseau, Essonne, Ile-de-France, Metropolitan France, 91440, France",48.6972179,2.1632719,56.023,1873.687,0,2
+"Leuven,  Belgium",Leuven, Belgium,"Leuven, Flemish Brabant, Flanders, Belgium",50.879202,4.7011675,68.863,2303.102,0,2
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,80.978,2708.288,0,3
+"Palaiseau,  France",Palaiseau, France,"Palaiseau, Essonne, Ile-de-France, Metropolitan France, 91120, France",48.7144587,2.2453842,111.246,3720.591,0,4
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,168.574,5637.943,0,6
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.139153737368744,387.845,1704.087,1,0
+"Hamburg,  Germany",Hamburg, Germany,"Hamburg, Germany",53.550341,10.000654,399.265,1763.88,1,0
+"Kiel,  Germany",Kiel, Germany,"Kiel, Schleswig-Holstein, Germany",54.3227085,10.135555,429.564,1933.892,1,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,495.252,2498.032,1,0
+"Prague,  Czechia",Prague, Czechia,"Prague, Czechia",50.0596288,14.446459273258,685.079,2933.749,2,0
+"Istanbul,  Turkey",Istanbul, Turkey,"Istanbul, Fatih, Istanbul, Marmara Region, 34126, Turkey",41.0096334,28.9651646,691.433,3725.718,1,0
+"Oxford,  United Kingdom",Oxford, United Kingdom,"Oxford, Oxfordshire, South East England, England, United Kingdom",51.7520131,-1.2578499,795.474,3511.761,2,0
+"Lisbon,  Portugal",Lisbon, Portugal,"Lisbon, Grande Lisboa, Área Metropolitana de Lisboa, Portugal",38.7077507,-9.1365919,1149.361,6122.634,2,0
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,1848.367,8044.718,5,0
+"Durham,  United States",Durham, United States,"Durham, Strafford County, New Hampshire, 03824, United States",43.134564,-70.927048,1943.009,11833.153,1,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,1961.49,11947.7,1,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,2059.347,12554.22,1,0
+"Ann Arbor,  United States",Ann Arbor, United States,"Ann Arbor, Washtenaw County, Michigan, United States",42.2681569,-83.7312291,2238.119,13662.246,1,0
+"Iowa City,  United States",Iowa City, United States,"Iowa City, Johnson County, Iowa, United States",41.6612561,-91.5299106,2412.69,14744.244,1,0
+"Chennai,  India",Chennai, India,"Chennai, Chennai District, Tamil Nadu, India",13.0836939,80.270186,2516.095,15385.15,1,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,2641.333,14395.975,3,0
+"Boulder,  United States",Boulder, United States,"Boulder, Boulder County, Colorado, United States",40.0149856,-105.270545,2719.416,16645.339,1,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,3823.959,23491.314,1,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,3921.434,23885.811,2,0
+"Gandhinagar,  India",Gandhinagar, India,"Gandhinagar, Gandhinagar Taluka, Gandhinagar District, Gujarat, 382021, India",23.2232877,72.6492267,4157.21,25347.154,2,0
+"Madison,  United States",Madison, United States,"Madison, Dane County, Wisconsin, 53703, United States",43.074761,-89.3837613,4672.988,28543.956,2,0
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, California, United States",34.0536909,-118.242766,6234.171,38220.197,2,0
+"Princeton,  United States",Princeton, United States,"Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958,8325.674,50764.066,4,0

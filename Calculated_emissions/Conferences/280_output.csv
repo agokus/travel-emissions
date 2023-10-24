@@ -1,0 +1,54 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Cloudcroft, United States",Cloudcroft,United States,"Cloudcroft, New Mexico, United States",32.9574426554,-105.7424703879,0,0,0,0
+"Austin,  United States",Austin, United States,"Austin, Travis County, Texas, United States",30.2711286,-97.7436995,373.289,1627.874,1,0
+"Los Alamos,  United States",Los Alamos, United States,"Los Alamos, Los Alamos County, New Mexico, United States",35.8935335,-106.2897010706,378.043,1321.139,2,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,473.614,2312.205,1,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,504.365,1987.55,2,0
+"Ames,  United States",Ames, United States,"Ames, Story County, Iowa, United States",42.0267703,-93.6170554,552.443,2934.771,1,0
+"Mexico City,  Mexico",Mexico City, Mexico,"Mexico City, Mexico",19.4326296,-99.1331785,613.481,3282.118,1,0
+"Greely,  United States",Greely, United States,"Greely, Pine County, Minnesota, United States",45.7446814,-93.0682704,664.684,3573.495,1,0
+"Oswego,  United States",Oswego, United States,"Oswego, Oswego Township, Kendall County, Illinois, 60543, United States",41.6834778,-88.3525714,673.907,3625.981,1,0
+"Madison,  United States",Madison, United States,"Madison, Dane County, Wisconsin, 53703, United States",43.074761,-89.3837613,675.063,3632.562,1,0
+"Eugene,  United States",Eugene, United States,"Eugene, Lane County, Oregon, United States",44.0505054,-123.0950506,719.479,3885.315,1,0
+"Highland Heights,  United States",Highland Heights, United States,"Highland Heights, Campbell County, Kentucky, 41099, United States",39.0330902,-84.4521512,748.493,4050.427,1,0
+"Lacey,  United States",Lacey, United States,"Lacey, Thurston County, Washington, United States",47.0263876,-122.8072257,784.004,4252.507,1,0
+"Seattle,  United States",Seattle, United States,"Seattle, King County, Washington, United States",47.6038321,-122.3300624,789.872,4285.896,1,0
+"East Lansing,  United States",East Lansing, United States,"East Lansing, Ingham County, Michigan, United States",42.7320307,-84.4721678,793.015,4303.783,1,0
+"Houston,  United States",Houston, United States,"Houston, Harris County, Texas, United States",29.7589382,-95.3676974,896.312,4187.129,2,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,942.474,5147.393,1,0
+"Boca Raton,  United States",Boca Raton, United States,"Boca Raton, Palm Beach County, Florida, United States",26.3586885,-80.0830984,944.071,5156.372,1,0
+"Hanover,  United States",Hanover, United States,"Hanover, York County, Pennsylvania, 17331, United States",39.8063247,-76.9842735,977.305,5343.215,1,0
+"Princeton,  United States",Princeton, United States,"Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958,1049.785,5750.702,1,0
+"Framingham,  United States",Framingham, United States,"Framingham, Middlesex County, Massachusetts, United States",42.3095704,-71.4413097,1154.386,6338.776,1,0
+"Sackville,  Canada",Sackville, Canada,"Sackville, Sackville Parish, Westmorland County, New Brunswick, Canada",45.8999177,-64.3655256,1259.08,7565.898,1,0
+"Halifax,  Canada",Halifax, Canada,"Halifax, Nova Scotia, Canada",44.648618,-63.5859487,1269.148,7656.552,1,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,2328.917,12790.811,2,0
+"Antofagasta,  Chile",Antofagasta, Chile,"Antofagasta, Provincia de Antofagasta, Antofagasta Region, Chile",-23.6463741,-70.3980033,2397.42,14649.597,1,0
+"Bath,  United Kingdom",Bath, United Kingdom,"Bath, Bath and North East Somerset, South West England, England, United Kingdom",51.3813864,-2.3596963,2628.432,16081.419,1,0
+"San Cristóbal de La Laguna,  Spain",San Cristóbal de La Laguna, Spain,"San Cristóbal de La Laguna, Santa Cruz de Tenerife, Canary Islands, Spain",28.4857715,-16.3159422,2707.793,16573.296,1,0
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.4811088666,2740.223,16774.296,1,0
+"Antwerp,  Belgium",Antwerp, Belgium,"Antwerp, Flanders, Belgium",51.2211097,4.3997081,2758.204,16885.744,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,2768.604,16950.207,1,0
+"Lesve,  Belgium",Lesve, Belgium,"Lesve, Profondeville, Namur, Wallonia, Belgium",50.3773499,4.7748094,2782.85,17038.5,1,0
+"Marrakesh,  Morocco",Marrakesh, Morocco,"Marrakesh, Pachalik de Marrakech, Marrakesh Prefecture, Marrakech-Safi, Morocco",31.62679475,-8.0030242569,2872.081,17591.556,1,0
+"Berlin,  Germany",Berlin, Germany,"Berlin, 10117, Germany",52.5170365,13.3888599,2884.482,17668.419,1,0
+"Innsbruck,  Austria",Innsbruck, Austria,"Innsbruck, Tyrol, Austria",47.2654296,11.3927685,2974.578,18226.833,1,0
+"Wrocław,  Poland",Wrocław, Poland,"Wrocław, Trzebnica County, Lower Silesian Voivodeship, Poland",51.1263106,16.9781963305,2976.664,18239.764,1,0
+"Brno,  Czechia",Brno, Czechia,"Brno, okres Brno-město, Jihomoravský kraj, Southeast, Czechia",49.1922443,16.6113382,3019.285,18503.932,1,0
+"Krakow,  Poland",Krakow, Poland,"Krakow, Wieliczka County, Lesser Poland Voivodeship, Poland",50.0469432,19.9971534358,3052.42,18709.299,1,0
+"Szombathely,  Hungary",Szombathely, Hungary,"Szombathely, Szombathelyi járás, Vas, Western Transdanubia, Transdanubia, Hungary",47.2291184,16.6187625,3068.812,18810.899,1,0
+"Capodimonte,  Italy",Capodimonte, Italy,"Capodimonte, Viterbo, Lazio, Italy",42.546527,11.904755,3096.376,18981.744,1,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,3123.474,19149.695,1,0
+"Teramo,  Italy",Teramo, Italy,"Teramo, Abruzzo, Italy",42.65811795,13.6978745875,3128.679,19181.954,1,0
+"Naples,  Italy",Naples, Italy,"Naples, Napoli, Campania, Italy",40.8359336,14.2487826,3184.143,19525.725,1,0
+"Belgrade,  Serbia",Belgrade, Serbia,"Belgrade, Stari Grad Urban Municipality, City of Belgrade, Central Serbia, 11000, Serbia",44.8178131,20.4568974,3197.448,19608.185,1,0
+"Seoul,  South Korea",Seoul, South Korea,"Seoul, Nowon-gu, South Korea",37.5666791,126.9782914,3409.52,20922.611,1,0
+"Delhi,  India",Delhi, India,"Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110006, India",28.6517178,77.2219388,4279.48,26314.64,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,5751.688,35229.758,2,0
+"Nice,  France",Nice, France,"Nice, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitan France, France",43.7009358,7.2683912,5953.955,36483.416,2,0
+"Daejeon,  South Korea",Daejeon, South Korea,"Daejeon, South Korea",36.3496,127.3848,6868.111,42149.368,2,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,8083.006,49469.658,3,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,8868.07,54335.501,3,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,10582.84,64963.676,3,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,12041.956,73797.65,4,0
+"Budapest,  Hungary",Budapest, Hungary,"Budapest, V. kerület, Central Hungary, Hungary",47.4983815,19.0404707,24825.81,152193.594,8,0

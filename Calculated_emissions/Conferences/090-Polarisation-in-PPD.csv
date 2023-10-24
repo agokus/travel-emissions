@@ -1,0 +1,36 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Barcelona,  Spain",Barcelona, Spain,"Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",41.3828939,2.1774322,0,0,0,7
+"Grenoble,  France",Grenoble, France,"Grenoble, Isère, Auvergne-Rhône-Alpes, Metropolitan France, France",45.1875602,5.7357819,256.578,1016.791,1,0
+"Cagliari,  Italy",Cagliari, Italy,"Cagliari, Sardinia, Italy",39.2169525,9.1128513,309.274,1292.699,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,376.318,1643.736,1,0
+"Lisbon,  Portugal",Lisbon, Portugal,"Lisbon, Portugal",38.7077507,-9.1365919,437.571,2002.66,1,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,452.476,2130.664,1,0
+"London,  United Kingdom",London, United Kingdom,"London, Westminster, England, SW1A 2DX, United Kingdom",51.5073219,-0.1276474,467.277,2257.775,1,0
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands",52.3727598,4.8936041,491.06,2462.033,1,0
+"Lyon,  France",Lyon, France,"Lyon, Métropole de Lyon, Departemental constituency of Rhône, Auvergne-Rhône-Alpes, Metropolitan France, France",45.7578137,4.8320114,526.549,2103.705,2,0
+"Leeds,  United Kingdom",Leeds, United Kingdom,"Leeds, West Yorkshire, Yorkshire and the Humber, England, United Kingdom",53.7974185,-1.5437941,530.871,2794.212,1,0
+"Dublin,  Ireland",Dublin, Ireland,"Dublin, Dublin 1, Leinster, Ireland",53.3497645,-6.2602732,549.955,2920.614,1,0
+"Hamburg,  Germany",Hamburg, Germany,"Hamburg, Germany",53.550341,10.000654,552.386,2934.448,1,0
+"Kiel,  Germany",Kiel, Germany,"Kiel, Schleswig-Holstein, Germany",54.3227085,10.135555,580.805,3096.171,1,0
+"Granada,  Spain",Granada, Spain,"Granada, Comarca de la Vega de Granada, Granada, Andalusia, Spain",37.1734995,-3.5995337,646.363,2731.037,2,0
+"Florence,  Italy",Florence, Italy,"Florence, Metropolitan City of Florence, Tuscany, Italy",43.7698712,11.2555757,1095.698,4757.078,3,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,1327.113,6131.652,3,0
+"Tarkwa,  Ghana",Tarkwa, Ghana,"Tarkwa, Tarkwa-Nsuaem Municipal District, Western Region, 2, Ghana",5.310935,-1.992426,1337.715,8081.531,1,0
+"Gothenburg,  Sweden",Gothenburg, Sweden,"Gothenburg, Göteborgs Stad, Västra Götaland County, 41106, Sweden",57.7072326,11.9670171,1434.713,7746.476,2,0
+"Saclay,  France",Saclay, France,"Saclay, Palaiseau, Essonne, Ile-de-France, Metropolitan France, 91400, France",48.7305162,2.172576,1854.329,8075.933,5,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,1923.533,11712.437,1,0
+"London,  Canada",London, Canada,"London, Southwestern Ontario, Ontario, N6A 1G4, Canada",42.9836747,-81.2496068,2150.473,13119.018,1,0
+"Evanston,  United States",Evanston, United States,"Evanston, Evanston Township, Cook County, Illinois, United States",42.0447388,-87.6930459,2313.393,14128.798,1,0
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,2568.695,15711.167,1,0
+"Belo Horizonte,  Brazil",Belo Horizonte, Brazil,"Belo Horizonte, Região Geográfica Imediata de Belo Horizonte, Região Metropolitana de Belo Horizonte, Região Geográfica Intermediária de Belo Horizonte, Minas Gerais, Southeast Region, Brazil",-19.9227318,-43.9450948,2714.877,16617.202,1,0
+"Las Vegas,  United States",Las Vegas, United States,"Las Vegas, Clark County, Nevada, United States",36.1672559,-115.148516,3028.164,18558.959,1,0
+"Nanjing City,  China",Nanjing City, China,"Nanjing City, Jiangsu, China",32.0615601,118.7915171,3127.216,19172.886,1,0
+"Morelia,  Mexico",Morelia, Mexico,"Morelia, Michoacán, 58000, Mexico",19.7027116,-101.1923818,3136.968,19233.33,1,0
+"Pereyra,  Argentina",Pereyra, Argentina,"Pereyra, Gualeguaychu, Distrito Costa Uruguay Norte, Departamento Gualeguaychú, Entre Ríos Province, Argentina",-33.0854139,-58.2661475,3367.681,20663.296,1,0
+"Kagoshima Prefecture,  Japan",Kagoshima Prefecture, Japan,"Kagoshima Prefecture, Japan",31.521587,130.5474077,3368.314,20667.22,1,0
+"Saitama Prefecture,  Japan",Saitama Prefecture, Japan,"Saitama Prefecture, Japan",35.9754168,139.4160114,3380.195,20740.856,1,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,3394.309,20828.337,1,0
+"Cordoba,  Argentina",Cordoba, Argentina,"Cordoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X5000, Argentina",-31.4173391,-64.183319,3443.75,21134.77,1,0
+"Hsinchu,  Taiwan",Hsinchu, Taiwan,"Hsinchu, Taiwan Province, Taiwan",24.8066333,120.9686833,10102.693,61987.712,3,0
+"Taipei,  Taiwan",Taipei, Taiwan,"Taipei, Taiwan",25.0375198,121.5636796,10121.963,62107.152,3,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,10900.792,66934.349,3,0

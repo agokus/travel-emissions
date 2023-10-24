@@ -1,0 +1,16 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"San Cristóbal de La Laguna,  Spain",San Cristóbal de La Laguna, Spain,"San Cristóbal de La Laguna, Santa Cruz de Tenerife, Canary Islands, Spain",28.4857715,-16.3159422,0,0,0,5
+"Teruel,  Spain",Teruel, Spain,"Teruel, Aragon, Spain",40.6005259,-0.9229281755,720.079,3888.729,1,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,1090.853,5981.588,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,1146.575,6294.864,1,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,1680.996,10209.192,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,2023.813,11075.496,2,0
+"Atlanta,  United States",Atlanta, United States,"Atlanta, Fulton County, Georgia, United States",33.7489924,-84.3902644,2095.617,12779.018,1,0
+"Nashville,  United States",Nashville, United States,"Nashville, Davidson County, Tennessee, United States",36.1622767,-86.7742984,2141.79,13065.197,1,0
+"Budapest,  Hungary",Budapest, Hungary,"Budapest, V. kerület, Central Hungary, Hungary",47.4983815,19.0404707,2493.501,14805.589,2,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,2678.287,16180.768,2,0
+"Valparaíso,  Chile",Valparaíso, Chile,"Valparaíso, Provincia de Valparaíso, Valparaiso Region, Chile",-33.0458456,-71.6196749,2934.211,17976.638,1,0
+"Concepcion,  Chile",Concepcion, Chile,"Concepcion, Provincia de Concepción, Biobío Region, Chile",-36.8270795,-73.0502399,3057.115,18738.4,1,0
+"Pisa,  Italy",Pisa, Italy,"Pisa, Tuscany, Italy",43.7159395,10.4018624,3193.053,17497.783,3,0
+"Milan,  Italy",Milan, Italy,"Milan, Lombardy, Italy",45.4668,9.1905,3204.23,17560.631,3,0
+"Zurich,  Switzerland",Zurich, Switzerland,"Zurich, District Zurich, Zurich, Switzerland",47.3744489,8.5410422,4379.702,24017.951,4,0

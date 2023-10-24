@@ -1,0 +1,32 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Guiyang, Guizhou,  China",Guiyang, China,"Guiyang, Guizhou, China",26.6317045511,106.6476246881,0,0,0,3
+"Guangzhou City,  China",Guangzhou City, China,"Guangzhou City, Guangdong Province, China",23.1301964,113.2592945,71.013,2375.001,0,4
+"Anhui,  China",Anhui, China,"Anhui, China",32,117,371.424,1618.11,1,0
+"Shandong,  China",Shandong, China,"Shandong, China",36.0000001,118.9999999,503.837,2571.758,1,0
+"Tohoku,  Japan",Tohoku, Japan,"Tohoku, Kamikita County, Aomori Prefecture, Japan",40.7279915,141.2579371,1133.362,6220.577,1,0
+"Tianjin,  China",Tianjin, China,"Tianjin, Hexi District, Tianjin, 300061, China",39.0856735,117.1951073,1155.732,6158.889,2,0
+"Abu Dhabi,  United Arab Emirates",Abu Dhabi, United Arab Emirates,"Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",24.4538352,54.3774014,1914.205,11654.625,1,0
+"Anchorage,  United States",Anchorage, United States,"Anchorage, Alaska, 99501-2118, United States",61.2163129,-149.894852,2582.208,15794.917,1,0
+"Hilo,  United States",Hilo, United States,"Hilo, Hawaiʻi County, Hawaii, United States",19.7073734,-155.0815803,3027.914,18557.414,1,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,3066.502,16786.303,3,0
+"Shanghai,  China",Shanghai, China,"Shanghai, Huangpu District, Shanghai, 200001, China",31.2322758,121.4692071,3139.508,14675.714,7,0
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Derby Street, Claremont, Berkeley, Alameda County, California, 94720-1076, United States",37.8753497,-122.2396336492,3554.562,21821.587,1,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,3970.128,24397.27,1,0
+"Rochester,  United States",Rochester, United States,"Rochester, Monroe, New York, United States",43.157285,-77.615214,3996.226,24559.025,1,0
+"Toledo,  United States",Toledo, United States,"Toledo, Lucas County, Ohio, United States",41.6529143,-83.5378173,4014.045,24669.468,1,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,4044.472,24858.055,1,0
+"Stony Brook,  United States",Stony Brook, United States,"Stony Brook, Suffolk County, New York, United States",40.9087015,-73.1396036006,4092.405,25155.145,1,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,4137.529,25434.827,1,0
+"Abastumani,  Georgia",Abastumani, Georgia,"Abastumani, Adigeni Municipality, Samtskhe-Javakheti, Georgia",41.7532909,42.8319445,4276.287,26085.198,2,0
+"Nanjing,  China",Nanjing, China,"Nanjing, Nanjing City, Jiangsu, 210008, China",32.0609736,118.7916458,4534.724,20150.433,11,0
+"Hefei City,  China",Hefei City, China,"Hefei City, Anhui, China",31.8228094,117.2218033,4803.157,20902.667,13,0
+"Sheffield,  United Kingdom",Sheffield, United Kingdom,"Sheffield, Yorkshire and the Humber, England, United Kingdom",53.3806626,-1.4702278,5996.2,36745.25,2,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,6197.328,38201.497,1,0
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, California, United States",34.0536909,-118.242766,7465.85,45854.17,2,0
+"Evanston,  United States",Evanston, United States,"Evanston, Evanston Township, Cook County, Illinois, United States",42.0447388,-87.6930459,7934.191,48756.953,2,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,8730.076,53480.211,3,0
+"County Durham,  United Kingdom",County Durham, United Kingdom,"County Durham, North East England, England, United Kingdom",54.666667,-1.75,8931.333,54727.602,3,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,9041.868,55412.704,3,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,11792.424,72460.698,3,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,14930.698,91702.122,4,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,15664.516,83707.592,26,0

@@ -1,0 +1,8 @@
+"location","city","country","address","latitude","longitude","co2_kg","distance_km","plane trips_amount","train trips_amount"
+"Pune,  India","Pune"," India","Pune, Pune District, Maharashtra, India","18.521428","73.8544541","0.0","0.0","0","14"
+"Chennai,  India","Chennai"," India","Chennai, Chennai District, Tamil Nadu, India","13.0836939","80.270186","1235.111","5487.029","3","0"
+"Bengaluru,  India","Bengaluru"," India","Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India","12.9791198","77.5912997","1371.869","5876.453","4","0"
+"Kolkata,  India","Kolkata"," India","Kolkata, Howrah, Thakurpukur Maheshtala, Howrah, West Bengal, 711101, India","22.5414185","88.35769124388872","1769.858","9444.677","3","0"
+"Delhi,  India","Delhi"," India","Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110006, India","28.6517178","77.2219388","1914.244","9418.747","4","0"
+"San Cristóbal de La Laguna,  Spain","San Cristóbal de La Laguna"," Spain","San Cristóbal de La Laguna, Santa Cruz de Tenerife, Canary Islands, Spain","28.4857715","-16.3159422","2955.586","18109.123","1","0"
+"Lyon,  France","Lyon"," France","Lyon, Métropole de Lyon, Departemental constituency of Rhône, Auvergne-Rhône-Alpes, Metropolitan France, France","45.7578137","4.8320114","4540.418","27722.288","2","0"

@@ -1,0 +1,9 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Kingscliff, Australia",Kingscliff,Australia,"Kingscliff, Australia",-28.2575507769,153.5779787449,0,0,0,0
+"Newcastle,  Australia",Newcastle, Australia,"Newcastle, Newcastle-Maitland, Newcastle City Council, New South Wales, 2300, Australia",-32.9192953,151.7795348,271.022,1092.415,1,0
+"Parkes Shire Council,  Australia",Parkes Shire Council, Australia,"Parkes Shire Council, New South Wales, Australia",-32.8225409,147.9761362679,344.38,1476.508,1,0
+"Canberra,  Australia",Canberra, Australia,"Canberra, District of Canberra Central, Australian Capital Territory, 2601, Australia",-35.2975906,149.1012676,804.374,3558.364,2,0
+"Adelaide,  Australia",Adelaide, Australia,"Adelaide, Adelaide City Council, South Australia, Australia",-34.9281805,138.5999312,1795.301,9589.465,3,0
+"Perth,  Australia",Perth, Australia,"Perth, City of Perth, Western Australia, 6000, Australia",-31.9527121,115.8604796,2472.859,14532.517,2,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,3466.766,14558.733,11,0
+"Helo Place,  United States",Helo Place, United States,"Helo Place, Maunalani Heights, Honolulu, Honolulu County, Hawaii, 96848, United States",21.3007513,-157.7879781,4966.301,30361.92,2,0

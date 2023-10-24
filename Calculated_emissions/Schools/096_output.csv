@@ -1,0 +1,35 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Cargese, France",Cargese,France,"Cargese, France",42.1349405363,8.5958627053,0,0,0,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,337.777,1441.94,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,371.396,1617.963,1,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,371.958,1289.431,2,0
+"Turin,  Italy",Turin, Italy,"Turin, Torino, Piemont, Italy",45.0677551,7.6824892,381.151,1337.33,2,0
+"Bonn,  Germany",Bonn, Germany,"Bonn, North Rhine-Westphalia, Germany",50.735851,7.10066,428.694,1926.424,1,0
+"Cologne,  Germany",Cologne, Germany,"Cologne, North Rhine-Westphalia, Germany",50.938361,6.959974,434.197,1973.685,1,0
+"Prague,  Czechia",Prague, Czechia,"Prague, Czechia",50.0596288,14.4464592733,434.775,1978.645,1,0
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.4811088666,473.597,2312.052,1,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,481.433,2379.35,1,0
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,491.671,2467.276,1,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,504.025,2573.375,1,0
+"Oxford,  United Kingdom",Oxford, United Kingdom,"Oxford, Oxfordshire, South East England, England, United Kingdom",51.7520131,-1.2578499,507.708,2605.004,1,0
+"Lund,  Sweden",Lund, Sweden,"Lund, Lund Municipality, Skåne County, Sweden",55.7029296,13.1929449,579.674,3089.732,1,0
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,582.73,2063.328,3,0
+"Gothenburg,  Sweden",Gothenburg, Sweden,"Gothenburg, Göteborgs Stad, Västra Götaland County, 41106, Sweden",57.7072326,11.9670171,651.009,3495.677,1,0
+"City of Edinburgh,  United Kingdom",City of Edinburgh, United Kingdom,"City of Edinburgh, Scotland, United Kingdom",55.9533456,-3.1883749,653.455,3509.594,1,0
+"Stockholm,  Sweden",Stockholm, Sweden,"Stockholm, Stockholms kommun, Stockholm County, 111 29, Sweden",59.3251172,18.0710935,746.611,4039.715,1,0
+"Tel Aviv-Yafo,  Israel",Tel Aviv-Yafo, Israel,"Tel Aviv-Yafo, Tel Aviv Subdistrict, Tel Aviv District, Israel",32.0852997,34.7818064,938.672,5126.02,1,0
+"Porto,  Portugal",Porto, Portugal,"Porto, North, Portugal",41.1494512,-8.6107884,1079.624,5725.784,2,0
+"Khartoum,  Sudan",Khartoum, Sudan,"Khartoum, Khartoum State, ١١١١١, Sudan",15.5929478,32.5364573,1251.604,7467.009,1,0
+"Lyon,  France",Lyon, France,"Lyon, Métropole de Lyon, Departemental constituency of Rhône, Auvergne-Rhône-Alpes, Metropolitan France, France",45.7578137,4.8320114,1526.92,6035.041,6,0
+"Nur-Sultan,  Kazakhstan",Nur-Sultan, Kazakhstan,"Nur-Sultan, Kazakhstan",51.1282205,71.4306682,1566.355,9498.645,1,0
+"Islamabad,  Pakistan",Islamabad, Pakistan,"Islamabad, Islamabad Capital Territory, 44000, Pakistan",33.6938118,73.0651511,1840.479,11197.666,1,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,2065.593,12592.929,1,0
+"Colombo,  Sri Lanka",Colombo, Sri Lanka,"Colombo, Main Street, Gas Paha Junction, Kochchikade, St. Bastian, Colombo, Colombo District, Western Province, 01100, Sri Lanka",6.9387469,79.8541134,2598.771,15897.579,1,0
+"Cape Town,  South Africa",Cape Town, South Africa,"Cape Town, City of Cape Town, Western Cape, 8001, South Africa",-33.928992,18.417396,2782.13,17034.039,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,2819.664,12477.071,7,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,2827.825,15444.446,3,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,3164.107,19401.542,1,0
+"Mexico City,  Mexico",Mexico City, Mexico,"Mexico City, Mexico",19.4326296,-99.1331785,3242.009,19884.378,1,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,3243.632,19894.438,1,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,3791.464,23289.908,1,0
+"Pune,  India",Pune, India,"Pune, Pune District, Maharashtra, India",18.521428,73.8544541,8676.449,52938.176,4,0

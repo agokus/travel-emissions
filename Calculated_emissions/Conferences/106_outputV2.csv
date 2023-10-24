@@ -1,0 +1,45 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Viana do Castelo, Portugal",Viana do Castelo,Portugal,"Viana do Castelo, Portugal",41.6977440439,-8.82222686858977,0,0,0,0
+"Porto,  Portugal",Porto, Portugal,"Porto, North, Portugal",41.1494512,-8.6107884,29.277,979.149,0,6
+"Venice,  Italy",Venice, Italy,"Venice, Venezia, Veneto, Italy",45.4371908,12.3345898,640.733,3437.202,1,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,644.323,3457.629,1,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,687.714,2610.324,3,0
+"Zagreb,  Croatia",Zagreb, Croatia,"Zagreb, City of Zagreb, Croatia",45.8131847,15.9771774,741.164,4008.717,1,0
+"Budapest,  Hungary",Budapest, Hungary,"Budapest, V. kerület, Central Hungary, Hungary",47.4983815,19.0404707,828.67,4506.682,1,0
+"Lisbon,  Portugal",Lisbon, Portugal,"Lisbon, Grande Lisboa, Área Metropolitana de Lisboa, Portugal",38.7077507,-9.1365919,995.588,3565.863,5,0
+"Nice,  France",Nice, France,"Nice, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitan France, France",43.7009358,7.2683912,1015.339,5209.353,2,0
+"Bern,  Switzerland",Bern, Switzerland,"Bern, Bern-Mittelland administrative district, Bernese Mittelland administrative region, Bern, Switzerland",46.9482713,7.4514512,1055.645,5540.053,2,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,1476.208,7982.606,2,0
+"Lund,  Sweden",Lund, Sweden,"Lund, Lund Municipality, Skåne County, Sweden",55.7029296,13.1929449,1615.93,8777.718,2,0
+"Zurich,  Switzerland",Zurich, Switzerland,"Zurich, District Zurich, Zurich, Switzerland",47.3744489,8.5410422,1668.587,8868.38,3,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,1842.163,11208.11,1,0
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,1977.746,9964.118,4,0
+"Abu Dhabi,  United Arab Emirates",Abu Dhabi, United Arab Emirates,"Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",24.4538352,54.3774014,1978.234,12051.474,1,0
+"County Durham,  United Kingdom",County Durham, United Kingdom,"County Durham, North East England, England, United Kingdom",54.666667,-1.75,2263.843,12046.787,4,0
+"Marseille,  France",Marseille, France,"Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, Metropolitan France, 13000, France",43.2961743,5.3699525,2357.303,11468.54,5,0
+"Copenhagen,  Denmark",Copenhagen, Denmark,"Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1357, Denmark",55.6867243,12.5700724,2389.424,12970.417,3,0
+"City of Edinburgh,  United Kingdom",City of Edinburgh, United Kingdom,"City of Edinburgh, Scotland, United Kingdom",55.9533456,-3.1883749,2412.342,12891.843,4,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,2585.341,13876.322,4,0
+"Mumbai,  India",Mumbai, India,"Mumbai, Mumbai Suburban, Maharashtra, India",19.0759899,72.8773928,2586.096,15819.014,1,0
+"Vancouver,  Canada",Vancouver, Canada,"Vancouver, District of North Vancouver, British Columbia, Canada",49.2608724,-123.1139529,2628.91,16084.376,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,2830.866,13780.311,6,0
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,3052.228,16324.22,5,0
+"Chiang Mai,  Thailand",Chiang Mai, Thailand,"Chiang Mai, Saraphi District, Chiang Mai Province, 4452, Thailand",18.7882778,98.9868056,3257.075,19977.757,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,3537.695,18877.856,6,0
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,3779.778,20255.464,6,0
+"Singapore, Singapore",Singapore,Singapore,Singapore,1.357107,103.8194992,3819.055,23460.92,1,0
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.48110886662043,4523.043,24067.151,8,0
+"Mexico City,  Mexico",Mexico City, Mexico,"Mexico City, Mexico",19.4326296,-99.1331785,5636.814,34517.766,2,0
+"Rio de Janeiro,  Brazil",Rio de Janeiro, Brazil,"Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Southeast Region, Brazil",-22.9110137,-43.2093727,7884.014,48236.3,3,0
+"Kyoto,  Japan",Kyoto, Japan,"Kyoto, Kyoto Prefecture, Japan",35.021041,135.7556075,10481.004,64332.491,3,0
+"São Paulo,  Brazil",São Paulo, Brazil,"São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Southeast Region, Brazil",-23.5506507,-46.6333824,10801.724,66110.669,4,0
+"Hilo,  United States",Hilo, United States,"Hilo, Hawaiʻi County, Hawaii, United States",19.7073734,-155.0815803,16078.772,98817.909,4,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,16597.693,100776.272,10,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,16840.616,103120.525,6,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,17498.768,107199.765,6,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,17604.225,108063.04,5,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,20534.143,126013.068,6,0
+"Green Bank Telescope,  United States",Green Bank Telescope, United States,"Green Bank Telescope, Slavin Hollow Road, Pocahontas County, West Virginia, 24944, United States",38.4330645,-79.8398628151245,23226.747,141443.963,12,0
+"Socorro,  United States",Socorro, United States,"Socorro, Socorro County, New Mexico, United States",34.0572858,-106.8930799,26709.521,163449.562,10,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,29262.505,180321.267,5,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,34504.094,212599.077,6,0

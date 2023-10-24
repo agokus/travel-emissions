@@ -1,0 +1,8 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Auckland,  New Zealand",Auckland, New Zealand,"Auckland, Waitematā, Auckland, 1010, New Zealand",-36.852095,174.7631803,0,0,0,24
+"Linwood-Central-Heathcote Community,  New Zealand",Linwood-Central-Heathcote Community, New Zealand,"Linwood-Central-Heathcote Community, Christchurch, Christchurch City, Canterbury, New Zealand",-43.530955,172.6366455,354.302,1528.461,1,0
+"Dunedin,  New Zealand",Dunedin, New Zealand,"Dunedin, Dunedin City, Otago, 9016, New Zealand",-45.8740984,170.5035755,452.143,2127.809,1,0
+"Wellington,  New Zealand",Wellington, New Zealand,"Wellington, Wellington City, Wellington, 6011, New Zealand",-41.2887953,174.7772114,1504.966,5920.089,6,0
+"Perth,  Australia",Perth, Australia,"Perth, City of Perth, Western Australia, 6000, Australia",-31.9527121,115.8604796,5277.109,32078.658,3,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,8737.831,47425.081,11,0
+"Manchester,  United Kingdom",Manchester, United Kingdom,"Manchester, Greater Manchester, North West England, England, United Kingdom",53.4794892,-2.2451148,11782.258,72607.34,2,0

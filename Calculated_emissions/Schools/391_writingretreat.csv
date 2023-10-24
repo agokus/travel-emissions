@@ -1,0 +1,4 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,0,0,0,15
+"Canberra,  Australia",Canberra, Australia,"Canberra, District of Canberra Central, Australian Capital Territory, 2601, Australia",-35.2975906,149.1012676,261.795,1005.855,2,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,670.969,2859.867,2,0

@@ -1,0 +1,142 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Monterey, United States",Monterey,United States,"Monterey, California, United States",36.5927060695375,-121.886725472201,0,0,0,0
+"Milpitas,  United States",Milpitas, United States,"Milpitas, Santa Clara County, California, United States",37.4282724,-121.9066238,8.476,283.486,0,1
+"Woodside,  United States",Woodside, United States,"Woodside, San Mateo County, California, United States",37.4299388,-122.2538557,9.255,309.517,0,1
+"Hayward,  United States",Hayward, United States,"Hayward, Alameda County, California, United States",37.6688205,-122.080796,10.295,344.298,0,1
+"Oakland,  United States",Oakland, United States,"Oakland, Alameda County, California, United States",37.8044557,-122.2713563,11.514,385.087,0,1
+"Moffett Field Historical Society Museum,  United States",Moffett Field Historical Society Museum, United States,"Moffett Field Historical Society Museum, Building 126, Cummins Avenue, Ames Research Center, Santa Clara County, California, 94035-0016, United States",37.41129325,-122.054169803106,17.321,579.306,0,2
+"Palo Alto,  United States",Palo Alto, United States,"Palo Alto, Santa Clara County, California, United States",37.4443293,-122.1598465,18.202,608.754,0,2
+"Menlo Park,  United States",Menlo Park, United States,"Menlo Park, San Mateo County, California, United States",37.4519671,-122.1779927,18.38,614.709,0,2
+"Turlock,  United States",Turlock, United States,"Turlock, Stanislaus County, California, United States",37.4946568,-120.8465941,26.795,896.169,0,3
+"Livermore,  United States",Livermore, United States,"Livermore, Alameda County, California, 94550, United States",37.6820583,-121.7680531,29.728,994.261,0,3
+"Santa Cruz County,  United States",Santa Cruz County, United States,"Santa Cruz County, California, United States",37.050096,-121.9905908,38.224,1278.4,0,6
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Derby Street, Claremont, Berkeley, Alameda County, California, 94720-1076, United States",37.8753497,-122.239633649188,59.401,1986.658,0,5
+"Stanford,  United States",Stanford, United States,"Stanford, Palo Alto, Santa Clara County, California, United States",37.4265407,-122.170292584092,99.234,3318.851,0,11
+"Acton,  United States",Acton, United States,"Acton, California, United States",34.4807415,-118.186837863866,196.197,697.954,1,0
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, California, United States",34.0536909,-118.242766,205.836,748.179,1,0
+"Redondo Beach,  United States",Redondo Beach, United States,"Redondo Beach, California, 90278, United States",33.8455911,-118.3886766,208.115,760.049,1,0
+"Reno,  United States",Reno, United States,"Reno, Washoe County, Nevada, United States",39.5261206,-119.8126581,212.871,784.834,1,0
+"Long Beach,  United States",Long Beach, United States,"Long Beach, California, United States",33.7690164,-118.191604,215.391,797.963,1,0
+"Chino Hills,  United States",Chino Hills, United States,"Chino Hills, San Bernardino County, California, United States",33.9926803,-117.760056,220.675,825.494,1,0
+"Irvine,  United States",Irvine, United States,"Irvine, Orange County, California, United States",33.6856969,-117.8259819,227.308,860.053,1,0
+"Fallbrook,  United States",Fallbrook, United States,"Fallbrook, San Diego County, California, 92028, United States",33.3764196,-117.2511466,250.587,985.423,1,0
+"San Diego,  United States",San Diego, United States,"San Diego, San Diego County, California, United States",32.7174202,-117.1627728,272.237,1098.78,1,0
+"Kirkland,  United States",Kirkland, United States,"Kirkland, King County, Washington, United States",47.6859573,-122.1920249,501.612,2552.653,1,0
+"Santa Fe,  United States",Santa Fe, United States,"Santa Fe, Santa Fe County, New Mexico, United States",35.6876096,-105.9384569,529.177,2780.776,1,0
+"La Jolla,  United States",La Jolla, United States,"La Jolla, San Diego, San Diego County, California, 92037, United States",32.83259,-117.2716839,532.028,2132.391,2,0
+"Las Vegas,  United States",Las Vegas, United States,"Las Vegas, Clark County, Nevada, United States",36.1672559,-115.148516,552.441,2239.273,2,0
+"Firestone,  United States",Firestone, United States,"Firestone, Weld County, Colorado, United States",40.1420303,-104.933109288812,563.972,3000.38,1,0
+"Lubbock,  United States",Lubbock, United States,"Lubbock, Lubbock County, Texas, United States",33.5635206,-101.879336,669.509,3600.953,1,0
+"Norman,  United States",Norman, United States,"Norman, Cleveland County, Oklahoma, United States",35.2225717,-97.4394816,795.61,4318.551,1,0
+"Tempe,  United States",Tempe, United States,"Tempe, Maricopa County, Arizona, United States",33.4255056,-111.9400091,824.771,3665.157,2,0
+"Arlington,  United States",Arlington, United States,"Arlington, Tarrant County, Texas, United States",32.701939,-97.105623790337,828.972,4508.403,1,0
+"Felton,  United States",Felton, United States,"Felton, Clay County, Minnesota, United States",47.0785258,-96.5063642,873.061,4757.149,1,0
+"College Station,  United States",College Station, United States,"College Station, Brazos County, Texas, 77845-5357, United States",30.5955289,-96.3071042,881.764,4806.077,1,0
+"Franklin County,  United States",Franklin County, United States,"Franklin County, Texas, United States",33.16011905,-95.21652077002,884.041,4818.879,1,0
+"Fayetteville,  United States",Fayetteville, United States,"Fayetteville, Washington County, Arkansas, United States",36.0625843,-94.1574328,893.883,4874.212,1,0
+"Bowie County,  United States",Bowie County, United States,"Bowie County, Texas, United States",33.4198886,-94.4479626,905.874,4941.628,1,0
+"Humble,  United States",Humble, United States,"Humble, Harris County, Texas, United States",29.9988312,-95.2621553,923.744,5042.09,1,0
+"Grafton,  United States",Grafton, United States,"Grafton, Worth County, Iowa, United States",43.3299641,-93.0693679,927.471,5063.048,1,0
+"Minneapolis,  United States",Minneapolis, United States,"Minneapolis, Hennepin County, Minnesota, 55415:55454, United States",44.9772995,-93.2654692,933.949,5099.462,1,0
+"Springfield,  United States",Springfield, United States,"Springfield, Sangamon County, Illinois, United States",39.7990175,-89.6439575,1021.016,5588.961,1,0
+"Los Alamos,  United States",Los Alamos, United States,"Los Alamos, Los Alamos County, New Mexico, United States",35.8935335,-106.289701070565,1041.18,5425.277,2,0
+"Bozeman,  United States",Bozeman, United States,"Bozeman, Gallatin County, Montana, 59715, United States",45.6794293,-111.044047,1043.811,5446.148,2,0
+"Baton Rouge,  United States",Baton Rouge, United States,"Baton Rouge, East Baton Rouge Parish, Louisiana, United States",30.4459596,-91.18738,1046.395,5731.643,1,0
+"Ewing,  United States",Ewing, United States,"Ewing, Franklin County, Illinois, United States",38.0886603,-88.852287,1050.048,5752.184,1,0
+"Lemont,  United States",Lemont, United States,"Lemont, Lemont Township, Cook County, Illinois, 60439-4329, United States",41.6737149,-88.0016263,1069.515,5861.625,1,0
+"Evanston,  United States",Evanston, United States,"Evanston, Evanston Township, Cook County, Illinois, United States",42.0447388,-87.6930459,1078.886,5914.313,1,0
+"Riverdale,  United States",Riverdale, United States,"Riverdale, Thornton Township, Cook County, Illinois, 60827, United States",41.6333678,-87.6331021,1080.387,5922.752,1,0
+"Boulder,  United States",Boulder, United States,"Boulder, Boulder County, Colorado, United States",40.0149856,-105.270545,1106.18,5876.909,2,0
+"Tuscaloosa,  United States",Tuscaloosa, United States,"Tuscaloosa, Tuscaloosa County, Alabama, United States",33.2095614,-87.5675258,1127.432,6187.24,1,0
+"Haslett,  United States",Haslett, United States,"Haslett, Meridian Charter Township, Ingham County, Michigan, 48840, United States",42.7505675,-84.4026230663817,1175.429,6457.082,1,0
+"Cincinnati,  United States",Cincinnati, United States,"Cincinnati, Hamilton County, Ohio, United States",39.1014537,-84.5124602,1179.295,6478.815,1,0
+"Ypsilanti,  United States",Ypsilanti, United States,"Ypsilanti, Washtenaw County, Michigan, 48197, United States",42.2410562,-83.613055,1198.565,6587.157,1,0
+"Knoxville,  United States",Knoxville, United States,"Knoxville, Knox County, Tennessee, 37996-4134, United States",35.9603948,-83.9210261,1214.617,6690.567,1,0
+"Lawrenceville,  United States",Lawrenceville, United States,"Lawrenceville, Gwinnett County, Georgia, United States",33.9562149,-83.9879625,1221.946,6782.326,1,0
+"Central,  United States",Central, United States,"Central, Unorganized Borough, Alaska, United States",65.538963,-144.707209194996,1231.259,7197.862,1,0
+"Oakville,  Canada",Oakville, Canada,"Oakville, Halton Region, Golden Horseshoe, Ontario, Canada",43.447436,-79.666672,1233.268,7224.443,1,0
+"Tallahassee,  United States",Tallahassee, United States,"Tallahassee, Leon County, Florida, United States",30.4380832,-84.2809332,1236.964,6970.36,1,0
+"Milledgeville,  United States",Milledgeville, United States,"Milledgeville, Baldwin County, Georgia, United States",33.0801429,-83.2320991,1236.968,6970.407,1,0
+"Harrisonburg,  United States",Harrisonburg, United States,"Harrisonburg, Rockingham County, Virginia, United States",38.4493315,-78.8688833,1251.661,7467.758,1,0
+"State College,  United States",State College, United States,"State College, Centre County, Pennsylvania, United States",40.7944504,-77.8616386,1258.96,7564.317,1,0
+"Centre County,  United States",Centre County, United States,"Centre County, Pennsylvania, United States",40.9381735,-77.7865722,1259.63,7573.18,1,0
+"Fairfax,  United States",Fairfax, United States,"Fairfax, Fairfax (city), Virginia, United States",38.8462236,-77.3063733,1279.437,7720.324,1,0
+"Rockville,  United States",Rockville, United States,"Rockville, Montgomery County, Maryland, 20850-3827, United States",39.0817985,-77.1516844,1282.276,7737.914,1,0
+"Hanover,  United States",Hanover, United States,"Hanover, York County, Pennsylvania, 17331, United States",39.8063247,-76.9842735,1282.773,7740.996,1,0
+"Ithaca,  United States",Ithaca, United States,"Ithaca, Ithaca Town, Tompkins County, New York, United States",42.4396039,-76.4968019,1284.651,7752.64,1,0
+"Silver Spring,  United States",Silver Spring, United States,"Silver Spring, Montgomery County, Maryland, United States",39.0086411,-77.0206311690566,1286.314,7762.945,1,0
+"Alexandria,  United States",Alexandria, United States,"Alexandria, Virginia, United States",38.8051095,-77.0470229,1286.833,7766.16,1,0
+"University of Maryland,  United States",University of Maryland, United States,"University of Maryland, College Park, University Boulevard East, Berwyn, College Park, Prince George's County, Maryland, 20740, United States",38.99203005,-76.9461029019905,1288.463,7776.264,1,0
+"Hyattsville,  United States",Hyattsville, United States,"Hyattsville, Prince George's County, Maryland, 20782, United States",38.9529442,-76.9408647,1288.845,7778.63,1,0
+"New Carrollton,  United States",New Carrollton, United States,"New Carrollton, Prince George's County, Maryland, United States",38.9698329,-76.8799727,1290.416,7788.368,1,0
+"Crofton,  United States",Crofton, United States,"Crofton, Anne Arundel County, Maryland, United States",39.00881455,-76.6844919320184,1295.55,7820.187,1,0
+"Haverford,  United States",Haverford, United States,"Haverford, Lower Merion Township, Montgomery County, Pennsylvania, 19003, United States",40.0131672,-75.2943516,1327.596,8018.81,1,0
+"Coral Gables,  United States",Coral Gables, United States,"Coral Gables, Miami-Dade County, Florida, United States",25.72149,-80.2683838,1343.047,8114.576,1,0
+"Annandale-on-Hudson,  United States",Annandale-on-Hudson, United States,"Annandale-on-Hudson, Town of Red Hook, Dutchess County, New York, 12504, United States",42.0128695,-73.9081901,1354.663,8186.573,1,0
+"Manhattan,  United States",Manhattan, United States,"Manhattan, New York County, New York, United States",40.7896239,-73.9598939,1359.319,8215.432,1,0
+"Northport,  United States",Northport, United States,"Northport, Suffolk County, New York, 11768, United States",40.9040576,-73.3420169301887,1375.267,8314.277,1,0
+"Amherst,  United States",Amherst, United States,"Amherst, Hampshire County, Massachusetts, United States",42.3685658,-72.505714,1390.036,8405.814,1,0
+"Sherbrooke,  Canada",Sherbrooke, Canada,"Sherbrooke, Estrie, Quebec, Canada",45.403271,-71.889038,1395.178,8437.684,1,0
+"Groton,  United States",Groton, United States,"Groton, New London County, Connecticut, United States",41.3506989,-72.0773654,1406.559,8508.228,1,0
+"Watertown,  United States",Watertown, United States,"Watertown, Middlesex County, Massachusetts, United States",42.3709299,-71.1828321,1424.77,8621.098,1,0
+"Newport,  United States",Newport, United States,"Newport, Newport County, Rhode Island, 02840, United States",41.4899827,-71.3137707,1426.064,8629.121,1,0
+"Salt Lake City,  United States",Salt Lake City, United States,"Salt Lake City, Salt Lake County, Utah, United States",40.7596198,-111.8867975,1719.015,7742.103,4,0
+"Houston,  United States",Houston, United States,"Houston, Harris County, Texas, United States",29.7589382,-95.3676974,1848.282,10088.647,2,0
+"Davis County,  United States",Davis County, United States,"Davis County, Iowa, United States",40.7474784,-92.3965311,1875.779,10243.239,2,0
+"Iowa City,  United States",Iowa City, United States,"Iowa City, Johnson County, Iowa, United States",41.6612561,-91.5299106,1930.63,10551.613,2,0
+"Laurel,  United States",Laurel, United States,"Laurel, Jones County, Mississippi, United States",31.739966,-89.132658687035,2189.274,12005.728,2,0
+"East Lansing,  United States",East Lansing, United States,"East Lansing, Ingham County, Michigan, United States",42.7320307,-84.4721678,2346.806,12891.388,2,0
+"Lexington,  United States",Lexington, United States,"Lexington, Fayette County, Kentucky, United States",38.0464066,-84.4970393,2369.741,13020.324,2,0
+"Detroit,  United States",Detroit, United States,"Detroit, Wayne County, Michigan, United States",42.3315509,-83.0466403,2427.534,13359.862,2,0
+"Columbus,  United States",Columbus, United States,"Columbus, Franklin County, Ohio, United States",39.9622601,-83.0007065,2433.587,13435.642,2,0
+"Clemson,  United States",Clemson, United States,"Clemson, Pickens County, South Carolina, 29631, United States",34.6850749,-82.8364111,2470.044,13892.097,2,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,2471.019,8983.272,12,0
+"Gainesville,  United States",Gainesville, United States,"Gainesville, Alachua County, Florida, United States",29.6519684,-82.3249846,2490.757,14769.298,2,0
+"Durham,  United States",Durham, United States,"Durham, Durham County, North Carolina, 27701, United States",35.996653,-78.9018053,2518.874,15141.246,2,0
+"Melbourne,  United States",Melbourne, United States,"Melbourne, Brevard County, Florida, United States",28.106471,-80.6371513,2591.387,15642.155,2,0
+"Villanova,  United States",Villanova, United States,"Villanova, Radnor, Radnor Township, Delaware County, Pennsylvania, 19085, United States",40.0373323,-75.3490769,2651.949,16017.522,2,0
+"Miami,  United States",Miami, United States,"Miami, Miami-Dade County, Florida, United States",25.7741728,-80.19362,2688.701,16245.31,2,0
+"Montreal,  Canada",Montreal, Canada,"Montreal, Urban agglomeration of Montreal, Montreal (06), Quebec, Canada",45.4972159,-73.6103642,2703.457,16336.771,2,0
+"Shinjuku,  Japan",Shinjuku, Japan,"Shinjuku, Tokyo, Japan",35.6937632,139.7036319,2757.807,16883.286,1,0
+"Saitama Prefecture,  Japan",Saitama Prefecture, Japan,"Saitama Prefecture, Japan",35.9754168,139.4160114,2758.913,16890.141,1,0
+"Birmingham,  United Kingdom",Birmingham, United Kingdom,"Birmingham, West Midlands Combined Authority, West Midlands, England, United Kingdom",52.4796992,-1.9026911,2792.623,17099.077,1,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,2856.185,17283.383,2,0
+"Orsay,  France",Orsay, France,"Orsay, Palaiseau, Essonne, Metropolitan France, 91400, France",48.699184,2.187457,2954.641,18103.268,1,0
+"Seoul,  South Korea",Seoul, South Korea,"Seoul, Nowon-gu, South Korea",37.5666791,126.9782914,3006.416,18424.169,1,0
+"St. Louis,  United States",St. Louis, United States,"St. Louis, City of Saint Louis, Madison County, Missouri, United States",38.6529545,-90.2411165602464,3015.515,16499.651,3,0
+"Bamberg,  Germany",Bamberg, Germany,"Bamberg, Bavaria, Germany",49.8916044,10.8868478,3052.314,18708.643,1,0
+"Villanueva de la Cañada,  Spain",Villanueva de la Cañada, Spain,"Villanueva de la Cañada, Cuenca del Guadarrama, Community of Madrid, 28691, Spain",40.4472106,-4.002795,3055.145,18726.193,1,0
+"Erlangen,  Germany",Erlangen, Germany,"Erlangen, Bavaria, Germany",49.5978157,11.0038064,3062.377,18771.016,1,0
+"Tübingen,  Germany",Tübingen, Germany,"Tübingen, Landkreis Tübingen, Baden-Württemberg, Germany",48.5236164,9.0535531,3065.112,18787.969,1,0
+"Toulouse,  France",Toulouse, France,"Toulouse, Haute-Garonne, Occitania, Metropolitan France, France",43.6044622,1.4442469,3076.112,18856.142,1,0
+"Versoix,  Switzerland",Versoix, Switzerland,"Versoix, Grand Genève, Geneva, 1290, Switzerland",46.2767572,6.168958,3083.641,18902.812,1,0
+"Prague,  Czechia",Prague, Czechia,"Prague, Czechia",50.0596288,14.446459273258,3095.232,18974.648,1,0
+"Madison,  United States",Madison, United States,"Madison, Dane County, Wisconsin, 53703, United States",43.074761,-89.3837613,3095.58,16949.781,3,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,3110.285,19067.947,1,0
+"Cerdanyola del Vallès,  Spain",Cerdanyola del Vallès, Spain,"Cerdanyola del Vallès, Vallès Occidental, Barcelona, Catalonia, 08193, Spain",41.4910324,2.1374969,3144.322,19278.911,1,0
+"Granada,  Spain",Granada, Spain,"Granada, Comarca de la Vega de Granada, Granada, Andalusia, Spain",37.1734995,-3.5995337,3145.073,19283.569,1,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,3162.021,19388.61,1,0
+"Sesto Fiorentino,  Italy",Sesto Fiorentino, Italy,"Sesto Fiorentino, Metropolitan City of Florence, Tuscany, Italy",43.831721,11.1992239,3231.372,19818.447,1,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,3307.481,20290.175,1,0
+"Monte Porzio Catone,  Italy",Monte Porzio Catone, Italy,"Monte Porzio Catone, Roma Capitale, Lazio, 00078, Italy",41.8164259,12.7153413,3313.334,20326.45,1,0
+"Ceraxus/Selargius,  Italy",Ceraxus/Selargius, Italy,"Ceraxus/Selargius, Cagliari, Sardinia, 09047, Italy",39.2569504,9.1675535,3329.312,20425.482,1,0
+"Atlanta,  United States",Atlanta, United States,"Atlanta, Fulton County, Georgia, United States",33.7489924,-84.3902644,3651.56,20168.225,3,0
+"Zografos,  Greece",Zografos, Greece,"Zografos, Μαλώνα - Χαράκιου, Χαράκι, Municipality of Rhodes, Rhodes Regional Unit, South Aegean, Aegean, 85102, Greece",36.1687425,28.0920044,3702.846,22740.654,1,0
+"Hilo,  United States",Hilo, United States,"Hilo, Hawaiʻi County, Hawaii, United States",19.7073734,-155.0815803,3765.184,22538.215,3,0
+"Princeton,  United States",Princeton, United States,"Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958,4028.707,24341.041,3,0
+"New Haven,  United States",New Haven, United States,"New Haven, New Haven County, Connecticut, United States",41.29843435,-72.9310234270791,4152.328,25107.247,3,0
+"Somerville,  United States",Somerville, United States,"Somerville, Middlesex County, Massachusetts, United States",42.3875968,-71.0994968,4280.616,25902.374,3,0
+"Houghton County,  United States",Houghton County, United States,"Houghton County, Michigan, United States",46.8591287,-88.7774734,4281.819,23467.642,4,0
+"Auckland Park,  South Africa",Auckland Park, South Africa,"Auckland Park, Johannesburg Ward 69, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa",-26.1869444,28.005,5491.629,33827.563,1,0
+"Leicester,  United Kingdom",Leicester, United Kingdom,"Leicester, Leicestershire, East Midlands, England, LE1 5YA, United Kingdom",52.6361398,-1.1330789,5601.538,34299.131,2,0
+"Huntsville,  United States",Huntsville, United States,"Huntsville, Madison County, Alabama, United States",34.729847,-86.5859011,5717.612,31388.51,5,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,6479.384,39111.074,5,0
+"University Park,  United States",University Park, United States,"University Park, Will County, Illinois, 60484, United States",41.4400344,-87.683377,8630.84,47313.096,8,0
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands",52.3727598,4.8936041,11592.795,71013.742,4,0
+"Nanjing,  China",Nanjing, China,"Nanjing, Nanjing City, Jiangsu, 210008, China",32.0609736,118.7916458,13268.769,81401.46,4,0
+"Ann Arbor,  United States",Ann Arbor, United States,"Ann Arbor, Washtenaw County, Michigan, United States",42.2681569,-83.7312291,14341.055,78811.278,12,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,14943.49,90313.839,11,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.139153737368744,22652.84,138725.491,8,0
+"Washington,  United States",Washington, United States,"Washington, District of Columbia, United States",38.8949924,-77.0365581,25731.336,155290.231,20,0
+"Greenbelt,  United States",Greenbelt, United States,"Greenbelt, Good Luck Road, New Carrollton, Prince George's County, Maryland, 20706, United States",38.9937333,-76.883065797021,34834.999,210247.33,27,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,69911.976,423042.706,49,0

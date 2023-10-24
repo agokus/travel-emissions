@@ -1,0 +1,47 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Crete,  Greece",Crete, Greece,"Crete, Region of Crete, Greece",35.3084749,24.4633207242,0,0,0,3
+"Munich,  Germany",Munich, Germany,"Munich, Bavaria, Germany",48.1371079,11.5753822,661.536,3555.582,1,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,663.604,3567.351,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,863.25,4701.99,1,0
+"Ghent,  Belgium",Ghent, Belgium,"Ghent, Gent, East Flanders, Flanders, Belgium",51.0538286,3.7250121,884.618,4822.124,1,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,925.349,5051.114,1,0
+"Preston,  United Kingdom",Preston, United Kingdom,"Preston, Lancashire, North West England, England, United Kingdom",53.7593363,-2.6992717,1072.838,5880.308,1,0
+"Porto,  Portugal",Porto, Portugal,"Porto, North, Portugal",41.1494512,-8.6107884,1073.599,5884.59,1,0
+"Lisbon,  Portugal",Lisbon, Portugal,"Lisbon, Grande Lisboa, Área Metropolitana de Lisboa, Portugal",38.7077507,-9.1365919,1090.741,5980.962,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,1497.184,8101.978,2,0
+"St Andrews,  United Kingdom",St Andrews, United Kingdom,"St Andrews, Fife, Scotland, KY16 9PA, United Kingdom",56.3403902,-2.7955844,2267.021,12442.827,2,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,2568.641,15710.829,1,0
+"Amherst,  United States",Amherst, United States,"Amherst, Hampshire County, Massachusetts, United States",42.3685658,-72.505714,2601.389,15913.803,1,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,2727.348,16694.497,1,0
+"Green Bank Telescope,  United States",Green Bank Telescope, United States,"Green Bank Telescope, Slavin Hollow Road, Pocahontas County, West Virginia, 24944, United States",38.4330645,-79.8398628151,2846.325,17431.919,1,0
+"Ann Arbor,  United States",Ann Arbor, United States,"Ann Arbor, Washtenaw County, Michigan, United States",42.2681569,-83.7312291,2848.748,17446.939,1,0
+"Daejeon,  South Korea",Daejeon, South Korea,"Daejeon, South Korea",36.3496,127.3848,2858.374,17506.602,1,0
+"Tübingen,  Germany",Tübingen, Germany,"Tübingen, Landkreis Tübingen, Baden-Württemberg, Germany",48.5236164,9.0535531,2871.411,15504.244,4,0
+"Puerto Rico,  United States",Puerto Rico, United States,"Puerto Rico, United States",18.2214149,-66.4132817951,2914.266,17853.019,1,0
+"Gothenburg,  Sweden",Gothenburg, Sweden,"Gothenburg, Göteborgs Stad, Västra Götaland County, 41106, Sweden",57.7072326,11.9670171,2917.393,15948.003,3,0
+"Hsinchu,  Taiwan",Hsinchu, Taiwan,"Hsinchu, Taiwan Province, Taiwan",24.8066333,120.9686833,2935.728,17986.044,1,0
+"Taipei,  Taiwan",Taipei, Taiwan,"Taipei, Taiwan",25.0375198,121.5636796,2946.873,18055.12,1,0
+"Urbana,  United States",Urbana, United States,"Urbana, Champaign County, Illinois, United States",40.1117174,-88.207301,2991.296,18330.456,1,0
+"St. Louis,  United States",St. Louis, United States,"St. Louis, City of Saint Louis, Madison County, Illinois, United States",38.6529545,-90.2411165602,3068.209,18807.165,1,0
+"Belo Horizonte,  Brazil",Belo Horizonte, Brazil,"Belo Horizonte, Região Geográfica Imediata de Belo Horizonte, Região Metropolitana de Belo Horizonte, Região Geográfica Intermediária de Belo Horizonte, Minas Gerais, Southeast Region, Brazil",-19.9227318,-43.9450948,3087.367,18925.903,1,0
+"Gainesville,  United States",Gainesville, United States,"Gainesville, Alachua County, Florida, United States",29.6519684,-82.3249846,3096.183,18980.546,1,0
+"Boulder,  United States",Boulder, United States,"Boulder, Boulder County, Colorado, United States",40.0149856,-105.270545,3320.422,20370.38,1,0
+"Houston,  United States",Houston, United States,"Houston, Harris County, Texas, United States",29.7589382,-95.3676974,3397.906,20850.628,1,0
+"Austin,  United States",Austin, United States,"Austin, Travis County, Texas, United States",30.2711286,-97.7436995,3436.574,21090.297,1,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,3642.901,22369.112,1,0
+"Ithaka,  United States",Ithaka, United States,"Ithaka, 1230, Emerson Street, Old Palo Alto, Palo Alto, Santa Clara County, California, 94301, United States",37.4386859,-122.1536908453,3655.437,22446.814,1,0
+"Mountain View,  United States",Mountain View, United States,"Mountain View, Santa Clara County, California, United States",37.3893889,-122.0832101,3656.09,22450.862,1,0
+"Santa Cruz County,  United States",Santa Cruz County, United States,"Santa Cruz County, California, United States",37.050096,-121.9905908,3665.692,22510.372,1,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,3702.556,22738.856,1,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,4062.638,24970.648,1,0
+"Hilo,  United States",Hilo, United States,"Hilo, Hawaiʻi County, Hawaii, United States",19.7073734,-155.0815803,4518.303,27794.87,1,0
+"Hatfield,  United Kingdom",Hatfield, United Kingdom,"Hatfield, Welwyn Hatfield, Hertfordshire, East of England, England, United Kingdom",51.7634675,-0.2258741,4900.014,26791.916,5,0
+"Cologne,  Germany",Cologne, Germany,"Cologne, North Rhine-Westphalia, Germany",50.938361,6.959974,4928.76,26793.93,6,0
+"Cardiff,  United Kingdom",Cardiff, United Kingdom,"Cardiff, Wales, CF, United Kingdom",51.4816546,-3.1791934,5182.423,28379.64,5,0
+"Vienna,  Austria",Vienna, Austria,"Vienna, Austria",48.2083537,16.3725042,5332.892,28466.731,9,0
+"Washington,  United States",Washington, United States,"Washington, D.C., Cypress Gardens, Polk County, Florida, United States",27.99124005,-81.6909167646,6234.935,38224.936,2,0
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Derby Street, Claremont, Berkeley, Alameda County, California, 94720-1076, United States",37.8753497,-122.2396336492,7285.224,44734.644,2,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,8001.113,48962.085,3,0
+"Valparaíso,  Chile",Valparaíso, Chile,"Valparaíso, Provincia de Valparaíso, Valparaiso Region, Chile",-33.0458456,-71.6196749,8163.037,50175.343,2,0
+"Mexico City,  Mexico",Mexico City, Mexico,"Mexico City, Mexico",19.4326296,-99.1331785,18738.458,115093.038,5,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,23125.046,141442.58,9,0

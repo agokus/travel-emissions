@@ -1,0 +1,46 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Carlsbad, United States",Carlsbad, United States,"Carlsbad, California, United States",33.1578903269,-117.3508989655,0,0,0,0
+"Irvine,  United States",Irvine, United States,"Irvine, Orange County, California, United States",33.6856969,-117.8259819,4.39,146.81,0,1
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, California, United States",34.0536909,-118.242766,15.476,517.591,0,2
+"Riverside,  United States",Riverside, United States,"Riverside, Riverside County, California, United States",33.9533546,-117.3961623,15.882,531.179,0,3
+"San Diego,  United States",San Diego, United States,"San Diego, San Diego County, California, United States",32.7174202,-117.1627728,24.897,832.661,0,8
+"Santa Barbara,  United States",Santa Barbara, United States,"Santa Barbara, Santa Barbara County, California, United States",34.4221319,-119.7026673,30.956,1035.331,0,2
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,142.421,4763.241,0,18
+"Santa Cruz County,  United States",Santa Cruz County, United States,"Santa Cruz County, California, United States",37.050096,-121.9905908,293.236,1208.729,1,0
+"Lewiston,  United States",Lewiston, United States,"Lewiston, Nez Perce County, Idaho, 83501, United States",46.4195913,-117.0216144,555.076,2949.755,1,0
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Derby Street, Claremont, Berkeley, Alameda County, California, 94720-1076, United States",37.8753497,-122.2396336492,648.85,2744.059,2,0
+"Victoria,  Canada",Victoria, Canada,"Victoria, Capital Regional District, British Columbia, Canada",48.4283182,-123.3649533,658.95,3540.865,1,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,881.063,3633.275,3,0
+"Milwaukee,  United States",Milwaukee, United States,"Milwaukee, Milwaukee County, Wisconsin, United States",43.0349931,-87.922497,1016.265,5562.249,1,0
+"Columbus,  United States",Columbus, United States,"Columbus, Franklin, Ohio, United States",39.9622601,-83.0007065,1143.588,6278.068,1,0
+"Hamilton,  Canada",Hamilton, Canada,"Hamilton, Golden Horseshoe, Ontario, Canada",43.2560802,-79.8728583,1227.916,6857.079,1,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,1234.979,6945.511,1,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,1244.383,7371.474,1,0
+"Tempe,  United States",Tempe, United States,"Tempe, Maricopa County, Arizona, United States",33.4255056,-111.9400091,1273.953,5037.157,5,0
+"Princeton,  United States",Princeton, United States,"Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958,1275.537,7696.15,1,0
+"New Brunswick,  United States",New Brunswick, United States,"New Brunswick, Middlesex County, New Jersey, United States",40.4862174,-74.4518173,1281.046,7730.291,1,0
+"Vancouver,  Canada",Vancouver, Canada,"Vancouver, District of North Vancouver, British Columbia, Canada",49.2608724,-123.1139529,1375.887,7411.719,2,0
+"Austin,  United States",Austin, United States,"Austin, Travis County, Texas, United States",30.2711286,-97.7436995,2091.651,11275.89,3,0
+"College Station,  United States",College Station, United States,"College Station, Brazos County, Texas, United States",30.5955289,-96.3071042,2223.005,12023.38,3,0
+"University of Maryland,  United States",University of Maryland, United States,"University of Maryland, College Park, University Boulevard East, Berwyn, College Park, Prince George's County, Maryland, 20740, United States",38.99203005,-76.946102902,2480.449,14632.93,2,0
+"Valparaíso,  Chile",Valparaíso, Chile,"Valparaíso, Provincia de Valparaíso, Valparaiso Region, Chile",-33.0458456,-71.6196749,2866.804,17558.851,1,0
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.4811088666,2930.718,17954.988,1,0
+"Evanston,  United States",Evanston, United States,"Evanston, Evanston Township, Cook County, Illinois, United States",42.0447388,-87.6930459,3043.522,16657.108,3,0
+"Chicago,  United States",Chicago, United States,"Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212,3045.688,16669.285,3,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,3067.863,18805.016,1,0
+"Lyon,  France",Lyon, France,"Lyon, Métropole de Lyon, Departemental constituency of Rhône, Auvergne-Rhône-Alpes, Metropolitan France, France",45.7578137,4.8320114,3096.935,18985.205,1,0
+"Zurich,  Switzerland",Zurich, Switzerland,"Zurich, District Zurich, Zurich, Switzerland",47.3744489,8.5410422,3118.916,19121.446,1,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,3878.804,23411.939,3,0
+"Kensington,  Australia",Kensington, Australia,"Kensington, Sydney, Randwick City Council, New South Wales, 2033, Australia",-33.9117191,151.2195058,3938.148,24199.057,1,0
+"Ho Chi Minh City,  Vietnam",Ho Chi Minh City, Vietnam,"Ho Chi Minh City, Vietnam",10.7715512,106.6983801,4313.239,26523.877,1,0
+"Rourkela,  India",Rourkela, India,"Rourkela, Sundargarh, Odisha, India",22.2539994,84.857752014,4363.804,26837.283,1,0
+"University of the Witwatersrand,  South Africa",University of the Witwatersrand, South Africa,"University of the Witwatersrand, Empire Road, Braamfontein, Johannesburg Ward 60, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa",-26.1888813,28.0247918865,5389.676,33195.658,1,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,5791.56,35476.888,2,0
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,5872.331,35977.506,2,0
+"Seoul,  South Korea",Seoul, South Korea,"Seoul, Nowon-gu, South Korea",37.5666791,126.9782914,6336.985,38857.444,2,0
+"Porto Alegre,  Brazil",Porto Alegre, Brazil,"Porto Alegre, Metropolitan Region of Porto Alegre, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, South Region, Brazil",-30.0324999,-51.2303767,6445.382,39529.291,2,0
+"Canberra,  Australia",Canberra, Australia,"Canberra, District of Canberra Central, Australian Capital Territory, 2601, Australia",-35.2975906,149.1012676,8033.017,49369.476,2,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,8325.581,51182.793,2,0
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,9519.33,58581.671,2,0
+"São Paulo,  Brazil",São Paulo, Brazil,"São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Southeast Region, Brazil",-23.5506507,-46.6333824,9574.074,58711.326,3,0
+"Rio de Janeiro,  Brazil",Rio de Janeiro, Brazil,"Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Southeast Region, Brazil",-22.9110137,-43.2093727,13070.555,80172.921,4,0

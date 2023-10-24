@@ -1,0 +1,7 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Noordwijk,  Netherlands",Noordwijk, Netherlands,"Noordwijk, South Holland, Netherlands",52.2410856,4.4461969,0,0,0,8
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.4811088666,4.883,163.322,0,8
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,72.539,2426.046,0,3
+"Munich,  Germany",Munich, Germany,"Munich, Bavaria, Germany",48.1371079,11.5753822,81.563,2727.852,0,2
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,85.892,2872.64,0,8
+"London, UK",London,United Kingdom,"London, United Kingdom",52.2410856,4.4461969,186.749,648.726,1,0

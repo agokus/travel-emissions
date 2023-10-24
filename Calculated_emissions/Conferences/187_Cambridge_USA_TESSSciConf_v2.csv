@@ -1,0 +1,88 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,0,0,0,79
+"Hull,  United States",Hull, United States,"Hull, Plymouth County, Massachusetts, 02045, United States",42.3020436,-70.9078243,1.087,36.347,0,1
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,1.516,50.687,0,6
+"Lowell,  United States",Lowell, United States,"Lowell, Middlesex County, Massachusetts, United States",42.6334247,-71.3161718,2.004,67.023,0,1
+"Wellesley,  United States",Wellesley, United States,"Wellesley, Norfolk County, Massachusetts, United States",42.2964859,-71.2925571,5.286,176.784,0,5
+"Hanover,  United States",Hanover, United States,"Hanover, Grafton County, New Hampshire, United States",43.703622,-72.288666,10.54,352.508,0,1
+"New Haven,  United States",New Haven, United States,"New Haven, New Haven County, Connecticut, United States",41.29843435,-72.9310234271,11.534,385.743,0,1
+"Danbury,  United States",Danbury, United States,"Danbury, Fairfield County, Connecticut, United States",41.39508,-73.475290614,13.419,448.784,0,1
+"Voorheesville,  United States",Voorheesville, United States,"Voorheesville, Town of New Scotland, Albany County, New York, United States",42.653967,-73.9287366,13.96,466.895,0,1
+"Yorktown Heights,  United States",Yorktown Heights, United States,"Yorktown Heights, Town of Yorktown, Westchester, New York, United States",41.2695965,-73.7752704009,15.133,506.122,0,1
+"Middletown,  United States",Middletown, United States,"Middletown, Middlesex County, Connecticut, United States",41.54961415,-72.6515775675,18.821,629.452,0,2
+"Morristown,  United States",Morristown, United States,"Morristown, Morris County, New Jersey, 07960, United States",40.7970384,-74.4809492,189.301,662.028,1,0
+"Ithaca,  United States",Ithaca, United States,"Ithaca, Ithaca Town, Tompkins County, New York, United States",42.4396039,-76.4968019,232.141,885.232,1,0
+"Bloomsburg,  United States",Bloomsburg, United States,"Bloomsburg, Columbia County, Pennsylvania, United States",41.0044958,-76.4537302,242.424,938.814,1,0
+"Alexandria,  United States",Alexandria, United States,"Alexandria, Virginia, United States",38.8051095,-77.0470229,306.645,1278.935,1,0
+"Fairfax,  United States",Fairfax, United States,"Fairfax, Fairfax (city), Virginia, United States",38.8462236,-77.3063733,312.151,1307.761,1,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,325.028,1375.183,1,0
+"Williamsburg,  United States",Williamsburg, United States,"Williamsburg, Williamsburg (city), Virginia, United States",37.2708788,-76.7074042,345.781,1483.848,1,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,357.863,1215.991,2,0
+"Princeton,  United States",Princeton, United States,"Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958,410.353,1489.482,2,0
+"Montreal,  Canada",Montreal, Canada,"Montreal, Urban agglomeration of Montreal, Montreal (06), Quebec, Canada",45.4972159,-73.6103642,432.243,1603.534,2,0
+"Chapel Hill,  United States",Chapel Hill, United States,"Chapel Hill, Orange County, North Carolina, United States",35.9131542,-79.05578,435.457,1984.506,1,0
+"Bethlehem,  United States",Bethlehem, United States,"Bethlehem, Northampton County, Pennsylvania, United States",40.6178915,-75.3786521,436.107,1623.67,2,0
+"Columbus,  United States",Columbus, United States,"Columbus, Franklin County, Ohio, United States",39.9622601,-83.0007065,444.296,2060.414,1,0
+"Athen Church Road,  United States",Athen, United States,"Athen Church Road, Lanier, Bryan County, Georgia, United States",32.137907,-81.53602,550.963,2926.348,1,0
+"Nashville, Tennessee,  United States",Nashville, United States,"The Joseph, a Luxury Collection Hotel, Nashville, 401, Korean Veterans Boulevard, The Gulch East, Nashville, Davidson County, Tennessee, 37203, United States",36.1565461,-86.774741614,568.321,3025.128,1,0
+"Fort Myers,  United States",Fort Myers, United States,"Fort Myers, Lee County, Florida, United States",26.640628,-81.8723084,741.264,4009.287,1,0
+"Ann Arbor,  United States",Ann Arbor, United States,"Ann Arbor, Washtenaw County, Michigan, United States",42.2681569,-83.7312291,891.816,4148.517,2,0
+"University of Maryland,  United States",University of Maryland, United States,"University of Maryland, College Park, University Boulevard East, Berwyn, College Park, Prince George's County, Maryland, 20740, United States",38.99203005,-76.946102902,897.009,3716.765,3,0
+"Washington,  United States",Washington, United States,"Washington, District of Columbia, United States",38.8949924,-77.0365581,911.787,3794.14,3,0
+"Canberra,  United States",Canberra, United States,"Canberra, Houston, Harris County, Texas, 77061, United States",29.641919,-95.289916,945.086,5162.08,1,0
+"Louisville,  United States",Louisville, United States,"Louisville, Jefferson County, Kentucky, United States",38.2542376,-85.759407,1024.552,5288.474,2,0
+"Denver,  United States",Denver, United States,"Denver, Colorado, United States",39.7392364,-104.9848623,1036.091,5673.712,1,0
+"State College,  United States",State College, United States,"State College, Centre County, Pennsylvania, United States",40.7944504,-77.8616386,1148.796,4708.469,4,0
+"Gilbert,  United States",Gilbert, United States,"Gilbert, Maricopa County, Arizona, 85269, United States",33.3527632,-111.7890373,1242.231,7343.009,1,0
+"Mountain View,  United States",Mountain View, United States,"Mountain View, Santa Clara County, California, United States",37.3893889,-122.0832101,1427.694,8639.219,1,0
+"Stanford,  United States",Stanford, United States,"Stanford, Palo Alto, Santa Clara County, California, United States",37.4265407,-122.1702925841,1429.427,8649.965,1,0
+"San Cristóbal de La Laguna,  Spain",San Cristóbal de La Laguna, Spain,"San Cristóbal de La Laguna, Santa Cruz de Tenerife, Canary Islands, Spain",28.4857715,-16.3159422,1680.996,10209.192,1,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,1694.644,6913.225,6,0
+"Oxford,  United Kingdom",Oxford, United Kingdom,"Oxford, Oxfordshire, South East England, England, United Kingdom",51.7520131,-1.2578499,1706.51,10367.328,1,0
+"Milton Keynes,  United Kingdom",Milton Keynes, United Kingdom,"Milton Keynes, South East England, England, MK9 3AF, United Kingdom",52.0429797,-0.7589607,1713.923,10413.273,1,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,1731.095,10519.707,1,0
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands",52.3727598,4.8936041,1827.537,11117.457,1,0
+"Cologne,  Germany",Cologne, Germany,"Cologne, North Rhine-Westphalia, Germany",50.938361,6.959974,1889.355,11500.601,1,0
+"Wiesbaden,  Germany",Wiesbaden, Germany,"Wiesbaden, Hesse, Germany",50.0820384,8.2416556,1928.462,11742.987,1,0
+"Königstein im Taunus,  Germany",Königstein im Taunus, Germany,"Königstein im Taunus, Hochtaunuskreis, Hesse, 61462, Germany",50.1818833,8.465271,1931.673,11762.889,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,1948.077,11864.562,1,0
+"Marseille,  France",Marseille, France,"Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, Metropolitan France, 13000, France",43.2961743,5.3699525,1971.007,12006.684,1,0
+"Austin,  United States",Austin, United States,"Austin, Travis County, Texas, United States",30.2711286,-97.7436995,1991.148,10891.848,2,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,1991.56,12134.07,1,0
+"Berlin,  Germany",Berlin, Germany,"Berlin, 10117, Germany",52.5170365,13.3888599,1996.256,12163.18,1,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,2029.064,12366.521,1,0
+"Innsbruck,  Austria",Innsbruck, Austria,"Innsbruck, Tyrol, Austria",47.2654296,11.3927685,2039.931,12433.874,1,0
+"Laramie,  United States",Laramie, United States,"Laramie, Albany County, Wyoming, 82070, United States",41.311367,-105.591101,2074.04,11357.877,2,0
+"Boulder,  United States",Boulder, United States,"Boulder, Boulder County, Colorado, United States",40.0149856,-105.270545,2082.488,11405.369,2,0
+"Cracow,  Poland",Cracow, Poland,"Cracow, 18, Main Square, Old Town, Stare Miasto, Old Town, Krakow, Lesser Poland Voivodeship, 31-005, Poland",50.0606742,19.9371393,2167.331,13223.503,1,0
+"Greenbelt,  United States",Greenbelt, United States,"Greenbelt, Good Luck Road, New Carrollton, Prince George's County, Maryland, 20706, United States",38.9937333,-76.883065797,2378.789,9842.08,8,0
+"Flagstaff,  United States",Flagstaff, United States,"Flagstaff, Coconino County, Arizona, United States",35.1987522,-111.6518229,2453.246,14273.061,2,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,2482.515,14660.262,2,0
+"São Paulo,  Brazil",São Paulo, Brazil,"São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Southeast Region, Brazil",-23.5506507,-46.6333824,2534.404,15498.626,1,0
+"Chicago,  United States",Chicago, United States,"Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212,2609.242,13613.113,5,0
+"San Diego,  United States",San Diego, United States,"San Diego, San Diego County, California, United States",32.7174202,-117.1627728,2743.516,16585.054,2,0
+"El Segundo,  United States",El Segundo, United States,"El Segundo, California, 90245, United States",33.917028,-118.4156337,2769.583,16746.621,2,0
+"Preston,  United Kingdom",Preston, United Kingdom,"Preston, Lancashire, North West England, England, United Kingdom",53.7593363,-2.6992717,3313.099,20115.34,2,0
+"Coventry,  United Kingdom",Coventry, United Kingdom,"Coventry, West Midlands Combined Authority, West Midlands, England, United Kingdom",52.4081812,-1.510477,3388.579,20583.171,2,0
+"Daegu,  South Korea",Daegu, South Korea,"Daegu, South Korea",35.8713,128.6018,3611.46,22174.239,1,0
+"Noordwijk,  Netherlands",Noordwijk, Netherlands,"Noordwijk, South Holland, Netherlands",52.2410856,4.4461969,3640.01,22141.541,2,0
+"Aarhus,  Denmark",Aarhus, Denmark,"Aarhus, Aarhus Municipality, Central Denmark Region, 8000, Denmark",56.1496278,10.2134046,3766.884,22927.91,2,0
+"Geneva,  Switzerland",Geneva, Switzerland,"Geneva, Grand Genève, Geneva, Switzerland",46.2017559,6.1466014,3883.999,23653.793,2,0
+"Göttingen,  Germany",Göttingen, Germany,"Göttingen, Landkreis Göttingen, Lower Saxony, Germany",51.5328328,9.9351811,3884.109,23654.472,2,0
+"Pune,  India",Pune, India,"Pune, Pune District, Maharashtra, India",18.521428,73.8544541,4018.933,24699.765,1,0
+"Prague,  Czechia",Prague, Czechia,"Prague, Czechia",50.0596288,14.4464592733,4114.322,25081.336,2,0
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,5199.486,31597.549,3,0
+"Riverside,  United States",Riverside, United States,"Riverside, Riverside County, California, United States",33.9533546,-117.3961623,5428.82,32809.315,4,0
+"Churchill,  Australia",Churchill, Australia,"Churchill, Latrobe City, Victoria, 3842, Australia",-38.3148078,146.4240251,5464.235,33657.773,1,0
+"Padua,  Italy",Padua, Italy,"Padua, Padova, Veneto, Italy",45.4077172,11.8734455,8328.761,50783.201,4,0
+"Budapest,  Hungary",Budapest, Hungary,"Budapest, V. kerület, Central Hungary, Hungary",47.4983815,19.0404707,8788.182,53630.702,4,0
+"San Francisco,  United States",San Francisco, United States,"San Francisco, California, United States",37.7790262,-122.419906,10016.071,60612.22,7,0
+"Canberra,  Australia",Canberra, Australia,"Canberra, District of Canberra Central, Australian Capital Territory, 2601, Australia",-35.2975906,149.1012676,10702.928,65917.632,2,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,11016.39,67441.175,4,0
+"Leuven,  Belgium",Leuven, Belgium,"Leuven, Flemish Brabant, Flanders, Belgium",50.879202,4.7011675,11057.303,67275.45,6,0
+"Chaoyang City,  China",Chaoyang City, China,"Chaoyang City, Liaoning, 122000, China",41.5754767,120.4390738,13828.241,84869.074,4,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,17572.089,107863.86,5,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,19233.805,116276.33,14,0
+"Toowoomba,  Australia",Toowoomba, Australia,"Toowoomba, Toowoomba Regional, Queensland, 4350, Australia",-27.5610193,151.953351,25683.86,158140.764,5,0
+"Honolulu,  United States",Honolulu, United States,"Honolulu, Honolulu County, Hawaii, United States",21.304547,-157.855676,26713.301,163472.993,10,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,31635.283,194818.138,6,0

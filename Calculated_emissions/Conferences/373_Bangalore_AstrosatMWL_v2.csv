@@ -1,0 +1,19 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,0,0,0,50
+"Vellore,  India",Vellore, India,"Vellore, Vellore District, Tamil Nadu, India",12.7948109,79.0006410969,9.217,308.266,0,1
+"Puducherry,  India",Puducherry, India,"Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",11.9340568,79.8306447,16.115,538.961,0,1
+"Kozhikode,  India",Kozhikode, India,"Kozhikode, Kozhikode district, Kerala, 673001, India",11.2450558,75.7754716,115.513,3863.316,0,7
+"Changanassery,  India",Changanassery, India,"Changanassery, Kottayam, Kerala, India",9.48966745,76.6278342501,216.543,803.964,1,0
+"Hyderabad,  India",Hyderabad, India,"Hyderabad, Bahadurpura mandal, Hyderabad, Telangana, India",17.360589,78.4740613,251.965,992.636,1,0
+"Raipur,  India",Raipur, India,"Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",21.2379469,81.6336833,440.441,2027.305,1,0
+"Bhubaneswar,  India",Bhubaneswar, India,"Bhubaneswar, Master Canteen Chowk, Ward 41, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751006, India",20.2667774,85.8435592,482.703,2390.263,1,0
+"Valiamala,  India",Valiamala, India,"Valiamala, India",8.6268641,77.0307611196,497.426,1951.219,2,0
+"Thiruvananthapuram,  India",Thiruvananthapuram, India,"Thiruvananthapuram, Kerala, 695001, India",8.5241122,76.9360573,507.138,2002.068,2,0
+"Udaipur,  India",Udaipur, India,"Udaipur, Rajasthan, 313001, India",24.578721,73.6862571,519.87,2706.921,1,0
+"Kanpur,  India",Kanpur, India,"Kanpur, Kanpur Nagar, Uttar Pradesh, 208012, India",26.4609135,80.3217588,573.022,3051.878,1,0
+"Manipal,  India",Manipal, India,"Manipal, Udupi taluku, Udupi district, Karnataka, 576104, India",13.3519723,74.7870308,719.475,2451.523,4,0
+"Sahibzada Ajit Singh Nagar,  India",Sahibzada Ajit Singh Nagar, India,"Sahibzada Ajit Singh Nagar, S.A.S. Nagar (Mohali) Tahsil, Sahibzada Ajit Singh Nagar, Punjab, 160059, India",30.7047049,76.7178146,730.155,3946.069,1,0
+"Pune,  India",Pune, India,"Pune, Pune District, Maharashtra, India",18.521428,73.8544541,1714.836,7345.566,5,0
+"Hiroshima,  Japan",Hiroshima, Japan,"Hiroshima, Hiroshima Prefecture, Japan",34.3916058,132.4518156,1966.559,11979.118,1,0
+"Nainital,  India",Nainital, India,"Nainital, India",29.2031392,79.4176945,2022.636,10883.152,3,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,2171.895,13251.794,1,0

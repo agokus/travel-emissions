@@ -1,0 +1,44 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Crawley,  Australia",Crawley, Australia,"Crawley, City of Perth, Western Australia, Australia",-31.9786452,115.8172143,0,0,0,16
+"Heidelberg,  Australia",Heidelberg, Australia,"Heidelberg, Melbourne, City of Banyule, Victoria, 3084, Australia",-37.7513665,145.069740281416,998.142,5460.365,1,0
+"Naha,  Japan",Naha, Japan,"Naha, Okinawa Prefecture, 900-8585, Japan",26.2122345,127.6791452,2159.659,13175.95,1,0
+"Matsuyama,  Japan",Matsuyama, Japan,"Matsuyama, Ehime Prefecture, Japan",33.8395188,132.7653521,2462.654,15053.922,1,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,2590.408,15845.744,1,0
+"Concepcion,  Chile",Concepcion, Chile,"Concepcion, Provincia de Concepción, Biobío Region, Chile",-36.8270795,-73.0502399,4006.455,24622.427,1,0
+"Padua,  Italy",Padua, Italy,"Padua, Padova, Veneto, Italy",45.4077172,11.8734455,4389.368,26995.729,1,0
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,4393.627,27022.126,1,0
+"Antofagasta,  Chile",Antofagasta, Chile,"Antofagasta, Provincia de Antofagasta, Antofagasta Region, Chile",-23.6463741,-70.3980033,4485.917,27594.142,1,0
+"Zurich,  Switzerland",Zurich, Switzerland,"Zurich, District Zurich, Zurich, Switzerland",47.3744489,8.5410422,4486.18,27595.772,1,0
+"Canberra,  Australia",Canberra, Australia,"Canberra, District of Canberra Central, Australian Capital Territory, 2601, Australia",-35.2975906,149.1012676,4498.449,24685.551,4,0
+"Marseille,  France",Marseille, France,"Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, Metropolitan France, 13000, France",43.2961743,5.3699525,4532.815,27884.818,1,0
+"County Durham,  United Kingdom",County Durham, United Kingdom,"County Durham, North East England, England, United Kingdom",54.666667,-1.75,4742.678,29185.553,1,0
+"Birmingham,  United Kingdom",Birmingham, United Kingdom,"Birmingham, West Midlands Combined Authority, West Midlands, England, United Kingdom",52.4796992,-1.9026911,4746.24,29207.627,1,0
+"Cardiff,  United Kingdom",Cardiff, United Kingdom,"Cardiff, Wales, CF, United Kingdom",51.4816546,-3.1791934,4774.063,29380.075,1,0
+"Daejeon,  South Korea",Daejeon, South Korea,"Daejeon, South Korea",36.3496,127.3848,5029.931,30756.297,2,0
+"Tempe,  United States",Tempe, United States,"Tempe, Maricopa County, Arizona, United States",33.4255056,-111.9400091,5060.828,31157.45,1,0
+"Boulder,  United States",Boulder, United States,"Boulder, Boulder County, Colorado, United States",40.0149856,-105.270545,5275.022,32485.026,1,0
+"Mexico, Mexico",Mexico,Mexico,Mexico,22.5000485,-100.0000375,5305.143,32671.719,1,0
+"Austin,  United States",Austin, United States,"Austin, Travis County, Texas, United States",30.2711286,-97.7436995,5462.425,33646.552,1,0
+"Lund,  United States",Lund, United States,"Lund, Town of Pepin, Pepin County, Wisconsin, 54769, United States",44.5396896,-92.2060094,5588.276,34426.585,1,0
+"Madison,  United States",Madison, United States,"Madison, Dane County, Wisconsin, 53703, United States",43.074761,-89.3837613,5675.169,34965.144,1,0
+"Urbana,  United States",Urbana, United States,"Urbana, Champaign County, Illinois, United States",40.1117174,-88.207301,5738.213,35355.896,1,0
+"Bloomington,  United States",Bloomington, United States,"Bloomington, Monroe County, Indiana, United States",39.1670396,-86.5342881,5791.646,35687.072,1,0
+"Hamilton,  Canada",Hamilton, Canada,"Hamilton, Golden Horseshoe, Ontario, Canada",43.2560802,-79.8728583,5890.518,36299.881,1,0
+"Somerville,  United States",Somerville, United States,"Somerville, Middlesex County, Massachusetts, United States",42.3875968,-71.0994968,6068.743,37404.526,1,0
+"New Haven,  United States",New Haven, United States,"New Haven, New Haven County, Connecticut, United States",41.29843435,-72.9310234270791,6072.718,37429.161,1,0
+"Tehran,  Iran",Tehran, Iran,"Tehran, بخش مرکزی شهرستان تهران, Tehran County, Iran",35.6892523,51.3896004,6574.496,40329.541,2,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,7953.25,48875.082,2,0
+"Rio de Janeiro,  Brazil",Rio de Janeiro, Brazil,"Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Southeast Region, Brazil",-22.9110137,-43.2093727,8793.72,54084.331,2,0
+"Munich,  Germany",Munich, Germany,"Munich, Bavaria, Germany",48.1371079,11.5753822,8841.665,54381.492,2,0
+"Ghent,  Belgium",Ghent, Belgium,"Ghent, Gent, East Flanders, Flanders, Belgium",51.0538286,3.7250121,9236.982,56831.673,2,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,9282.243,57112.204,2,0
+"Nottingham,  United Kingdom",Nottingham, United Kingdom,"Nottingham, Nottinghamshire, East Midlands, England, United Kingdom",52.9534193,-1.1496461,9460.201,58215.19,2,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,9582.186,52661.628,8,0
+"Victoria,  Canada",Victoria, Canada,"Victoria, Capital Regional District, British Columbia, Canada",48.4283182,-123.3649533,9623.211,59225.526,2,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,12088.097,74502.938,2,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,12137.071,74806.477,2,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,12407.395,76272.296,3,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,13260.09,81557.321,3,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,14656.403,90211.694,3,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,17988.077,110651.811,4,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,24276.197,149625.692,4,0

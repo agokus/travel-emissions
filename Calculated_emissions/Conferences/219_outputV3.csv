@@ -1,0 +1,77 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Matera, Italy",Matera,Italy,"Matera, Italy",40.6681462834,16.6018852594,0,0,0,0
+"Potenza,  Italy",Potenza, Italy,"Potenza, Basilicata, Italy",40.5183188,15.8209599902,6.668,223.005,0,2
+"Gran Sasso,  Italy",Gran Sasso, Italy,"Gran Sasso, 12, Via Luigi Vinciguerra, Coste Sant'Agostino, San Giorgio, Scapriano, Teramo, Abruzzo, 64100, Italy",42.6613631,13.7008615,20.173,674.673,0,1
+"Capodimonte,  Italy",Capodimonte, Italy,"Capodimonte, Viterbo, Lazio, Italy",42.546527,11.904755,53.375,1785.131,0,2
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,110.822,3706.43,0,5
+"Naples,  Italy",Naples, Italy,"Naples, Napoli, Campania, Italy",40.8359336,14.2487826,126.699,4237.441,0,11
+"Thessaloniki,  Greece",Thessaloniki, Greece,"Thessaloniki, Thessaloniki Municipal Unit, Municipality of Thessaloniki, Thessaloniki Regional Unit, Central Macedonia, Macedonia and Thrace, 54626, Greece",40.6403167,22.9352716,271.056,1092.595,1,0
+"Ferrara,  Italy",Ferrara, Italy,"Ferrara, Emilia-Romagna, Italy",44.76676425,11.8279389956,296.274,1224.631,1,0
+"Cagliari,  Italy",Cagliari, Italy,"Cagliari, Sardinia, Italy",39.2169525,9.1128513,308.01,1286.083,1,0
+"Genoa,  Italy",Genoa, Italy,"Genoa, Liguria, Italy",44.40726,8.9338624,352.29,1517.926,1,0
+"Milan,  Italy",Milan, Italy,"Milan, Lombardy, Italy",45.4668,9.1905,373.112,1626.946,1,0
+"Marseille,  France",Marseille, France,"Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, Metropolitan France, 13000, France",43.2961743,5.3699525,430.624,1943.003,1,0
+"Prague,  Czechia",Prague, Czechia,"Prague, Czechia",50.0596288,14.4464592733,455.987,2160.818,1,0
+"Strasbourg,  France",Strasbourg, France,"Strasbourg, Bas-Rhin, Grand Est, Metropolitan France, France",48.584614,7.7507127,469.229,2274.545,1,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,520.28,2710.179,1,0
+"Berlin,  Germany",Berlin, Germany,"Berlin, 10117, Germany",52.5170365,13.3888599,522.11,2724.701,1,0
+"Ankara,  Turkey",Ankara, Turkey,"Ankara, Çankaya, Ankara, Central Anatolia Region, 06420, Turkey",39.9207893,32.8540412,529.271,2781.52,1,0
+"Liège,  Belgium",Liège, Belgium,"Liège, Wallonia, 4000, Belgium",50.6451381,5.5734203,534.944,2826.531,1,0
+"Valencia,  Spain",Valencia, Spain,"Valencia, Comarca de València, Valencia, Valencian Community, Spain",39.4697065,-0.3763353,542.139,2876.137,1,0
+"Hamburg,  Germany",Hamburg, Germany,"Hamburg, Germany",53.550341,10.000654,576.508,3071.716,1,0
+"Cartagena,  Spain",Cartagena, Spain,"Cartagena, Campo de Cartagena y Mar Menor, Region of Murcia, Spain",37.6019353,-0.9841152,577.326,3076.374,1,0
+"San Sebastián,  Spain",San Sebastián, Spain,"San Sebastián, Donostialdea, Gipuzkoa, Autonomous Community of the Basque Country, Spain",43.3224219,-1.9838889,584.154,3115.226,1,0
+"Oran,  Algeria",Oran, Algeria,"Oran, Oran District, Oran, Algeria",35.7032751,-0.6492976,594.054,3171.565,1,0
+"Pisa,  Italy",Pisa, Italy,"Pisa, Tuscany, Italy",43.7159395,10.4018624,597.443,2474.894,2,0
+"Padua,  Italy",Padua, Italy,"Padua, Padova, Veneto, Italy",45.4077172,11.8734455,633.883,2665.69,2,0
+"Santander,  Spain",Santander, Spain,"Santander, Cantabria, Spain",43.4620412,-3.8099719,636.287,3411.9,1,0
+"Portsmouth,  United Kingdom",Portsmouth, United Kingdom,"Portsmouth, South East England, England, United Kingdom",50.8036831,-1.075614,661.479,3555.261,1,0
+"Liverpool,  United Kingdom",Liverpool, United Kingdom,"Liverpool, North West England, England, United Kingdom",53.4071991,-2.99168,757.753,4103.119,1,0
+"County Durham,  United Kingdom",County Durham, United Kingdom,"County Durham, North East England, England, United Kingdom",54.666667,-1.75,766.966,4155.549,1,0
+"Stockholm,  Sweden",Stockholm, Sweden,"Stockholm, Stockholms kommun, Stockholm County, 111 29, Sweden",59.3251172,18.0710935,775.499,4204.104,1,0
+"City of Edinburgh,  United Kingdom",City of Edinburgh, United Kingdom,"City of Edinburgh, Scotland, United Kingdom",55.9533456,-3.1883749,824.392,4482.34,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,952.863,4672.8,2,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,1094.55,5810.723,2,0
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands",52.3727598,4.8936041,1192.115,6365.936,2,0
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,1201.039,6416.716,2,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,1271.231,6816.153,2,0
+"Copenhagen,  Denmark",Copenhagen, Denmark,"Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1357, Denmark",55.6867243,12.5700724,1281.373,6873.872,2,0
+"Brighton,  United Kingdom",Brighton, United Kingdom,"Brighton, Brighton and Hove, South East England, England, United Kingdom",50.8214626,-0.1400561,1285.695,6898.464,2,0
+"Douala,  Cameroon",Douala, Cameroon,"Douala, Douala II, Communauté urbaine de Douala, Wouri, Littoral, 3522 DLA, Cameroon",4.0429408,9.706203,1358.269,8208.922,1,0
+"Triest,  Italy",Triest, Italy,"Triest, UTI Giuliana / Julijska MTU, Friuli-Venezia Giulia, Italy",45.6504806,13.7931263,1492.366,6180.738,5,0
+"Lahore,  Pakistan",Lahore, Pakistan,"Lahore, Punjab, 531, Pakistan",31.5656822,74.3141829,1712.518,10404.566,1,0
+"Phagwara,  India",Phagwara, India,"Phagwara, Kapurthala, Punjab, 144400, India",31.2206734,75.7696463,1757.668,10684.407,1,0
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.4811088666,1786.66,9540.293,3,0
+"Delhi,  India",Delhi, India,"Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110006, India",28.6517178,77.2219388,1842.306,11208.992,1,0
+"Turin,  Italy",Turin, Italy,"Turin, Torino, Piemont, Italy",45.0677551,7.6824892,1996.084,8818.145,5,0
+"Nagpur,  India",Nagpur, India,"Nagpur, Nagpur District, Maharashtra, India",21.1498134,79.0820556,2039.654,12432.16,1,0
+"Kharkiv,  Ukraine",Kharkiv, Ukraine,"Kharkiv, Харківська міська громада, Kharkiv Raion, Kharkiv Oblast, Ukraine",49.9902794,36.2303893,2078.8,11202.758,3,0
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,2177.436,13286.132,1,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,2278.129,13910.233,1,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,2375.794,14515.56,1,0
+"Potchefstroom,  South Africa",Potchefstroom, South Africa,"Potchefstroom, Tlokwe Local Municipality, Potchefstroom, North West, 2520, South Africa",-26.7150922,27.1013887,2469.625,15097.128,1,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,2547.461,11378.466,6,0
+"Ann Arbor,  United States",Ann Arbor, United States,"Ann Arbor, Washtenaw County, Michigan, United States",42.2681569,-83.7312291,2557.371,15640.981,1,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,2602.885,15923.076,1,0
+"Chicago,  United States",Chicago, United States,"Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212,2647.41,16199.044,1,0
+"Cornell,  United States",Cornell, United States,"Cornell, Livingston County, Illinois, United States",40.9900326,-88.7292337,2690.583,16466.631,1,0
+"Nashville,  United States",Nashville, United States,"Nashville, Kingman County, Kansas, United States",37.4416863,-98.4225773,2974.228,18224.665,1,0
+"Hiroshima,  Japan",Hiroshima, Japan,"Hiroshima, Hiroshima Prefecture, Japan",34.3916058,132.4518156,3074.991,18849.195,1,0
+"Kyoto,  Japan",Kyoto, Japan,"Kyoto, Kyoto Prefecture, Japan",35.021041,135.7556075,3124.26,19154.564,1,0
+"Osaka Prefecture,  Japan",Osaka Prefecture, Japan,"Osaka Prefecture, Japan",34.6198813,135.490357,3129.792,19188.851,1,0
+"Austin,  United States",Austin, United States,"Austin, Travis County, Texas, United States",30.2711286,-97.7436995,3144.963,19282.883,1,0
+"Davis,  United States",Davis, United States,"Davis, Yolo County, California, United States",38.545379,-121.7445835,3344.461,20519.378,1,0
+"Quito,  Ecuador",Quito, Ecuador,"Quito, Pichincha, Ecuador",-0.1692388,-78.5043143726,3402.901,20881.588,1,0
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, California, United States",34.0536909,-118.242766,3428.435,21039.846,1,0
+"Irvine,  United States",Irvine, United States,"Irvine, Orange County, California, United States",33.6856969,-117.8259819,3432.748,21066.582,1,0
+"Mexico City,  Mexico",Mexico City, Mexico,"Mexico City, Mexico",19.4326296,-99.1331785,3457.302,21218.765,1,0
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,3571.157,14778.691,12,0
+"Reykjavik,  Iceland",Reykjavik, Iceland,"Reykjavik, Capital Region, Iceland",64.145981,-21.9422367,3698.154,21651.488,3,0
+"Cordoba,  Argentina",Cordoba, Argentina,"Cordoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X5000, Argentina",-31.4173391,-64.183319,3746.006,23008.157,1,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,4220.072,22969.23,5,0
+"Kolkata,  India",Kolkata, India,"Kolkata, Howrah, Thakurpukur Maheshtala, Howrah, West Bengal, 711101, India",22.5414185,88.3576912439,4527.226,27640.525,2,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,5076.032,31251.686,1,0
+"Taipei,  Taiwan",Taipei, Taiwan,"Taipei, Taiwan",25.0375198,121.5636796,6134.762,37604.058,2,0
+"Santa Cruz County,  United States",Santa Cruz County, United States,"Santa Cruz County, California, United States",37.050096,-121.9905908,6788.508,41655.992,2,0
+"Morelia,  Mexico",Morelia, Mexico,"Morelia, Michoacán, 58000, Mexico",19.7027116,-101.1923818,6995.692,42940.121,2,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,7889.904,48482.461,2,0

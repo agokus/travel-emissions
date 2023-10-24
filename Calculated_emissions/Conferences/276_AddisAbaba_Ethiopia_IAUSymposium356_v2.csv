@@ -1,0 +1,76 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Addis Ababa,  Ethiopia",Addis Ababa, Ethiopia,"Addis Ababa, 1138, Ethiopia",9.0107934,38.7612525,0,0,0,20
+"Dilla,  Ethiopia",Dilla, Ethiopia,"Dilla, Gedeo, Southern Nations, Ethiopia",6.4099614,38.3102763,17.548,586.875,0,1
+"Jimma,  Ethiopia",Jimma, Ethiopia,"Jimma, Oromia Region, Ethiopia",8.051086,37.1326289642,99.733,3335.564,0,8
+"Dodoma,  Tanzania",Dodoma, Tanzania,"Dodoma, Central Zone, Tanzania",-6.3372817,35.7371771233,647.984,3478.46,1,0
+"Kitwe,  Zambia",Kitwe, Zambia,"Kitwe, Kitwe District, Copperbelt Province, 1001, Zambia",-12.8104186,28.2068361,984.539,5383.885,1,0
+"Woldia,  Ethiopia",Woldia, Ethiopia,"Woldia, North Wollo, Amhara Region, Ethiopia",11.828852,39.596326,1125.156,3916.658,6,0
+"Tehran,  Iran",Tehran, Iran,"Tehran, بخش مرکزی شهرستان تهران, Tehran County, Iran",35.6892523,51.3896004,1176.312,6462.05,1,0
+"Nsukka,  Nigeria",Nsukka, Nigeria,"Nsukka, Enugu, 410001, Nigeria",6.8561,7.3927,1233.242,6923.765,1,0
+"Owerri,  Nigeria",Owerri, Nigeria,"Owerri, Owerri Municipal, Imo, 460242, Nigeria",5.489736,7.0341973,1242.56,7040.421,1,0
+"Pretoria,  South Africa",Pretoria, South Africa,"Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0126, South Africa",-25.7459374,28.1879444,1334.4,8060.985,1,0
+"Johannesburg,  South Africa",Johannesburg, South Africa,"Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa",-26.205,28.049722,1351.445,8166.631,1,0
+"Accra,  Ghana",Accra, Ghana,"Accra, Korle-Klottey Municipal District, Greater Accra Region, Ghana",5.5571096,-0.2012376,1425.408,8625.049,1,0
+"Durban,  South Africa",Durban, South Africa,"Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4057, South Africa",-29.861825,31.009909,1454.051,8802.58,1,0
+"Constantine,  Algeria",Constantine, Algeria,"Constantine, Constantine District, Constantine, Algeria",36.364519,6.60826,1468.536,8892.362,1,0
+"Florence,  Italy",Florence, Italy,"Florence, Metropolitan City of Florence, Tuscany, Italy",43.7698712,11.2555757,1547.587,9382.32,1,0
+"Pisa,  Italy",Pisa, Italy,"Pisa, Tuscany, Italy",43.7159395,10.4018624,1561.369,9467.742,1,0
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,1565.23,9491.668,1,0
+"Krakow,  Poland",Krakow, Poland,"Krakow, Wieliczka County, Lesser Poland Voivodeship, Poland",50.0469432,19.9971534358,1608.89,9762.277,1,0
+"Opava,  Czechia",Opava, Czechia,"Opava, okres Opava, Moravskoslezský kraj, Moravia-Silesia, Czechia",49.9389004,17.9024174,1628.702,9885.071,1,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,1669.297,10136.681,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,1739.571,10572.24,1,0
+"Torrejón de Ardoz,  Spain",Torrejón de Ardoz, Spain,"Torrejón de Ardoz, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28850, Spain",40.4587767,-3.4793343,1786.761,10864.726,1,0
+"San Sebastián,  Spain",San Sebastián, Spain,"San Sebastián, Donostialdea, Gipuzkoa, Autonomous Community of the Basque Country, Spain",43.3224219,-1.9838889,1803.485,10968.383,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,1832.876,11150.547,1,0
+"Delft,  Netherlands",Delft, Netherlands,"Delft, South Holland, Netherlands",51.9994572,4.3627245385,1874.747,11410.062,1,0
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.4811088666,1876.714,11422.255,1,0
+"Nairobi,  Kenya",Nairobi, Kenya,"Nairobi, Kenya",-1.30316895,36.8260612241,1904.358,9333.847,4,0
+"Xinjiang,  China",Xinjiang, China,"Xinjiang, China",42.4804953,85.4633464,1926.508,11730.881,1,0
+"Southampton,  United Kingdom",Southampton, United Kingdom,"Southampton, South East England, England, United Kingdom",50.9025349,-1.404189,1946.523,11854.932,1,0
+"Keele,  United Kingdom",Keele, United Kingdom,"Keele, Newcastle-under-Lyme, Staffordshire, West Midlands, England, United Kingdom",53.0038078,-2.2877425,2007.951,12235.664,1,0
+"County Durham,  United Kingdom",County Durham, United Kingdom,"County Durham, North East England, England, United Kingdom",54.666667,-1.75,2036.089,12410.063,1,0
+"Mbarara,  Uganda",Mbarara, Uganda,"Mbarara, Western Region, Uganda",-0.52283825,30.634127415,2117.035,11125.69,4,0
+"Bangkok,  Thailand",Bangkok, Thailand,"Bangkok, Phra Borom Maha Ratchawang Subdistrict, Phra Nakhon District, Bangkok, 10200, Thailand",13.7544238,100.4930399,2206.61,13466.957,1,0
+"Kigali,  Rwanda",Kigali, Rwanda,"Kigali, Nyarugenge District, Kigali City, 2079, Rwanda",-1.950851,30.061507,2331.592,12432.319,4,0
+"Umudike,  Nigeria",Umudike, Nigeria,"Umudike, Ndokwa East, Delta, Nigeria",5.916667,6.466667,2455.55,14303.539,2,0
+"Pune,  India",Pune, India,"Pune, Pune District, Maharashtra, India",18.521428,73.8544541,2601.708,15706.129,2,0
+"Abu Dhabi,  United Arab Emirates",Abu Dhabi, United Arab Emirates,"Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",24.4538352,54.3774014,2626.718,14313.805,3,0
+"Hefei City,  China",Hefei City, China,"Hefei City, Anhui, China",31.8228094,117.2218033,2742.66,16789.403,1,0
+"University of South Africa,  South Africa",University of South Africa, South Africa,"University of South Africa, Stil Street, Tlokwe Ward 24, Potchefstroom, Tlokwe Local Municipality, Potchefstroom, North West, 2520, South Africa",-26.7086457,27.0998501985,2756.545,16665.812,2,0
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,2815.204,17029.378,2,0
+"Belgrade,  Serbia",Belgrade, Serbia,"Belgrade, Stari Grad Urban Municipality, City of Belgrade, Central Serbia, 11000, Serbia",44.8178131,20.4568974,2876.814,17411.241,2,0
+"Daejeon,  South Korea",Daejeon, South Korea,"Daejeon, South Korea",36.3496,127.3848,3032.493,18585.79,1,0
+"Makhanda (Grahamstown),  South Africa",Makhanda (Grahamstown), South Africa,"Makhanda (Grahamstown), Makana Local Municipality, Sarah Baartman District Municipality, Eastern Cape, 6139, South Africa",-33.3070589,26.5272648,3217.248,19521.257,2,0
+"Sendai,  Japan",Sendai, Japan,"Sendai, Miyagi Prefecture, Japan",38.2677554,140.8691498,3398.163,20852.222,1,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,3422.394,20792.754,2,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,3556.841,21835.709,1,0
+"Albany,  United States",Albany, United States,"Albany, Albany County, New York, 12207, United States",42.6511674,-73.754968,3618.599,22218.491,1,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,3738.031,22958.731,1,0
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,3745.612,22796.063,2,0
+"Tel Aviv-Yafo,  Israel",Tel Aviv-Yafo, Israel,"Tel Aviv-Yafo, Tel Aviv Subdistrict, Tel Aviv District, Israel",32.0852997,34.7818064,3805.008,20786.976,4,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,3897.198,23735.598,2,0
+"Champaign,  United States",Champaign, United States,"Champaign, Champaign County, Illinois, United States",40.1164841,-88.2430932,4006.283,24621.362,1,0
+"Valparaíso,  Chile",Valparaíso, Chile,"Valparaíso, Provincia de Valparaíso, Valparaiso Region, Chile",-33.0458456,-71.6196749,4050.533,24895.622,1,0
+"Potchefstroom,  South Africa",Potchefstroom, South Africa,"Potchefstroom, Tlokwe Local Municipality, Potchefstroom, North West, 2520, South Africa",-26.7150922,27.1013887,4135.425,25002.479,3,0
+"Laramie,  United States",Laramie, United States,"Laramie, Albany County, Wyoming, United States",41.311367,-105.591101,4338.24,26678.835,1,0
+"Puebla,  Mexico",Puebla, Mexico,"Puebla, Mexico",18.833333,-98,4665.402,28706.594,1,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,4755.841,29267.134,1,0
+"Hilo,  United States",Hilo, United States,"Hilo, Hawaiʻi County, Hawaii, United States",19.7073734,-155.0815803,5351.741,32960.532,1,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,5374.373,32681.502,3,0
+"Kolkata,  India",Kolkata, India,"Kolkata, Howrah, Thakurpukur Maheshtala, Howrah, West Bengal, 711101, India",22.5414185,88.3576912439,5414.734,32931.662,3,0
+"Sjanghai,  China",Sjanghai, China,"Sjanghai, Huangpu District, Shanghai, 200001, China",31.2322758,121.4692071,5746.908,35200.136,2,0
+"Turku,  Finland",Turku, Finland,"Turku, Turun seutukunta, Southwest Finland, South-Western Finland, Mainland Finland, Finland",60.4517531,22.2670522,5795.234,35290.009,3,0
+"São Paulo,  Brazil",São Paulo, Brazil,"São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Southeast Region, Brazil",-23.5506507,-46.6333824,6484.607,39772.406,2,0
+"San Cristóbal de La Laguna,  Spain",San Cristóbal de La Laguna, Spain,"San Cristóbal de La Laguna, Santa Cruz de Tenerife, Canary Islands, Spain",28.4857715,-16.3159422,8048.361,49045.275,4,0
+"Concepcion,  Chile",Concepcion, Chile,"Concepcion, Provincia de Concepción, Biobío Region, Chile",-36.8270795,-73.0502399,8162.829,50174.054,2,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,8312.804,50474.646,5,0
+"Morelia,  Mexico",Morelia, Mexico,"Morelia, Michoacán, 58000, Mexico",19.7027116,-101.1923818,9484.532,58365.996,2,0
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, California, United States",34.0536909,-118.242766,9520.473,58588.76,2,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,10333.447,62579.323,7,0
+"Beijing,  China",Beijing, China,"Beijing, 100051, China",39.906217,116.3912757,10865.827,66507.978,4,0
+"Shanghai,  China",Shanghai, China,"Shanghai, Huangpu District, Shanghai, 200001, China",31.2322758,121.4692071,11493.817,70400.271,4,0
+"Granada,  Spain",Granada, Spain,"Granada, Comarca de la Vega de Granada, Granada, Andalusia, Spain",37.183054,-3.6021928,12156.771,73880.319,7,0
+"Cape Town,  South Africa",Cape Town, South Africa,"Cape Town, City of Cape Town, Western Cape, 8001, South Africa",-33.928992,18.417396,13785.304,83764.338,8,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,14057.804,86501.562,3,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,20103.448,123553.266,5,0

@@ -1,0 +1,17 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Kunming, China",Kunming,China,"Kunming, China",24.8832273113,102.8351034429,0,0,0,0
+"Yunnan,  China",Yunnan, China,"Yunnan, China",25,102,50.775,1698.169,0,10
+"Nanchong,  China",Nanchong, China,"Nanchong, Zhongcheng Subdistrict, Shunqing District, Nanchong City, Sichuan, 637000, China",30.792362,106.0826662,682.789,2921.758,2,0
+"Hebei,  China",Hebei, China,"Hebei, China",39.0000001,116,738.619,3994.233,1,0
+"Yichang,  China",Yichang, China,"Yichang, Hubei, China",30.694088,111.2803074,898.716,4207.777,2,0
+"Shenyang City,  China",Shenyang City, China,"Shenyang City, Liaoning, China",41.6749893,123.458674,974.107,5325.236,1,0
+"Shanghai,  China",Shanghai, China,"Shanghai, Huangpu District, Shanghai, 200001, China",31.2322758,121.4692071,2173.512,11741.733,3,0
+"Weihai,  China",Weihai, China,"Weihai, Shandong, 264200, China",37.5120997,122.1152599,2537.216,13810.624,3,0
+"Hilo,  United States",Hilo, United States,"Hilo, Hawaiʻi County, Hawaii, United States",19.7073734,-155.0815803,3339.018,20485.644,1,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,4070.708,25020.671,1,0
+"Huntsville,  United States",Huntsville, United States,"Huntsville, Madison County, Alabama, United States",34.729847,-86.5859011,4329.502,26624.681,1,0
+"Concepcion,  Chile",Concepcion, Chile,"Concepcion, Provincia de Concepción, Biobío Region, Chile",-36.8270795,-73.0502399,6045.626,37261.246,1,0
+"Nanjing,  China",Nanjing, China,"Nanjing, Nanjing City, Jiangsu, 210008, China",32.0609736,118.7916458,6515.822,34989.386,10,0
+"Antofagasta,  Chile",Antofagasta, Chile,"Antofagasta, Provincia de Antofagasta, Antofagasta Region, Chile",-23.6463741,-70.3980033,12533.116,77261.171,2,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,13139.855,71221.538,17,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,128603.267,792682.652,21,0

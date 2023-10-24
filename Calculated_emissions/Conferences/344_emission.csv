@@ -1,0 +1,5 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,0,0,0,25
+"Towson,  United States",Towson, United States,"Towson, Baltimore County, Maryland, United States",39.39645905,-76.61481482,117.261913,469.795,0,20
+"Wilmington,  United States",Wilmington, United States,"Wilmington, New Castle County, Delaware, 19884, United States",39.7459468,-75.546589,260.5022609,1043.682,0,5
+"Washington,  United States",Washington, United States,"Washington, District of Columbia, United States",38.8949924,-77.0365581,286.2553043,1146.85,0,10

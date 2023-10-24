@@ -1,0 +1,39 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Nizhniy Arkhyz,  Russia",Nizhniy Arkhyz, Russia,"Nizhniy Arkhyz, Архызское сельское поселение, Zelenchuksky District, Karachay-Cherkessia, North Caucasian Federal District, 369167, Russia",43.6769758,41.4574037,0,0,0,23
+"Yerevan,  Armenia",Yerevan, Armenia,"Yerevan, Armenia",40.1776121,44.5125849,27.742,927.828,0,1
+"Rostov-on-Don,  Russia",Rostov-on-Don, Russia,"Rostov-on-Don, Rostov Oblast, Southern Federal District, Russia",47.2213858,39.7114196,49.869,1667.847,0,2
+"Istanbul,  Turkey",Istanbul, Turkey,"Istanbul, Fatih, Istanbul, Marmara Region, 34126, Turkey",41.0096334,28.9651646,452.976,2134.958,1,0
+"Birjand,  Iran",Birjand, Iran,"Birjand, Behjat Abad, District 6, شهرداری تهران منطقه شش ناحیه سه, Tehran, بخش مرکزی شهرستان تهران, Tehran County, Tehran Province, 1597933813, Iran",35.7174261,51.4142641,490.046,2453.326,1,0
+"Tehran,  Iran",Tehran, Iran,"Tehran, بخش مرکزی شهرستان تهران, Tehran County, Iran",35.6892523,51.3896004,490.261,2455.168,1,0
+"Ломоносов,  Russia",Ломоносов, Russia,"Ломоносов, Мичуринский проспект, Ramenki District, Moscow, Central Federal District, 119607, Russia",55.6989329,37.4990865,523.081,2732.406,1,0
+"Belgrade,  Serbia",Belgrade, Serbia,"Belgrade, Stari Grad Urban Municipality, City of Belgrade, Central Serbia, 11000, Serbia",44.8178131,20.4568974,624.662,3345.745,1,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,664.49,3572.39,1,0
+"Yekaterinburg,  Russia",Yekaterinburg, Russia,"Yekaterinburg, Yekaterinburg Municipality, Sverdlovsk Oblast, Ural Federal District, 620151, Russia",56.839104,60.60825,734.494,3970.761,1,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,866.719,4721.495,1,0
+"Abu Dhabi,  United Arab Emirates",Abu Dhabi, United Arab Emirates,"Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",24.4538352,54.3774014,894.777,4879.236,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,938.826,5126.886,1,0
+"Strasbourg,  France",Strasbourg, France,"Strasbourg, Bas-Rhin, Grand Est, Metropolitan France, France",48.584614,7.7507127,963.037,5262.998,1,0
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,1004.936,5498.557,1,0
+"Besançon,  France",Besançon, France,"Besançon, Doubs, Bourgogne-Franche-Comté, Metropolitan France, 25000, France",47.2380222,6.0243622,1011.437,5535.107,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,1103.344,6051.814,1,0
+"Srinagar,  India",Srinagar, India,"Srinagar, Srinagar (South), Srinagar District, Jammu and Kashmir, 190008, India",34.0747444,74.8204443,1113.466,6108.722,1,0
+"Pune,  India",Pune, India,"Pune, Pune District, Maharashtra, India",18.521428,73.8544541,1362.158,8233.028,1,0
+"Tirupati,  India",Tirupati, India,"Tirupati, Tirupati (Urban), Andhra Pradesh, 517500, India",13.6316368,79.4231711,1619.83,9830.083,1,0
+"Tenerife,  Spain",Tenerife, Spain,"Tenerife, Canary Islands, Spain",28.2935785,-16.6214471211,1770.083,10761.353,1,0
+"Beijing,  China",Beijing, China,"Beijing, 100051, China",39.906217,116.3912757,1972.757,12017.529,1,0
+"Lyon,  France",Lyon, France,"Lyon, Métropole de Lyon, Departemental constituency of Rhône, Auvergne-Rhône-Alpes, Metropolitan France, France",45.7578137,4.8320114,2101.28,11511.02,2,0
+"Nanjing,  China",Nanjing, China,"Nanjing, Nanjing City, Jiangsu, 210008, China",32.0609736,118.7916458,2184.36,13329.05,1,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,2539.397,13822.88,3,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,2818.139,17257.223,1,0
+"Waterloo,  Canada",Waterloo, Canada,"Waterloo, Region of Waterloo, Southwestern Ontario, Ontario, Canada",43.4652699,-80.5222961,2855.317,17487.654,1,0
+"Cape Town,  South Africa",Cape Town, South Africa,"Cape Town, City of Cape Town, Western Cape, 8001, South Africa",-33.928992,18.417396,2918.654,17880.22,1,0
+"Minneapolis,  United States",Minneapolis, United States,"Minneapolis, Hennepin County, Minnesota, United States",44.9772995,-93.2654692,2998.991,18378.146,1,0
+"Salt Lake City, Utah,  United States",Salt Lake City, United States,"University of Utah, 201, Presidents Circle, Salt Lake City, Salt Lake County, Utah, 84112, United States",40.7628137,-111.8368719137,3342.181,20505.244,1,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,3621.334,22235.438,1,0
+"Maui,  United States",Maui, United States,"Maui, Maui County, Hawaii, United States",20.8029568,-156.310683316,4105.917,25238.896,1,0
+"Hawthorn,  Australia",Hawthorn, Australia,"Hawthorn, Melbourne, City of Boroondara, Victoria, 3122, Australia",-37.8286805,145.0344334651,4479.215,27552.603,1,0
+"Seoul,  South Korea",Seoul, South Korea,"Seoul, Nowon-gu, South Korea",37.5666791,126.9782914,4533.894,27681.85,2,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,4605.832,28337.376,1,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,5240.548,27401.301,10,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,5442.89,33315.827,2,0
+"Saint Petersburg,  Russia",Saint Petersburg, Russia,"Saint Petersburg, Northwestern Federal District, 190000, Russia",59.938732,30.316229,5797.79,31321.294,8,0

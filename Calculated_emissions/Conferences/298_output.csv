@@ -1,0 +1,59 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Yokohama, Japan",Yokohama,Japan,"Yokohama, Japan",35.4469634258,139.6381397256,0,0,0,0
+"Hiratsuka,  Japan",Hiratsuka, Japan,"Hiratsuka, Kanagawa Prefecture, Japan",35.357674,139.318278,1.821,60.912,0,1
+"Saitama Prefecture,  Japan",Saitama Prefecture, Japan,"Saitama Prefecture, Japan",35.9754168,139.4160114,3.723,124.515,0,1
+"Nagoya,  Japan",Nagoya, Japan,"Nagoya, Aichi Prefecture, Japan",35.1851045,136.8998438,29.9,999.994,0,2
+"Sendai,  Japan",Sendai, Japan,"Sendai, Miyagi Prefecture, Japan",38.2677554,140.8691498,39.763,1329.872,0,2
+"Osaka Prefecture,  Japan",Osaka Prefecture, Japan,"Osaka Prefecture, Japan",34.6198813,135.490357,46.463,1553.933,0,2
+"Kanazawa,  Japan",Kanazawa, Japan,"Kanazawa, 昭和大通り, Aokusamachi, Rokumaimachi, Kanazawa, Ishikawa Prefecture, 920-0858, Japan",36.5780499,136.6480247,53.257,1781.185,0,3
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,84.042,2810.778,0,49
+"Hiroshima,  Japan",Hiroshima, Japan,"Hiroshima, Hiroshima Prefecture, Japan",34.3916058,132.4518156,119.36,3991.963,0,3
+"Kyoto,  Japan",Kyoto, Japan,"Kyoto, Kyoto Prefecture, Japan",35.021041,135.7556075,148.864,4978.714,0,7
+"Miyazaki,  Japan",Miyazaki, Japan,"Miyazaki, Miyazaki Prefecture, 880-8505, Japan",31.9076334,131.4204022,389.2,1711.181,1,0
+"Seoul,  South Korea",Seoul, South Korea,"Seoul, Nowon-gu, South Korea",37.5666791,126.9782914,473.302,2309.521,1,0
+"Taipei,  Taiwan",Taipei, Taiwan,"Taipei, Taiwan",25.0375198,121.5636796,768.078,4161.874,1,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,774.268,4197.1,1,0
+"Saigon Hi-Tech Park,  Vietnam",Saigon Hi-Tech Park, Vietnam,"Saigon Hi-Tech Park, Tan Phu Ward, Thu Duc City, Vietnam",10.85459915,106.7968261937,1419.087,8585.874,1,0
+"Nanjing,  China",Nanjing, China,"Nanjing, Nanjing City, Jiangsu, 210008, China",32.0609736,118.7916458,1450.919,7838.695,2,0
+"Thiruvananthapuram,  India",Thiruvananthapuram, India,"Thiruvananthapuram, Kerala, 695001, India",8.5241122,76.9360573,2290.9,13989.384,1,0
+"Perth,  Australia",Perth, Australia,"Perth, City of Perth, Western Australia, 6000, Australia",-31.9527121,115.8604796,2581.156,15788.402,1,0
+"Ankara,  Turkey",Ankara, Turkey,"Ankara, Çankaya, Ankara, Central Anatolia Region, 06420, Turkey",39.9207893,32.8540412,2866.452,17556.67,1,0
+"Las Vegas,  United States",Las Vegas, United States,"Las Vegas, Clark County, Nevada, United States",36.1672559,-115.148516,2912.665,17843.098,1,0
+"Budapest,  Hungary",Budapest, Hungary,"Budapest, V. kerület, Central Hungary, Hungary",47.4983815,19.0404707,2958.956,18130.01,1,0
+"Hanover,  Germany",Hanover, Germany,"Hanover, Region Hannover, Lower Saxony, Germany",52.3744779,9.7385532,2973.735,18221.611,1,0
+"Jerusalem,  Israel",Jerusalem, Israel,"Jerusalem, Jerusalem Subdistrict, Jerusalem District, Israel",31.79592425,35.2119807597,2988.718,18314.477,1,0
+"Tel Aviv-Yafo,  Israel",Tel Aviv-Yafo, Israel,"Tel Aviv-Yafo, Tel Aviv Subdistrict, Tel Aviv District, Israel",32.0852997,34.7818064,2992.838,18340.011,1,0
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands",52.3727598,4.8936041,3038.2,18621.166,1,0
+"Leeds,  United Kingdom",Leeds, United Kingdom,"Leeds, West Yorkshire, Yorkshire and the Humber, England, United Kingdom",53.7974185,-1.5437941,3071.514,18827.645,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,3071.575,18828.025,1,0
+"Liverpool,  United Kingdom",Liverpool, United Kingdom,"Liverpool, North West England, England, United Kingdom",53.4071991,-2.99168,3099.155,18998.964,1,0
+"Bari,  Italy",Bari, Italy,"Bari, Apulia, Italy",41.1257843,16.8620293,3161.871,19387.678,1,0
+"Milan,  Italy",Milan, Italy,"Milan, Lombardy, Italy",45.4668,9.1905,3175.21,19470.356,1,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,3219.968,19747.769,1,0
+"Montpellier,  France",Montpellier, France,"Montpellier, Hérault, Occitania, Metropolitan France, France",43.6112422,3.8767337,3309.522,20302.822,1,0
+"Guelph,  Canada",Guelph, Canada,"Guelph, Southwestern Ontario, Ontario, Canada",43.5460516,-80.2493276,3373.28,20697.997,1,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,3381.643,20749.83,1,0
+"Pittsburgh,  United States",Pittsburgh, United States,"Pittsburgh, Allegheny County, Pennsylvania, United States",40.4416941,-79.9900861,3471.857,21308.979,1,0
+"Algiers,  Algeria",Algiers, Algeria,"Algiers, Central Algiers, Sidi M'Hamed District, Algiers, 16007, Algeria",36.7753606,3.0601882,3524.384,21634.545,1,0
+"Granada,  Spain",Granada, Spain,"Granada, Comarca de la Vega de Granada, Granada, Andalusia, Spain",37.1734995,-3.5995337,3613.518,22186.995,1,0
+"San Cristóbal de La Laguna,  Spain",San Cristóbal de La Laguna, Spain,"San Cristóbal de La Laguna, Santa Cruz de Tenerife, Canary Islands, Spain",28.4857715,-16.3159422,4058.481,24944.887,1,0
+"Pune,  India",Pune, India,"Pune, Pune District, Maharashtra, India",18.521428,73.8544541,4368.173,26654.711,2,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,5336.784,32658.178,2,0
+"Copenhagen,  Denmark",Copenhagen, Denmark,"Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1357, Denmark",55.6867243,12.5700724,5689.106,34841.879,2,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,5851.884,35850.776,2,0
+"Warwick,  United Kingdom",Warwick, United Kingdom,"Warwick, Warwickshire, West Midlands, England, United Kingdom",52.2814519,-1.5815742,6237.297,38239.573,2,0
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,6335.743,38849.745,2,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,6349.798,38936.857,2,0
+"Gran Sasso,  Italy",Gran Sasso, Italy,"Gran Sasso, 12, Via Luigi Vinciguerra, Coste Sant'Agostino, San Giorgio, Scapriano, Teramo, Abruzzo, 64100, Italy",42.6613631,13.7008615,6355.937,38974.907,2,0
+"Geneva,  Switzerland",Geneva, Switzerland,"Geneva, Grand Genève, Geneva, Switzerland",46.2017559,6.1466014,6400.713,39252.431,2,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,7047.345,43260.267,2,0
+"Baton Rouge,  United States",Baton Rouge, United States,"Baton Rouge, East Baton Rouge Parish, Louisiana, United States",30.4459596,-91.18738,7144.483,43862.326,2,0
+"Bath,  United Kingdom",Bath, United Kingdom,"Bath, Bath and North East Somerset, South West England, England, United Kingdom",51.3813864,-2.3596963,9465.697,58039.603,3,0
+"University of Maryland,  United States",University of Maryland, United States,"University of Maryland, College Park, University Boulevard East, Berwyn, College Park, Prince George's County, Maryland, 20740, United States",38.99203005,-76.946102902,10677.754,65551.953,3,0
+"Stockholm,  Sweden",Stockholm, Sweden,"Stockholm, Stockholms kommun, Stockholm County, 111 29, Sweden",59.3251172,18.0710935,10708.321,65531.758,4,0
+"Leicester,  United Kingdom",Leicester, United Kingdom,"Leicester, Leicestershire, East Midlands, England, LE1 5YA, United Kingdom",52.6361398,-1.1330789,12410.766,76083.538,4,0
+"Brera,  Italy",Brera, Italy,"Brera, Cascina Ronco, Vedano Olona, Varese, Lombardy, 21043, Italy",45.7706425,8.8829619,12685.71,77787.645,4,0
+"Toulouse,  France",Toulouse, France,"Toulouse, Haute-Garonne, Occitania, Metropolitan France, France",43.6044622,1.4442469,13379.468,82087.573,4,0
+"Washington,  United States",Washington, United States,"Washington, District of Columbia, United States",38.8949924,-77.0365581,17805.222,109308.821,5,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,18357.964,112525.077,6,0
+"Greenbelt,  United States",Greenbelt, United States,"Greenbelt, Good Luck Road, New Carrollton, Prince George's County, Maryland, 20706, United States",38.9937333,-76.883065797,24920.42,152989.64,7,0

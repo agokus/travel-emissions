@@ -1,0 +1,98 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Sexten, Bozen, Italy",Sexten,Italy,"Sexten, Bozen, Italy",46.7024606372226,12.3484684444882,0,0,0,0
+"Innsbruck,  Austria",Innsbruck, Austria,"Innsbruck, Tyrol, Austria",47.2654296,11.3927685,5.734,191.762,0,1
+"Ferrara,  Italy",Ferrara, Italy,"Ferrara, Emilia-Romagna, Italy",44.76676425,11.8279389956402,13.1,438.115,0,1
+"Padua,  Italy",Padua, Italy,"Padua, Padova, Veneto, Italy",45.4077172,11.8734455,17.776,594.526,0,2
+"Zurich,  Switzerland",Zurich, Switzerland,"Zurich, District Zurich, Zurich, Switzerland",47.3744489,8.5410422,17.83,596.311,0,1
+"Vienna,  Austria",Vienna, Austria,"Vienna, Austria",48.2083537,16.3725042,20.666,691.163,0,1
+"Ljubljana,  Slovenia",Ljubljana, Slovenia,"Ljubljana, Upravna Enota Ljubljana, 1000, Slovenia",46.0499803,14.5068602,21.604,722.553,0,2
+"Prague,  Czechia",Prague, Czechia,"Prague, Czechia",50.0596288,14.446459273258,24.162,808.097,0,1
+"Lausanne,  Switzerland",Lausanne, Switzerland,"Lausanne, District de Lausanne, Vaud, Switzerland",46.5218269,6.6327025,26.139,874.23,0,1
+"Tautenburg,  Germany",Tautenburg, Germany,"Tautenburg, Verwaltungsgemeinschaft Dornburg-Camburg, Saale-Holzland-Kreis, Thuringia, Germany",50.9915287,11.7157817,28.653,958.287,0,1
+"Annecy,  France",Annecy, France,"Annecy, Upper Savoy, Auvergne-Rhône-Alpes, Metropolitan France, France",45.8992348,6.1288847,29.069,972.196,0,1
+"Osservatorio astrofisico di Arcetri,  Italy",Osservatorio astrofisico di Arcetri, Italy,"Osservatorio astrofisico di Arcetri, Via Guglielmo Righini, Pian dei Giullari, Quartiere 3, Florence, Metropolitan City of Florence, Tuscany, 50125, Italy",43.75018505,11.2541735578515,40.585,1357.369,0,2
+"Munich,  Germany",Munich, Germany,"Munich, Bavaria, Germany",48.1371079,11.5753822,40.621,1358.562,0,4
+"Turin,  Italy",Turin, Italy,"Turin, Torino, Piemont, Italy",45.0677551,7.6824892,48.365,1617.553,0,2
+"Brera,  Italy",Brera, Italy,"Brera, Cascina Ronco, Vedano Olona, Varese, Lombardy, 21043, Italy",45.7706425,8.8829619,51.326,1716.582,0,3
+"Milan,  Italy",Milan, Italy,"Milan, Lombardy, Italy",45.4668,9.1905,66.919,2238.1,0,4
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,72.724,2432.237,0,3
+"Triest,  Italy",Triest, Italy,"Triest, UTI Giuliana / Julijska MTU, Friuli-Venezia Giulia, Italy",45.6504806,13.7931263,86.825,2903.853,0,9
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,96.901,3240.847,0,9
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,215.852,7219.138,0,14
+"Krakow,  Poland",Krakow, Poland,"Krakow, Wieliczka County, Lesser Poland Voivodeship, Poland",50.0469432,19.9971534358367,320.485,1351.4,1,0
+"Barcelona,  Spain",Barcelona, Spain,"Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",41.3828939,2.1774322,438.243,2008.434,1,0
+"Hatfield,  United Kingdom",Hatfield, United Kingdom,"Hatfield, Welwyn Hatfield, Hertfordshire, East of England, England, United Kingdom",51.7634675,-0.2258741,453.668,2140.9,1,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.139153737368744,453.88,2142.724,1,0
+"Nottingham,  United Kingdom",Nottingham, United Kingdom,"Nottingham, Nottinghamshire, East Midlands, England, United Kingdom",52.9534193,-1.1496461,481.249,2377.77,1,0
+"Turku,  Finland",Turku, Finland,"Turku, Turun seutukunta, Southwest Finland, South-Western Finland, Mainland Finland, Finland",60.4517531,22.2670522,619.735,3317.708,1,0
+"Helsinki,  Finland",Helsinki, Finland,"Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, Finland",60.1674881,24.9427473,636.765,3414.621,1,0
+"Hamburg,  Germany",Hamburg, Germany,"Hamburg, Germany",53.550341,10.000654,720.28,3118.054,2,0
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,761.681,3334.825,2,0
+"Budapest,  Hungary",Budapest, Hungary,"Budapest, V. kerület, Central Hungary, Hungary",47.4983815,19.0404707,776.013,3083.247,3,0
+"Toulouse,  France",Toulouse, France,"Toulouse, Haute-Garonne, Occitania, Metropolitan France, France",43.6044622,1.4442469,828.382,3684.062,2,0
+"Naples,  Italy",Naples, Italy,"Naples, Napoli, Campania, Italy",40.8359336,14.2487826,954.778,4019.238,3,0
+"Birmingham,  United Kingdom",Birmingham, United Kingdom,"Birmingham, West Midlands Combined Authority, West Midlands, England, United Kingdom",52.4796992,-1.9026911,971.62,4833.882,2,0
+"Cardiff,  United Kingdom",Cardiff, United Kingdom,"Cardiff, Wales, CF, United Kingdom",51.4816546,-3.1791934,989.174,4984.64,2,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,1104.247,5865.908,2,0
+"Tenerife,  Spain",Tenerife, Spain,"Tenerife, Canary Islands, Spain",28.2935785,-16.6214471211441,1180.401,6485.033,1,0
+"Bonn,  Germany",Bonn, Germany,"Bonn, North Rhine-Westphalia, Germany",50.735851,7.10066,1440.347,5908.377,5,0
+"Bristol,  United Kingdom",Bristol, United Kingdom,"Bristol, City of Bristol, South West England, England, United Kingdom",51.4538022,-2.5972985,1456.507,7242.906,3,0
+"County Durham,  United Kingdom",County Durham, United Kingdom,"County Durham, North East England, England, United Kingdom",54.666667,-1.75,1539.83,7958.49,3,0
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.48110886662043,1897.823,8303.665,5,0
+"Hull,  United Kingdom",Hull, United Kingdom,"Hull, Kingston upon Hull, Yorkshire and the Humber, England, HU1 3RA, United Kingdom",53.7435722,-0.3394758,1927.775,9534.956,4,0
+"Nainital,  India",Nainital, India,"Nainital, India",29.2031392,79.4176945,1969.946,12000.106,1,0
+"Liverpool,  United Kingdom",Liverpool, United Kingdom,"Liverpool, North West England, England, United Kingdom",53.4071991,-2.99168,2047.723,10565.081,4,0
+"Providence,  United States",Providence, United States,"Providence, Providence County, Rhode Island, United States",41.8239891,-71.4128343,2088.308,12733.718,1,0
+"Princeton,  United States",Princeton, United States,"Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958,2190.288,13365.795,1,0
+"Batavia,  United States",Batavia, United States,"Batavia, Genesee, New York, 14020, United States",42.9980144,-78.1875515,2206.483,13466.171,1,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,2216.505,13528.288,1,0
+"Pittsburgh,  United States",Pittsburgh, United States,"Pittsburgh, Allegheny County, Pennsylvania, United States",40.4416941,-79.9900861,2301.691,14056.268,1,0
+"Charlottesville,  United States",Charlottesville, United States,"Charlottesville, Virginia, United States",38.029306,-78.4766781,2325.153,14201.69,1,0
+"Gainesville,  United States",Gainesville, United States,"Gainesville, Alachua County, Florida, United States",29.6519684,-82.3249846,2611.904,15978.977,1,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,2666.977,10697.755,10,0
+"Pretoria,  South Africa",Pretoria, South Africa,"Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0126, South Africa",-25.7459374,28.1879444,2683.715,16424.059,1,0
+"Salt Lake City,  United States",Salt Lake City, United States,"Salt Lake City, Salt Lake County, Utah, United States",40.7596198,-111.8867975,2884.921,17671.143,1,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,2972.91,16081.841,4,0
+"Kanazawa,  Japan",Kanazawa, Japan,"Kanazawa, 昭和大通り, Aokusamachi, Rokumaimachi, Kanazawa, Ishikawa Prefecture, 920-0858, Japan",36.5780499,136.6480247,3008.788,18438.869,1,0
+"Osaka Prefecture,  Japan",Osaka Prefecture, Japan,"Osaka Prefecture, Japan",34.6198813,135.490357,3046.921,18675.217,1,0
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Derby Street, Claremont, Berkeley, Alameda County, California, 94720-1076, United States",37.8753497,-122.239633649188,3125.654,19163.209,1,0
+"Ithaka,  United States",Ithaka, United States,"Ithaka, 1230, Emerson Street, Old Palo Alto, Palo Alto, Santa Clara County, California, 94301, United States",37.4386859,-122.153690845322,3138.119,19240.465,1,0
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, California, United States",34.0536909,-118.242766,3185.288,19532.817,1,0
+"São Paulo,  Brazil",São Paulo, Brazil,"São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Southeast Region, Brazil",-23.5506507,-46.6333824,3194.971,19592.835,1,0
+"Rio Grande do Sul,  Brazil",Rio Grande do Sul, Brazil,"Rio Grande do Sul, Brazil",-29.8425284,-53.7680577,3513.19,21565.164,1,0
+"Halifax,  Canada",Halifax, Canada,"Halifax, Nova Scotia, Canada",44.648618,-63.5859487,3723.766,22660.662,2,0
+"Valparaíso,  Chile",Valparaíso, Chile,"Valparaíso, Provincia de Valparaíso, Valparaiso Region, Chile",-33.0458456,-71.6196749,3968.644,24388.072,1,0
+"Hilo,  United States",Hilo, United States,"Hilo, Hawaiʻi County, Hawaii, United States",19.7073734,-155.0815803,4074.95,25046.961,1,0
+"Perth,  Australia",Perth, Australia,"Perth, City of Perth, Western Australia, 6000, Australia",-31.9527121,115.8604796,4389.987,26999.565,1,0
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,4637.662,28325.009,2,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,4703.617,20381.492,13,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,5102.943,31208.826,2,0
+"Huntsville,  United States",Huntsville, United States,"Huntsville, Madison County, Alabama, United States",34.729847,-86.5859011,5156.13,31538.481,2,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,5214.734,32111.36,1,0
+"Canberra,  Australia",Canberra, Australia,"Canberra, District of Canberra Central, Australian Capital Territory, 2601, Australia",-35.2975906,149.1012676,5269.445,32450.461,1,0
+"Victoria,  Canada",Victoria, Canada,"Victoria, Capital Regional District, British Columbia, Canada",48.4283182,-123.3649533,5619.56,34410.83,2,0
+"San Cristóbal de La Laguna,  Spain",San Cristóbal de La Laguna, Spain,"San Cristóbal de La Laguna, Santa Cruz de Tenerife, Canary Islands, Spain",28.4857715,-16.3159422,5837.951,32065.062,5,0
+"Makhanda (Grahamstown),  South Africa",Makhanda (Grahamstown), South Africa,"Makhanda (Grahamstown), Makana Local Municipality, Sarah Baartman District Municipality, Eastern Cape, 6139, South Africa",-33.3070589,26.5272648,5882.055,36037.777,2,0
+"Wellington,  New Zealand",Wellington, New Zealand,"Wellington, Wellington City, Wellington, 6011, New Zealand",-41.2887953,174.7772114,6000.307,36980.358,1,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,6171.629,37832.564,2,0
+"Davis,  United States",Davis, United States,"Davis, Yolo County, California, United States",38.545379,-121.7445835,6195.715,37981.847,2,0
+"Stanford,  United States",Stanford, United States,"Stanford, Palo Alto, Santa Clara County, California, United States",37.4265407,-122.170292584092,6277.461,38488.513,2,0
+"Stony Brook,  United States",Stony Brook, United States,"Stony Brook, Suffolk County, New York, United States",40.9087015,-73.1396036005644,6435.664,39259.406,3,0
+"Ann Arbor,  United States",Ann Arbor, United States,"Ann Arbor, Washtenaw County, Michigan, United States",42.2681569,-83.7312291,7008.531,42810.043,3,0
+"East Lansing,  United States",East Lansing, United States,"East Lansing, Ingham County, Michigan, United States",42.7320307,-84.4721678,7020.388,42883.531,3,0
+"Chicago,  United States",Chicago, United States,"Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212,7268.975,44424.278,3,0
+"La Serena,  Chile",La Serena, Chile,"La Serena, Provincia de Elqui, Coquimbo Region, Chile",-29.902631,-71.2520253,7764.306,47704.002,2,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,7914.674,48635.988,2,0
+"Lawrence,  United States",Lawrence, United States,"Lawrence, Douglas County, Kansas, 66044, United States",38.9719384,-95.2359496,7931.757,48532.213,3,0
+"Miami,  United States",Miami, United States,"Miami, Miami-Dade County, Florida, United States",25.7741728,-80.19362,7980.762,48835.948,3,0
+"Seoul,  South Korea",Seoul, South Korea,"Seoul, Nowon-gu, South Korea",37.5666791,126.9782914,8438.912,51675.571,3,0
+"Sendai,  Japan",Sendai, Japan,"Sendai, Miyagi Prefecture, Japan",38.2677554,140.8691498,9075.73,55622.578,3,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,9542.664,58516.647,3,0
+"Kansas City,  United States",Kansas City, United States,"Kansas City, Jackson County, Missouri, United States",39.100105,-94.5781416,10511.951,64314.648,4,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,10584.52,65183.739,2,0
+"Taipei,  Taiwan",Taipei, Taiwan,"Taipei, Taiwan",25.0375198,121.5636796,12199.418,74773.599,4,0
+"Concepcion,  Chile",Concepcion, Chile,"Concepcion, Provincia de Concepción, Biobío Region, Chile",-36.8270795,-73.0502399,12275.143,75452.602,3,0
+"Rio de Janeiro,  Brazil",Rio de Janeiro, Brazil,"Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Southeast Region, Brazil",-22.9110137,-43.2093727,12444.082,76290.032,4,0
+"Cordoba,  Argentina",Cordoba, Argentina,"Cordoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X5000, Argentina",-31.4173391,-64.183319,15071.688,92575.983,4,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,16555.387,100933.365,8,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,20701.366,126210.913,10,0

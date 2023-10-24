@@ -1,0 +1,18 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Aspen, United States",Aspen,United States,"Aspen, Colorado, United States",39.1970361578,-106.829183112,0,0,0,0
+"Boulder,  United States",Boulder, United States,"Boulder, Boulder County, Colorado, United States",40.0149856,-105.270545,86.939,2907.657,0,9
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,2903.793,17788.107,1,0
+"Vancouver,  Canada",Vancouver, Canada,"Vancouver, District of North Vancouver, British Columbia, Canada",49.2608724,-123.1139529,3184.618,17077.605,5,0
+"Taipei,  Taiwan",Taipei, Taiwan,"Taipei, Taiwan",25.0375198,121.5636796,3674.757,22566.555,1,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,4257.53,20766.913,9,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,4278.461,23297.497,5,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,4305.059,26473.18,1,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,4532.067,27880.183,1,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,6038.235,37005.783,2,0
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,7544.46,46131.742,3,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,7855.88,48061.924,3,0
+"Dali City,  China",Dali City, China,"Dali City, Beiying, Dali Bai Autonomous Prefecture, Yunnan, China",25.4912413,100.347619,7998.313,49154.38,2,0
+"Mumbai,  India",Mumbai, India,"Mumbai, Mumbai Suburban, Maharashtra, India",19.0759899,72.8773928,8803.364,54144.1,2,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,9865.569,54103.567,9,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,10846.373,66387.401,4,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,11901.039,72924.24,4,0

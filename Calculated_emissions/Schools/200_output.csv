@@ -1,0 +1,17 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Chiang Mai,  Thailand",Chiang Mai, Thailand,"Chiang Mai, Saraphi District, Chiang Mai Province, 4452, Thailand",18.7882778,98.9868056,0,0,0,7
+"Phnom Penh,  Cambodia",Phnom Penh, Cambodia,"Phnom Penh, Khan Daun Penh, Phnom Penh, 11213, Cambodia",11.568271,104.9224426,443.399,2052.712,1,0
+"Kathmandu,  Nepal",Kathmandu, Nepal,"Kathmandu, Kamaladi Marg, Kamalpokhari, Baghbazar, Kathmandu, Bagmati Pradesh, 46600, Nepal",27.708317,85.3205817,637.108,3416.572,1,0
+"Ho Chi Minh City,  Vietnam",Ho Chi Minh City, Vietnam,"Ho Chi Minh City, Vietnam",10.7715512,106.6983801,976.43,4875.193,2,0
+"Yangon,  Myanmar",Yangon, Myanmar,"Yangon, Western District, Yangon, 11000, Myanmar",16.7967129,96.1609916,1022.186,3704.447,5,0
+"Islamabad,  Pakistan",Islamabad, Pakistan,"Islamabad, Islamabad Capital Territory, 44000, Pakistan",33.6938118,73.0651511,1113.478,6108.791,1,0
+"Seoul,  South Korea",Seoul, South Korea,"Seoul, Nowon-gu, South Korea",37.5666791,126.9782914,1227.513,6852.035,1,0
+"Kuala Lumpur,  Malaysia",Kuala Lumpur, Malaysia,"Kuala Lumpur, Malaysia",3.1516964,101.6942371,1970.359,10585.661,3,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,2632.766,16108.278,1,0
+"Shanghai,  China",Shanghai, China,"Shanghai, Huangpu District, Shanghai, 200001, China",31.2322758,121.4692071,2906.58,15887.209,3,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,2912.522,17632.556,2,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,3154.771,17282.556,3,0
+"Cape Town,  South Africa",Cape Town, South Africa,"Cape Town, City of Cape Town, Western Cape, 8001, South Africa",-33.928992,18.417396,3367.537,20662.399,1,0
+"Bangkok,  Thailand",Bangkok, Thailand,"Bangkok, Phra Borom Maha Ratchawang Subdistrict, Phra Nakhon District, Bangkok, 10200, Thailand",13.7544238,100.4930399,3422.782,14001.814,12,0
+"Manila,  Philippines",Manila, Philippines,"Manila, Capital District, Metro Manila, Philippines",14.5907332,120.9809674,4384.424,23893.231,5,0
+"Bandung,  Indonesia",Bandung, Indonesia,"Bandung, West Java, 40252, Indonesia",-6.9344694,107.6049539,6593.404,36161.01,6,0

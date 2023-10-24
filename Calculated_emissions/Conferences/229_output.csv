@@ -1,0 +1,50 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Telc, Czechia",Telc,Czechia,"Telc, Czechia",49.1844075178,15.4528119612,0,0,0,0
+"Vienna,  Austria",Vienna, Austria,"Vienna, Austria",48.2083537,16.3725042,7.646,255.71,0,1
+"Opava,  Czechia",Opava, Czechia,"Opava, okres Opava, Moravskoslezský kraj, Moravia-Silesia, Czechia",49.9389004,17.9024174,11.695,391.15,0,1
+"Ostrava,  Czechia",Ostrava, Czechia,"Ostrava, okres Ostrava-město, Moravskoslezský kraj, Moravia-Silesia, Czechia",49.8349139,18.2820084,12.958,433.384,0,1
+"Zvolenská Slatina,  Slovakia",Zvolenská Slatina, Slovakia,"Zvolenská Slatina, District of Zvolen, Region of Banská Bystrica, Central Slovakia, 962 01, Slovakia",48.5607091,19.2600671,17.16,573.911,0,1
+"Brno,  Czechia",Brno, Czechia,"Brno, okres Brno-město, Jihomoravský kraj, Southeast, Czechia",49.1922443,16.6113382,35.255,1179.113,0,7
+"Prague,  Czechia",Prague, Czechia,"Prague, Czechia",50.0596288,14.4464592733,65.286,2183.466,0,9
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,213.924,790.316,1,0
+"Berlin,  Germany",Berlin, Germany,"Berlin, 10117, Germany",52.5170365,13.3888599,214.939,795.606,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,249.745,981.012,1,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,259.945,1034.418,1,0
+"Brussels,  Belgium",Brussels, Belgium,"Brussels, City of Brussels, Brussels-Capital, Belgium",50.8465573,4.351697,373.143,1627.11,1,0
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands",52.3727598,4.8936041,376.233,1643.29,1,0
+"Krakow,  Poland",Krakow, Poland,"Krakow, Wieliczka County, Lesser Poland Voivodeship, Poland",50.0469432,19.9971534358,386.348,1364.408,2,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,426.742,1909.661,1,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,466.846,2254.074,1,0
+"Odesa,  Ukraine",Odesa, Ukraine,"Odesa, Одеська міська громада, Одеський район, Odesa Oblast, Ukraine",46.4873195,30.7392776,478.597,2354.993,1,0
+"Birmingham,  United Kingdom",Birmingham, United Kingdom,"Birmingham, West Midlands Combined Authority, West Midlands, England, United Kingdom",52.4796992,-1.9026911,499.941,2538.302,1,0
+"Athens,  Greece",Athens, Greece,"Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 10667, Greece",37.9839412,23.7283052,534.281,2821.275,1,0
+"Liège,  Belgium",Liège, Belgium,"Liège, Wallonia, 4000, Belgium",50.6451381,5.5734203,678.751,2900.617,2,0
+"Szeged,  Hungary",Szeged, Hungary,"Szeged, Szegedi járás, Csongrád-Csanád County, Southern Great Plain, Great Plain and North, Hungary",46.2546312,20.1486016,736.011,2873.801,3,0
+"Budapest,  Hungary",Budapest, Hungary,"Budapest, V. kerület, Central Hungary, Hungary",47.4983815,19.0404707,747.561,2597.856,4,0
+"Košice,  Slovakia",Košice, Slovakia,"Košice, Region of Košice, Eastern Slovakia, Slovakia",48.7172272,21.2496774,903.66,3411.179,4,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,1240.1,6639.001,2,0
+"Municipality of Patras,  Greece",Municipality of Patras, Greece,"Municipality of Patras, Achaea Regional Unit, Western Greece, Peloponnese, Western Greece and the Ionian, Greece",38.246242,21.7350847,1532.416,7894.819,3,0
+"Ege,  Turkey",Ege, Turkey,"Ege, Kuşadası, Aydın, Aegean Region, 09400, Turkey",37.866132,27.276319,1770.67,9449.3,3,0
+"Leuven,  Belgium",Leuven, Belgium,"Leuven, Flemish Brabant, Flanders, Belgium",50.879202,4.7011675,1820.585,7899.257,5,0
+"Ankara,  Turkey",Ankara, Turkey,"Ankara, Çankaya, Ankara, Central Anatolia Region, 06420, Turkey",39.9207893,32.8540412,1917.713,10286.072,3,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,2092.65,12760.627,1,0
+"Hyderabad,  India",Hyderabad, India,"Hyderabad, Bahadurpura mandal, Hyderabad, Telangana, India",17.360589,78.4740613,2165.642,13213.036,1,0
+"Centre County,  United States",Centre County, United States,"Centre County, Pennsylvania, United States",40.9381735,-77.7865722,2261.853,13809.352,1,0
+"Greensboro,  United States",Greensboro, United States,"Greensboro, Guilford County, North Carolina, United States",36.0726355,-79.7919754,2423.072,14808.594,1,0
+"Chicago,  United States",Chicago, United States,"Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212,2428.136,14839.978,1,0
+"Tallahassee,  United States",Tallahassee, United States,"Tallahassee, Leon County, Florida, United States",30.4380832,-84.2809332,2662.226,16290.87,1,0
+"Washington,  United States",Washington, United States,"Washington, D.C., Cypress Gardens, Polk County, Florida, United States",27.99124005,-81.6909167646,2672.319,16353.426,1,0
+"Miami,  United States",Miami, United States,"Miami, Miami-Dade County, Florida, United States",25.7741728,-80.19362,2698.542,16515.961,1,0
+"Cheongju-si,  South Korea",Cheongju-si, South Korea,"Cheongju-si, Chungcheongbuk-do, South Korea",36.6421169,127.4891742,2733.21,16730.835,1,0
+"Daejeon,  South Korea",Daejeon, South Korea,"Daejeon, South Korea",36.3496,127.3848,2739.504,16769.845,1,0
+"Victoria,  Canada",Victoria, Canada,"Victoria, Capital Regional District, British Columbia, Canada",48.4283182,-123.3649533,2765.313,16929.809,1,0
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Derby Street, Claremont, Berkeley, Alameda County, California, 94720-1076, United States",37.8753497,-122.2396336492,3092.081,18955.118,1,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,3108.351,19055.961,1,0
+"Claremont,  United States",Claremont, United States,"Claremont, California, United States",34.0966764,-117.7197785,3152.156,19327.469,1,0
+"San Diego,  United States",San Diego, United States,"San Diego, San Diego County, California, United States",32.7174202,-117.1627728,3187.592,19547.098,1,0
+"Valparaíso,  Chile",Valparaíso, Chile,"Valparaíso, Provincia de Valparaíso, Valparaiso Region, Chile",-33.0458456,-71.6196749,4074.949,25046.952,1,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,5205.935,32056.824,1,0
+"Art Center Chiang Mai University,  Thailand",Art Center Chiang Mai University, Thailand,"Art Center Chiang Mai University, Nimmanhemin Road, Chiang Mai, Saraphi District, Chiang Mai Province, 50200, Thailand",18.79165575,98.9634025491,5214.128,31897.956,2,0
+"Flagstaff,  United States",Flagstaff, United States,"Flagstaff, Coconino County, Arizona, United States",35.1987522,-111.6518229,6056.331,37117.946,2,0
+"Villanova,  United States",Villanova, United States,"Villanova, Radnor, Radnor Township, Delaware County, Pennsylvania, 19085, United States",40.0373323,-75.3490769,6702.575,40913.725,3,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,8128.738,49962.759,2,0

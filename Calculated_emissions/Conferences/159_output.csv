@@ -1,0 +1,29 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Santa Barbara, United States",Santa Barbara,United States,"Santa Barbara, California, United States",34.4160073262,-119.6872675175,0,0,0,0
+"Irvine,  United States",Irvine, United States,"Irvine, Orange County, California, United States",33.6856969,-117.8259819,11.44,382.599,0,1
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Derby Street, Claremont, Berkeley, Alameda County, California, 94720-1076, United States",37.8753497,-122.2396336492,233.599,892.83,1,0
+"Las Cruces,  United States",Las Cruces, United States,"Las Cruces, Doña Ana County, New Mexico, United States",32.3140354,-106.7798078,488.926,2443.701,1,0
+"Victoria,  Canada",Victoria, Canada,"Victoria, Capital Regional District, British Columbia, Canada",48.4283182,-123.3649533,594.333,3173.152,1,0
+"Austin,  United States",Austin, United States,"Austin, Travis County, Texas, United States",30.2711286,-97.7436995,778.05,4218.621,1,0
+"Lemont,  United States",Lemont, United States,"Lemont, Lemont Township, Cook County, Illinois, 60439-4329, United States",41.6737149,-88.0016263,1048.746,5744.862,1,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,1271.507,7671.172,1,0
+"Philadelphia,  United States",Philadelphia, United States,"Philadelphia, Philadelphia County, Pennsylvania, United States",39.9527237,-75.1635262,1309.004,7903.575,1,0
+"Princeton,  United States",Princeton, United States,"Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958,1321.441,7980.66,1,0
+"New Brunswick,  United States",New Brunswick, United States,"New Brunswick, Middlesex County, New Jersey, United States",40.4862174,-74.4518173,1326.64,8012.887,1,0
+"New Haven,  United States",New Haven, United States,"New Haven, New Haven County, Connecticut, United States",41.29843435,-72.9310234271,1365.172,8251.706,1,0
+"Santa Cruz County,  United States",Santa Cruz County, United States,"Santa Cruz County, California, United States",37.050096,-121.9905908,1397.059,5009.065,7,0
+"Waltham,  United States",Waltham, United States,"Waltham, Middlesex County, Massachusetts, United States",42.3756401,-71.2358004,1407.153,8511.909,1,0
+"Halifax,  Canada",Halifax, Canada,"Halifax, Nova Scotia, Canada",44.648618,-63.5859487,1597.455,9691.405,1,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,2676.021,16166.719,2,0
+"City of Edinburgh,  United Kingdom",City of Edinburgh, United Kingdom,"City of Edinburgh, Scotland, United Kingdom",55.9533456,-3.1883749,2717.661,16634.458,1,0
+"County Durham,  United Kingdom",County Durham, United Kingdom,"County Durham, North East England, England, United Kingdom",54.666667,-1.75,2770.047,16959.15,1,0
+"Nottingham,  United Kingdom",Nottingham, United Kingdom,"Nottingham, Nottinghamshire, East Midlands, England, United Kingdom",52.9534193,-1.1496461,2820.479,17271.727,1,0
+"Oxford,  United Kingdom",Oxford, United Kingdom,"Oxford, Oxfordshire, South East England, England, United Kingdom",51.7520131,-1.2578499,2847.668,17440.242,1,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,2859.522,17513.714,1,0
+"Southampton,  United Kingdom",Southampton, United Kingdom,"Southampton, South East England, England, United Kingdom",50.9025349,-1.404189,2865.732,17552.207,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,2979.203,18255.499,1,0
+"Toulouse,  France",Toulouse, France,"Toulouse, Haute-Garonne, Occitania, Metropolitan France, France",43.6044622,1.4442469,3096.587,18983.046,1,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,3148.237,19303.178,1,0
+"Budapest,  Hungary",Budapest, Hungary,"Budapest, V. kerület, Central Hungary, Hungary",47.4983815,19.0404707,3267.627,20043.161,1,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,4125.197,25358.392,1,0
+"Cape Town,  South Africa",Cape Town, South Africa,"Cape Town, City of Cape Town, Western Cape, 8001, South Africa",-33.928992,18.417396,10516.2,64760.288,2,0

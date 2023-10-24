@@ -1,0 +1,24 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Leiden, Netherlands",Leiden,Netherlands,"Leiden, Netherlands",52.169002495,4.4574255645,0,0,0,0
+"Groningen,  Netherlands",Groningen,Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,11.005,368.054,0,1
+"Leicester,  United Kingdom",Leicester,United Kingdom,"Leicester, Leicestershire, East Midlands, England, LE1 5YA, United Kingdom",52.6361398,-1.1330789,23.001,769.267,0,1
+"Cambridge,  United Kingdom",Cambridge,United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,35.411,1184.328,0,2
+"Oxford,  United Kingdom",Oxford,United Kingdom,"Oxford, Oxfordshire, South East England, England, United Kingdom",51.7520131,-1.2578499,47.326,1582.804,0,2
+"Hatfield,  United Kingdom",Hatfield,United Kingdom,"Hatfield, Welwyn Hatfield, Hertfordshire, East of England, England, United Kingdom",51.7634675,-0.2258741,58.369,1952.139,0,3
+"Brighton,  United Kingdom",Brighton,United Kingdom,"Brighton, Brighton and Hove, South East England, England, United Kingdom",50.8214626,-0.1400561,63.226,2114.568,0,3
+"London,  United Kingdom",London,United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,77.657,2597.235,0,4
+"County Durham,  United Kingdom",County Durham,United Kingdom,"County Durham, North East England, England, United Kingdom",54.666667,-1.75,89.43,2990.958,0,3
+"Gothenburg,  Sweden",Gothenburg,Sweden,"Gothenburg, Göteborgs Stad, Västra Götaland County, 41106, Sweden",57.7072326,11.9670171,360.439,1560.591,1,0
+"Rome,  Italy",Rome,Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,504.823,2580.226,1,0
+"City of Edinburgh,  United Kingdom",City of Edinburgh,United Kingdom,"City of Edinburgh, Scotland, United Kingdom",55.9533456,-3.1883749,624.826,2618.27,2,0
+"Garching bei München,  Germany",Garching bei München,Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,953.97,4015.007,3,0
+"San Cristóbal de La Laguna,  Spain",San Cristóbal de La Laguna,Spain,"San Cristóbal de La Laguna, Santa Cruz de Tenerife, Canary Islands, Spain",28.4857715,-16.3159422,1144.993,6285.969,1,0
+"New York,  United States",New York,United States,"New York, United States",40.7127281,-74.0060152,1919.853,11689.633,1,0
+"New Brunswick,  United States",New Brunswick,United States,"New Brunswick, Middlesex County, New Jersey, United States",40.4862174,-74.4518173,1934.354,11779.511,1,0
+"Green Bank Telescope,  United States",Green Bank Telescope,United States,"Green Bank Telescope, Slavin Hollow Road, Pocahontas County, West Virginia, 24944, United States",38.4330645,-79.8398628151,2094.289,12770.789,1,0
+"Blacksburg,  United States",Blacksburg,United States,"Blacksburg, Montgomery County, Virginia, United States",37.2296566,-80.4136767,2135.954,13029.027,1,0
+"Gainesville,  United States",Gainesville,United States,"Gainesville, Alachua County, Florida, United States",29.6519684,-82.3249846,2371.185,14486.992,1,0
+"Austin,  United States",Austin,United States,"Austin, Travis County, Texas, United States",30.2711286,-97.7436995,2667.147,16321.373,1,0
+"Ithaka,  United States",Ithaka,United States,"Ithaka, 1230, Emerson Street, Old Palo Alto, Palo Alto, Santa Clara County, California, 94301, United States",37.4386859,-122.1536908453,2871.519,17588.071,1,0
+"Pasadena,  United States",Pasadena,United States,"Pasadena, California, United States",34.1476452,-118.1444779,2913.005,17845.203,1,0
+"Canberra,  Australia",Canberra,Australia,"Canberra, District of Canberra Central, Australian Capital Territory, 2601, Australia",-35.2975906,149.1012676,5409.978,33321.489,1,0

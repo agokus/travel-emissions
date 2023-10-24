@@ -1,0 +1,27 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.48110886662043,0,0,0,2
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands, 1012JS, Netherlands",52.3727598,4.8936041,2.231,74.61,0,1
+"Paris,  France",Paris, France,"Paris, Metropolitan France, 75044, France",48.8566969,2.3514616,23.687,792.209,0,1
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,44.019,1472.215,0,4
+"Portsmouth,  United Kingdom",Portsmouth, United Kingdom,"Portsmouth, South East England, England, United Kingdom",50.8036831,-1.075614,220.719,825.72,1,0
+"County Durham,  United Kingdom",County Durham, United Kingdom,"County Durham, North East England, England, United Kingdom",54.666667,-1.75,252.796,996.986,1,0
+"Zurich,  Switzerland",Zurich, Switzerland,"Zurich, District Zurich, Zurich, Switzerland",47.3744489,8.5410422,293.772,1211.535,1,0
+"Prague,  Czechia",Prague, Czechia,"Prague, Czechia",50.0596288,14.446459273258,342.339,1465.825,1,0
+"Hatfield,  United Kingdom",Hatfield, United Kingdom,"Hatfield, Welwyn Hatfield, Hertfordshire, East of England, England, United Kingdom",51.7634675,-0.2258741,374.26,1301.426,2,0
+"Padua,  Italy",Padua, Italy,"Padua, Padova, Veneto, Italy",45.4077172,11.8734455,415.349,1848.093,1,0
+"Vienna,  Austria",Vienna, Austria,"AU, Brunnengasse, KG Ottakring, Ottakring, Vienna, 1160, Austria",48.2144011,16.3371418,425.027,1898.767,1,0
+"Triest,  Italy",Triest, Italy,"Triest, Trieste, UTI Giuliana / Julijska MTU, Friuli-Venezia Giulia, 34122, Italy",45.6496485,13.7772781,435.091,1981.365,1,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.2034823,0.1235817,528.891,1782.812,3,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,545.061,2892.764,1,0
+"Munich,  Germany",Munich, Germany,"Munich, Bavaria, Germany",48.1371079,11.5753822,639.576,2695.499,2,0
+"Florence,  Italy",Florence, Italy,"Florence, Metropolitan City of Florence, Tuscany, Italy",43.7698712,11.2555757,901.861,4234.783,2,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,1577.701,5950.265,7,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,1821.206,11078.212,1,0
+"Greenbelt,  United States",Greenbelt, United States,"Greenbelt, Good Luck Road, Greenbelt, Prince George's County, Maryland, 20706, United States",38.9937333,-76.883065797021,2020.051,12310.661,1,0
+"Columbus,  United States",Columbus, United States,"Columbus, Franklin County, Ohio, United States",39.9622601,-83.0007065,2119.965,12929.932,1,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, 85701, United States",32.2228765,-110.9748477,2853.464,17476.168,1,0
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Lomas Cantadas, Orinda, Contra Costa County, California, 94563, United States",37.8753497,-122.239633649188,2859.187,17511.64,1,0
+"Santa Cruz County,  United States",Santa Cruz County, United States,"Santa Cruz County, California, United States",37.050096,-121.9905908,2881.242,17648.338,1,0
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, California, United States",34.0536909,-118.242766,5834.812,35744.966,2,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,8029.067,48925.691,4,0
+"Canberra,  Australia",Canberra, Australia,"Canberra, District of Canberra Central, Australian Capital Territory, 2600, Australia",-35.2975906,149.1012676,16229.935,99964.468,3,0

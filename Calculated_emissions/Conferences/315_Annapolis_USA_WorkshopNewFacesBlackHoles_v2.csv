@@ -1,0 +1,40 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Annapolis, United States",Annapolis,United States,"Annapolis, United States",38.9786872981,-76.4915792332,0,0,0,0
+"Washington,  United States",Washington, United States,"Washington, District of Columbia, United States",38.8949924,-77.0365581,2.867,95.885,0,1
+"Philadelphia,  United States",Philadelphia, United States,"Philadelphia, Philadelphia County, Pennsylvania, United States",39.9527237,-75.1635262,9.408,314.65,0,1
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,10.818,361.8,0,5
+"University of Maryland,  United States",University of Maryland, United States,"University of Maryland, College Park, University Boulevard East, Berwyn, College Park, Prince George's County, Maryland, 20740, United States",38.99203005,-76.946102902,11.724,392.097,0,5
+"Fairfax,  United States",Fairfax, United States,"Fairfax, Fairfax (city), Virginia, United States",38.8462236,-77.3063733,12.902,431.496,0,3
+"Greenbelt,  United States",Greenbelt, United States,"Greenbelt, Good Luck Road, New Carrollton, Prince George's County, Maryland, 20706, United States",38.9937333,-76.883065797,14.138,472.839,0,7
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,17.149,573.547,0,1
+"Princeton,  United States",Princeton, United States,"Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958,26.163,875.03,0,2
+"State College,  United States",State College, United States,"State College, Centre County, Pennsylvania, United States",40.7944504,-77.8616386,27.896,932.987,0,2
+"New Haven,  United States",New Haven, United States,"New Haven, New Haven County, Connecticut, United States",41.29843435,-72.9310234271,214.897,795.386,1,0
+"Rochester,  United States",Rochester, United States,"Rochester, Monroe, New York, United States",43.157285,-77.615214,244.212,948.127,1,0
+"Dartmouth,  United States",Dartmouth, United States,"Dartmouth, Bristol County, Massachusetts, United States",41.6332267,-70.9879928,273.278,1104.231,1,0
+"Durham,  United States",Durham, United States,"Durham, Strafford County, New Hampshire, 03824, United States",43.134564,-70.927048,313.14,1312.939,1,0
+"Ann Arbor,  United States",Ann Arbor, United States,"Ann Arbor, Washtenaw County, Michigan, United States",42.2681569,-83.7312291,334.222,1423.324,1,0
+"Atlanta,  United States",Atlanta, United States,"Atlanta, Fulton County, Georgia, United States",33.7489924,-84.3902644,411.853,1829.79,1,0
+"Evanston,  United States",Evanston, United States,"Evanston, Evanston Township, Cook County, Illinois, United States",42.0447388,-87.6930459,438.525,2010.852,1,0
+"Madison,  United States",Madison, United States,"Madison, Dane County, Wisconsin, 53703, United States",43.074761,-89.3837613,477.264,2343.551,1,0
+"Morgantown,  United States",Morgantown, United States,"Morgantown, Monongalia County, West Virginia, United States",39.6296809,-79.9559437,719.755,2452.982,4,0
+"College Station,  United States",College Station, United States,"College Station, Brazos County, Texas, United States",30.5955289,-96.3071042,749.936,4058.635,1,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,863.893,3543.376,3,0
+"Gainesville,  United States",Gainesville, United States,"Gainesville, Alachua County, Florida, United States",29.6519684,-82.3249846,952.095,4666.205,2,0
+"Salt Lake City,  United States",Salt Lake City, United States,"Salt Lake City, Salt Lake County, Utah, United States",40.7596198,-111.8867975,1096.493,6013.298,1,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,1155.009,4741.003,4,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,1160.462,6372.936,1,0
+"Irvine,  United States",Irvine, United States,"Irvine, Orange County, California, United States",33.6856969,-117.8259819,1249.088,7433.724,1,0
+"Eugene,  United States",Eugene, United States,"Eugene, Lane County, Oregon, United States",44.0505054,-123.0950506,1282.164,7737.225,1,0
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Derby Street, Claremont, Berkeley, Alameda County, California, 94720-1076, United States",37.8753497,-122.2396336492,1306.604,7888.7,1,0
+"Urbana,  United States",Urbana, United States,"Urbana, Champaign County, Illinois, United States",40.1117174,-88.207301,1319.872,6069.468,3,0
+"Boulder,  United States",Boulder, United States,"Boulder, Boulder County, Colorado, United States",40.0149856,-105.270545,1804.923,9844.882,2,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,1921.66,11700.83,1,0
+"Frankfurt,  Germany",Frankfurt, Germany,"Frankfurt, Hesse, Germany",50.1106444,8.6820917,2127.834,12978.698,1,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,2219.594,13547.429,1,0
+"Budapest,  Hungary",Budapest, Hungary,"Budapest, V. kerület, Central Hungary, Hungary",47.4983815,19.0404707,2387.584,14588.637,1,0
+"Stanford,  United States",Stanford, United States,"Stanford, Palo Alto, Santa Clara County, California, United States",37.4265407,-122.1702925841,2618.662,15811.21,2,0
+"Cairo,  Egypt",Cairo, Egypt,"Cairo, Cairo Governorate, Egypt",30.0443879,31.2357257,3036.451,18610.327,1,0
+"Beijing,  China",Beijing, China,"Beijing, 100051, China",39.906217,116.3912757,3630.514,22292.338,1,0
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,4435.974,27284.594,1,0
+"Jerusalem,  Israel",Jerusalem, Israel,"Jerusalem, Jerusalem Subdistrict, Jerusalem District, Israel",31.79592425,35.2119807597,6167.695,37808.177,2,0

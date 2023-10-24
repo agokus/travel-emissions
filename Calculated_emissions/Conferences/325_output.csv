@@ -1,0 +1,27 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Saint-Michel-l’Observatoire, France",Saint-Michel-l’Observatoire,France,"Saint-Michel-l’Observatoire, France",43.9095699762,5.7168397426,0,0,0,0
+"Grenoble,  France",Grenoble, France,"Grenoble, Isère, Auvergne-Rhône-Alpes, Metropolitan France, France",45.1875602,5.7357819,8.499,284.255,0,1
+"Saint-Genis-Laval,  France",Saint-Genis-Laval, France,"Saint-Genis-Laval, Lyon, Métropole de Lyon, Departemental constituency of Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69230, France",45.6950021,4.7928827,12.648,423.021,0,1
+"Geneva,  Switzerland",Geneva, Switzerland,"Geneva, Grand Genève, Geneva, Switzerland",46.2017559,6.1466014,15.375,514.228,0,1
+"Montpellier,  France",Montpellier, France,"Montpellier, Hérault, Occitania, Metropolitan France, France",43.6112422,3.8767337,18.117,605.914,0,2
+"Marseille,  France",Marseille, France,"Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, Metropolitan France, 13000, France",43.2961743,5.3699525,22.037,737.031,0,5
+"Pisa,  Italy",Pisa, Italy,"Pisa, Tuscany, Italy",43.7159395,10.4018624,22.512,752.913,0,1
+"Florence,  Italy",Florence, Italy,"Florence, Metropolitan City of Florence, Tuscany, Italy",43.7698712,11.2555757,26.574,888.76,0,1
+"Siena,  Italy",Siena, Italy,"Siena, Tuscany, Italy",43.1672254,11.4671811613,28.146,941.349,0,1
+"Trento,  Italy",Trento, Italy,"Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italy",46.0664228,11.1257601,29.191,976.303,0,1
+"Toulouse,  France",Toulouse, France,"Toulouse, Haute-Garonne, Occitania, Metropolitan France, France",43.6044622,1.4442469,82.479,2758.492,0,4
+"Bordeaux,  France",Bordeaux, France,"Bordeaux, New Aquitaine, Metropolitan France, France",44.841225,-0.5800364,257.562,1021.943,1,0
+"Gradignan,  France",Gradignan, France,"Gradignan, Bordeaux, New Aquitaine, Metropolitan France, 33170, France",44.7739701,-0.613907,258.122,1024.873,1,0
+"Orsay,  France",Orsay, France,"Orsay, Palaiseau, Essonne, Ile-de-France, Metropolitan France, 91400, France",48.699184,2.187457,290.606,1194.958,1,0
+"Gif-sur-Yvette,  France",Gif-sur-Yvette, France,"Gif-sur-Yvette, Palaiseau, Essonne, Ile-de-France, Metropolitan France, 91190, France",48.7018823,2.134529,291.414,1199.186,1,0
+"Meudon,  France",Meudon, France,"Meudon, Boulogne-Billancourt, Hauts-de-Seine, Ile-de-France, Metropolitan France, France",48.8126688,2.2385432,294.202,1213.785,1,0
+"Catania,  Italy",Catania, Italy,"Catania, Sicily, Italy",37.5022355,15.08738,451.799,2124.853,1,0
+"Dublin,  Ireland",Dublin, Ireland,"Dublin, Dublin 1, Leinster, Ireland",53.3497645,-6.2602732,523.09,2732.472,1,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,787.473,3469.869,2,0
+"Palermo,  Italy",Palermo, Italy,"Palermo, Sicily, Italy",38.1112268,13.3524434,818.539,3632.528,2,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,954.075,5212.614,1,0
+"Reykjavik,  Iceland",Reykjavik, Iceland,"Reykjavik, Capital Region, Iceland",64.145981,-21.9422367,1036.73,5677.309,1,0
+"Baksan,  Russia",Baksan, Russia,"Baksan, Baksan Municipality, Kabardino-Balkaria, North Caucasian Federal District, Russia",43.6820626,43.5344319,1097.135,6016.907,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,1766.661,7290.294,6,0
+"Potchefstroom,  South Africa",Potchefstroom, South Africa,"Potchefstroom, Tlokwe Local Municipality, Potchefstroom, North West, 2520, South Africa",-26.7150922,27.1013887,2663.691,16299.954,1,0
+"Sagamihara,  Japan",Sagamihara, Japan,"Sagamihara, Kanagawa Prefecture, Japan",35.56559,139.236215,3263.448,20017.259,1,0

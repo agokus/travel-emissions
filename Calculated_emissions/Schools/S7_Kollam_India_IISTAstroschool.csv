@@ -1,0 +1,42 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Thiruvananthapuram, Kerala, India",Thiruvananthapuram,India,"Thiruvananthapuram, Kerala, India",8.52300041031136,76.9348794817856,0,0,0,0
+"Kollam,  India",Kollam, India,"Kollam, Kerala, 691001, India",8.8879509,76.5955013,3.634,121.529,0,1
+"Athirampuzha,  India",Athirampuzha, India,"Athirampuzha, Ettumanoor, Kottayam, Kerala, 686631, India",9.6678442,76.5328609,8.009,267.87,0,1
+"Ram Prakash Vihar,  India",Ram Prakash Vihar, India,"Ram Prakash Vihar,Vaduthala ,ernakulam, Vaduthala, Kanayannur, Ernakulam district, Kerala, 682012, India",10.0118206,76.2769256718824,10.806,361.41,0,1
+"Madurai,  India",Madurai, India,"Madurai, Madurai South, Madurai District, Tamil Nadu, India",9.9261153,78.1140983,11.368,380.21,0,1
+"Thrissur,  India",Thrissur, India,"Thrissur, Thrissur district, Kerala, 680001, India",10.5256264,76.2132542,14.072,470.62,0,1
+"Palakkad,  India",Palakkad, India,"Palakkad, Palakkad district, Kerala, 678001, India",10.7691989,76.6512469,14.81,495.309,0,1
+"Karaikudi,  India",Karaikudi, India,"Karaikudi, Karaikkudi, Sivagangai District, Tamil Nadu, 623001, India",10.0680908,78.7657007,15.001,501.697,0,1
+"Tiruchirappalli,  India",Tiruchirappalli, India,"Tiruchirappalli, Trichy Corporation Limits, Tiruchirappalli, Tiruchirappalli District, Tamil Nadu, 620001, India",10.804973,78.6870296,18.292,611.762,0,1
+"Kozhikode,  India",Kozhikode, India,"Kozhikode, Kannur-Kozhikode Road, Nadakkavu, Erenjippalam, Kozhikode, Kozhikode district, Kerala, 673011, India",11.2586082,75.7788735,19.68,658.177,0,1
+"Tiruvarur Medical Centre,  India",Tiruvarur Medical Centre, India,"Tiruvarur Medical Centre, South Street, Thiruvarur, Thiruvarur District, Tamil Nadu, 610001, India",10.7745978,79.6279725,22.339,747.12,0,1
+"Periye Bazar,  India",Periye Bazar, India,"Periye Bazar, Hosdurg, Kasaragod district, Kerala, 61316, India",12.4102374,75.0932918,28.519,953.807,0,1
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,29.485,986.104,0,1
+"Mangaluru,  India",Mangaluru, India,"Mangaluru, Mangaluru taluk, Dakshina Kannada, Karnataka, 575001, India",12.8698101,74.8430082,31.979,1069.526,0,1
+"Katpadi,  India",Katpadi, India,"Katpadi, Vellore District, Tamil Nadu, India",13.0431189,79.2419044055174,32.966,1102.543,0,1
+"Manipal,  India",Manipal, India,"Manipal, Udupi taluku, Udupi district, Karnataka, 576104, India",13.3519723,74.7870308,35.018,1171.17,0,1
+"Karnataka,  India",Karnataka, India,"Karnataka, India",14.5203896,75.7223521,40.455,1353.018,0,1
+"Coimbatore,  India",Coimbatore, India,"Coimbatore, Coimbatore North, Coimbatore District, Tamil Nadu, 641001, India",11.0018115,76.9628425,64.536,2158.399,0,4
+"Chennai,  India",Chennai, India,"Chennai, Chennai District, Tamil Nadu, India",13.0836939,80.270186,109.82,3672.92,0,3
+"Kadaganchi,  India",Kadaganchi, India,"Kadaganchi, Alanda taluku, Kalaburagi district, Karnataka, 585311, India",17.443693,76.6594239,434.197,1973.684,1,0
+"Madhav,  India",Madhav, India,"Madhav, Kurmannapalem Road, Etapalem, Gajuwaka, Visakhapatnam, Andhra Pradesh, 530046, India",17.6960712,83.1614431,486.255,2420.769,1,0
+"Mumbai,  India",Mumbai, India,"Mumbai, Mumbai Suburban, Maharashtra, India",19.0759899,72.8773928,495.735,2502.18,1,0
+"Rourkela,  India",Rourkela, India,"Rourkela, Sundargarh, Odisha, India",22.2539994,84.8577520139704,646.391,3469.398,1,0
+"Mesra,  India",Mesra, India,"Mesra, Becharaji Taluka, Mahesana District, Gujarat, India",23.6094363,72.1213509,652.452,3503.891,1,0
+"Gandhigram,  India",Gandhigram, India,"Gandhigram, Akodiya, Deoli Tehsil, Tonk, Rajasthan, India",25.8384259,75.5584502,713.573,3851.708,1,0
+"Jadavpur,  India",Jadavpur, India,"Jadavpur, Jadavpur Station Link Road, Santoshpur, Ananda Pally, Kolkata, West Bengal, 700 032, India",22.4951079,88.3749813,727.03,3928.289,1,0
+"Kolkata,  India",Kolkata, India,"Kolkata, West Bengal, India",22.5726723,88.3638815,729.107,3940.105,1,0
+"Medinipur,  India",Medinipur, India,"Medinipur, Zamania, Ghazipur, Uttar Pradesh, 232336, India",25.5724333,83.6096053,744.264,4026.358,1,0
+"Kanpur,  India",Kanpur, India,"Kanpur, Kanpur Nagar, Uttar Pradesh, 208012, India",26.4609135,80.3217588,746.072,4036.647,1,0
+"Patna,  India",Patna, India,"Patna, Patna Rural, Patna, Bihar, 800001, India",25.6093239,85.1235252,766.878,4155.047,1,0
+"Kharagpur,  India",Kharagpur, India,"Kharagpur, Munger, Bihar, India",25.13317305,86.5250403633979,773.655,4193.612,1,0
+"Aligarh,  India",Aligarh, India,"Aligarh, Uttar Pradesh, India",27.87698975,78.1372902760099,792.033,4298.196,1,0
+"Noida,  India",Noida, India,"Noida, Dadri, Gautam Buddha Nagar, Uttar Pradesh, 201301, India",28.5707841,77.3271074,818.148,4446.806,1,0
+"Delhi,  India",Delhi, India,"Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110006, India",28.6517178,77.2219388,821.27,4464.571,1,0
+"Agartala,  India",Agartala, India,"Agartala, Mohanpur, West Tripura, Tripura, 799001, India",23.8312377,91.2823821,835.728,4546.848,1,0
+"Hyderabad,  India",Hyderabad, India,"Hyderabad, Bahadurpura mandal, Hyderabad, Telangana, India",17.360589,78.4740613,869.297,3955.121,2,0
+"Roorkee,  India",Roorkee, India,"Roorkee, Haridwar, Uttarakhand, 247667, India",29.8693496,77.8902124,869.735,4738.449,1,0
+"Uttarakhand,  India",Uttarakhand, India,"Uttarakhand, India",30.0417376,79.089691,879.331,4792.4,1,0
+"Sahibzada Ajit Singh Nagar,  India",Sahibzada Ajit Singh Nagar, India,"Sahibzada Ajit Singh Nagar, S.A.S. Nagar (Mohali) Tahsil, Sahibzada Ajit Singh Nagar, Punjab, 160059, India",30.7047049,76.7178146,902.29,4921.474,1,0
+"Guwahati,  India",Guwahati, India,"Guwahati, Kamrup Metropolitan, Assam, 781015, India",26.1805978,91.753943,915.558,4996.071,1,0
+"Pune,  India",Pune, India,"Pune, Pune District, Maharashtra, India",18.521428,73.8544541,948.265,4633.309,2,0

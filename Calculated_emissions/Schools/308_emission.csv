@@ -1,0 +1,16 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Granada,  Spain",Granada, Spain,"Granada, Comarca de la Vega de Granada, Granada, Andalusia, Spain",37.1734995,-3.5995337,0,0,0,20
+"Cádiz,  Spain",Cádiz, Spain,"Cádiz, Bay of Cádiz, Cádiz, Andalusia, Spain",36.5297438,-6.2928976,14.96,500.33,0,1
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,107.542,3596.733,0,5
+"A Coruña,  Spain",A Coruña, Spain,"A Coruña, Galicia, Spain",43.3712091,-8.3958768,367.559,1597.874,1,0
+"Ceraxus/Selargius,  Italy",Ceraxus/Selargius, Italy,"Ceraxus/Selargius, Cagliari, Sardinia, 09047, Italy",39.2569504,9.1675535,469.423,2276.21,1,0
+"Bonn,  Germany",Bonn, Germany,"Bonn, North Rhine-Westphalia, Germany",50.735851,7.10066,644.538,3458.85,1,0
+"Barcelona,  Spain",Barcelona, Spain,"Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",41.3828939,2.1774322,645.782,2727.992,2,0
+"Amsterdam,  Netherlands",Amsterdam, Netherlands,"Amsterdam, North Holland, Netherlands",52.3727598,4.8936041,674.359,3628.554,1,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,786.037,4264.074,1,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,1863.188,10172.452,2,0
+"Munich,  Germany",Munich, Germany,"Munich, Bavaria, Germany",48.1371079,11.5753822,2583.098,13863.557,4,0
+"Seattle,  United States",Seattle, United States,"Seattle, King County, Washington, United States",47.6038321,-122.3300624,2874.032,17603.647,1,0
+"Taipei,  Taiwan",Taipei, Taiwan,"Taipei, Taiwan",25.0375198,121.5636796,3593.388,22062.23,1,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,4088.392,24920.619,2,0
+"Taoyuan City,  Taiwan",Taoyuan City, Taiwan,"Taoyuan City, Taiwan",24.9929995,121.3010003,7177.887,44069.366,2,0

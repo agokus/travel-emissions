@@ -1,0 +1,30 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Kreuth, Germany",Kreuth,Germany,"Kreuth, Germany",47.6446004895,11.743376408,0,0,0,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,4.08,136.45,0,1
+"Munich,  Germany",Munich, Germany,"Munich, Bavaria, Germany",48.1371079,11.5753822,13.534,452.652,0,4
+"Bern,  Switzerland",Bern, Switzerland,"Bern, Bern-Mittelland administrative district, Bernese Mittelland administrative region, Bern, Switzerland",46.9482713,7.4514512,19.897,665.467,0,1
+"Tübingen,  Germany",Tübingen, Germany,"Tübingen, Landkreis Tübingen, Baden-Württemberg, Germany",48.5236164,9.0535531,26.63,890.62,0,2
+"Budapest,  Hungary",Budapest, Hungary,"Budapest, V. kerület, Central Hungary, Hungary",47.4983815,19.0404707,271.48,1094.818,1,0
+"Nice,  France",Nice, France,"Nice, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitan France, France",43.7009358,7.2683912,275.972,1118.332,1,0
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.4811088666,338.174,1444.018,1,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,339.099,11341.113,0,19
+"Copenhagen,  Denmark",Copenhagen, Denmark,"Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1357, Denmark",55.6867243,12.5700724,404.802,1792.874,1,0
+"Lund,  Sweden",Lund, Sweden,"Lund, Lund Municipality, Skåne County, Sweden",55.7029296,13.1929449,406.905,1803.882,1,0
+"Exeter,  United Kingdom",Exeter, United Kingdom,"Exeter, Devon, South West England, England, United Kingdom",50.725562,-3.5269108,474.353,2318.547,1,0
+"Grenoble,  France",Grenoble, France,"Grenoble, Isère, Auvergne-Rhône-Alpes, Metropolitan France, France",45.1875602,5.7357819,533.576,2140.495,2,0
+"Duisburg,  Germany",Duisburg, Germany,"Duisburg, North Rhine-Westphalia, Germany",51.434999,6.759562,548.099,2216.536,2,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,861.235,3885.89,2,0
+"Moscow,  Russia",Moscow, Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,1466.732,7928.686,2,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,2041.188,12441.669,1,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,2139.282,13049.658,1,0
+"Williamstown,  United States",Williamstown, United States,"Williamstown, Grant County, Kentucky, 41097, United States",38.6381245,-84.5604977,2409.021,14721.505,1,0
+"Boulder,  United States",Boulder, United States,"Boulder, Boulder County, Colorado, United States",40.0149856,-105.270545,2763.279,16917.197,1,0
+"Las Cruces,  United States",Las Cruces, United States,"Las Cruces, Doña Ana County, New Mexico, United States",32.3140354,-106.7798078,3009.41,18442.724,1,0
+"Las Vegas,  United States",Las Vegas, United States,"Las Vegas, Clark County, Nevada, United States",36.1672559,-115.148516,3037.445,18616.485,1,0
+"Nagoya,  Japan",Nagoya, Japan,"Nagoya, Aichi Prefecture, Japan",35.1851045,136.8998438,3039.162,18627.128,1,0
+"Santa Cruz County,  United States",Santa Cruz County, United States,"Santa Cruz County, California, United States",37.050096,-121.9905908,3111.935,19078.178,1,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,3145.464,19285.989,1,0
+"Princeton,  United States",Princeton, United States,"Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958,4322.692,26372.815,2,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,5301.846,32651.287,1,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,6172.514,37838.048,2,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,15348.174,94079.994,5,0

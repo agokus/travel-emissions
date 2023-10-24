@@ -1,0 +1,43 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"York, United Kingdom",York,United Kingdom,"York, United Kingdom",53.9581709957,-1.0797242854,0,0,0,0
+"Jodrell Bank,  United Kingdom",Jodrell Bank, United Kingdom,"Jodrell Bank, Lower Withington, Cheshire East, North West England, England, SK11 9DW, United Kingdom",53.2434155,-2.2990958,6.762,226.149,0,1
+"Manchester,  United Kingdom",Manchester, United Kingdom,"Manchester, Greater Manchester, North West England, England, United Kingdom",53.4794892,-2.2451148,11.159,373.202,0,2
+"Sheffield,  United Kingdom",Sheffield, United Kingdom,"Sheffield, Yorkshire and the Humber, England, United Kingdom",53.3806626,-1.4702278,12.419,415.344,0,3
+"Liverpool,  United Kingdom",Liverpool, United Kingdom,"Liverpool, North West England, England, United Kingdom",53.4071991,-2.99168,16.739,559.824,0,2
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,16.749,560.154,0,1
+"St Andrews,  United Kingdom",St Andrews, United Kingdom,"St Andrews, Fife, Scotland, KY16 9PA, United Kingdom",56.3403902,-2.7955844,17.12,572.587,0,1
+"Canterbury,  United Kingdom",Canterbury, United Kingdom,"Canterbury, Kent, South East England, England, United Kingdom",51.2800275,1.0802533,19.835,663.365,0,1
+"Leeds,  United Kingdom",Leeds, United Kingdom,"Leeds, West Yorkshire, Yorkshire and the Humber, England, United Kingdom",53.7974185,-1.5437941,25.281,845.528,0,12
+"Ghent,  Belgium",Ghent, Belgium,"Ghent, Gent, East Flanders, Flanders, Belgium",51.0538286,3.7250121,27.405,916.539,0,1
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.48110886662043,50.523,1689.748,0,2
+"Cardiff,  United Kingdom",Cardiff, United Kingdom,"Cardiff, Wales, CF, United Kingdom",51.4816546,-3.1791934,74.046,2476.461,0,4
+"Exeter,  United Kingdom",Exeter, United Kingdom,"Exeter, Devon, South West England, England, United Kingdom",50.725562,-3.5269108,118.408,3960.119,0,5
+"Bonn,  Germany",Bonn, Germany,"Bonn, North Rhine-Westphalia, Germany",50.735851,7.10066,314.756,1321.405,1,0
+"Strasbourg,  France",Strasbourg, France,"Strasbourg, Bas-Rhin, Grand Est, Metropolitan France, France",48.584614,7.7507127,389.335,1711.887,1,0
+"Gothenburg,  Sweden",Gothenburg, Sweden,"Gothenburg, Göteborgs Stad, Västra Götaland County, 41106, Sweden",57.7072326,11.9670171,411.208,1826.414,1,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,427.115,1912.864,1,0
+"Oslo,  Norway",Oslo, Norway,"Oslo, Norway",59.9133301,10.7389701,431.073,1946.854,1,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,458.148,2179.377,1,0
+"Saint-Martin-d'Hères,  France",Saint-Martin-d'Hères, France,"Saint-Martin-d'Hères, Grenoble, Isère, Auvergne-Rhône-Alpes, Metropolitan France, 38400, France",45.1836683,5.75448,458.693,2184.063,1,0
+"Barcelona,  Spain",Barcelona, Spain,"Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",41.3828939,2.1774322,536.426,2838.291,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,892.03,3690.698,3,0
+"Granada,  Spain",Granada, Spain,"Granada, Comarca de la Vega de Granada, Granada, Andalusia, Spain",37.1734995,-3.5995337,1392.407,7505.726,2,0
+"Cologne,  Germany",Cologne, Germany,"Cologne, North Rhine-Westphalia, Germany",50.938361,6.959974,1533.486,6396.037,5,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,1823.325,11091.349,1,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,1872.945,11398.894,1,0
+"Green Bank Telescope,  United States",Green Bank Telescope, United States,"Green Bank Telescope, Slavin Hollow Road, Pocahontas County, West Virginia, 24944, United States",38.4330645,-79.8398628151245,1959.456,11935.092,1,0
+"Davis County,  United States",Davis County, United States,"Davis County, Iowa, United States",40.7474784,-92.3965311,2144.735,13083.45,1,0
+"Gainesville,  United States",Gainesville, United States,"Gainesville, Alachua County, Florida, United States",29.6519684,-82.3249846,2238.815,13666.563,1,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,2281.7,12148.401,4,0
+"Bellingham,  United States",Bellingham, United States,"Bellingham, Whatcom County, Washington, United States",48.7544012,-122.4788361,2403.863,14689.534,1,0
+"Austin,  United States",Austin, United States,"Austin, Travis County, Texas, United States",30.2711286,-97.7436995,2530.949,15477.217,1,0
+"Bengaluru,  India",Bengaluru, India,"Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India",12.9791198,77.5912997,2649.162,16209.898,1,0
+"Thiruvananthapuram,  India",Thiruvananthapuram, India,"Thiruvananthapuram, Kerala, India",8.57697055,77.0501246373073,2764.325,16923.683,1,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,2781.024,17027.182,1,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,3054.927,18724.838,1,0
+"Taipei,  Taiwan",Taipei, Taiwan,"Taipei, Taiwan",25.0375198,121.5636796,3150.7,19318.444,1,0
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,5488.222,33806.448,1,0
+"Antofagasta,  Chile",Antofagasta, Chile,"Antofagasta, Provincia de Antofagasta, Antofagasta Region, Chile",-23.6463741,-70.3980033,7078.643,43454.249,2,0
+"Mexico City,  Mexico",Mexico City, Mexico,"Mexico City, Mexico",19.4326296,-99.1331785,8602.13,52687.198,3,0
+"Kagoshima Prefecture,  Japan",Kagoshima Prefecture, Japan,"Kagoshima Prefecture, Japan",31.521587,130.5474077,9236.139,56616.796,3,0
+"Nanjing,  China",Nanjing, China,"Nanjing, Nanjing City, Jiangsu, 210008, China",32.0609736,118.7916458,11556.893,70791.222,4,0

@@ -1,0 +1,5 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Sydney,  Australia",Sydney, Australia,"Sydney, New South Wales, Australia",-33.8548157,151.2164539,0,0,0,12
+"Brisbane City,  Australia",Brisbane City, Australia,"Brisbane City, Queensland, Australia",-27.4689682,153.0234991,341.519,1461.529,1,0
+"Perth,  Australia",Perth, Australia,"Perth, City of Perth, Western Australia, 6000, Australia",-31.9527121,115.8604796,1197.773,6582.704,1,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,1677.421,7149.669,5,0

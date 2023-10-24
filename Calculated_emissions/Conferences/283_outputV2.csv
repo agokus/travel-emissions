@@ -1,0 +1,77 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Cagliari,  Italy",Cagliari, Italy,"Cagliari, Sardinia, Italy",39.2169525,9.1128513,0,0,0,3
+"Pisa,  Italy",Pisa, Italy,"Pisa, Tuscany, Italy",43.7159395,10.4018624,257.82,1023.291,1,0
+"Florence,  Italy",Florence, Italy,"Florence, Metropolitan City of Florence, Tuscany, Italy",43.7698712,11.2555757,267.406,1073.486,1,0
+"Padua,  Italy",Padua, Italy,"Padua, Padova, Veneto, Italy",45.4077172,11.8734455,339.21,1449.439,1,0
+"Toulouse,  France",Toulouse, France,"Toulouse, Haute-Garonne, Occitania, Metropolitan France, France",43.6044622,1.4442469,369.411,1607.572,1,0
+"Zurich,  Switzerland",Zurich, Switzerland,"Zurich, District Zurich, Zurich, Switzerland",47.3744489,8.5410422,409.313,1816.492,1,0
+"Vienna,  Austria",Vienna, Austria,"Vienna, Austria",48.2083537,16.3725042,473.679,2312.761,1,0
+"Athens,  Greece",Athens, Greece,"Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 10667, Greece",37.9839412,23.7283052,501.551,2552.127,1,0
+"Czech Academy of Sciences,  Czechia",Czech Academy of Sciences, Czechia,"Czech Academy of Sciences, Divadelní, Old Town, Prague, 11665, Czechia",50.08177615,14.4141491122,502.001,2555.992,1,0
+"Nijmegen,  Netherlands",Nijmegen, Netherlands,"Nijmegen, Gelderland, Netherlands",51.8474946,5.8637771,538.329,2853.392,1,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,562.844,2993.958,1,0
+"London,  United Kingdom",London, United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,578.936,3085.537,1,0
+"Hamburg,  Germany",Hamburg, Germany,"Hamburg, Germany",53.550341,10.000654,597.372,3190.447,1,0
+"Treforest,  United Kingdom",Treforest, United Kingdom,"Treforest, Park Street, Hawthorn, Pontypridd, Rhondda Cynon Taf, Wales, CF37 1SL, United Kingdom",51.5918935,-3.3249855,626.858,3358.243,1,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,660.925,2470.748,3,0
+"Leeds,  United Kingdom",Leeds, United Kingdom,"Leeds, West Yorkshire, Yorkshire and the Humber, England, United Kingdom",53.7974185,-1.5437941,672.949,3620.532,1,0
+"Lancaster,  United Kingdom",Lancaster, United Kingdom,"Lancaster, Lancashire, North West England, England, United Kingdom",54.0484068,-2.7990345,696.601,3755.126,1,0
+"Geneva,  Switzerland",Geneva, Switzerland,"Geneva, Grand Genève, Geneva, Switzerland",46.2017559,6.1466014,746.205,3253.797,2,0
+"Bordeaux,  France",Bordeaux, France,"Bordeaux, Gironde, New Aquitaine, Metropolitan France, France",44.841225,-0.5800364,881.368,4058.794,2,0
+"Barcelona,  Spain",Barcelona, Spain,"Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",41.3828939,2.1774322,915.18,3811.906,3,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,936.854,4535.314,2,0
+"Grenoble,  France",Grenoble, France,"Grenoble, Isère, Auvergne-Rhône-Alpes, Metropolitan France, France",45.1875602,5.7357819,1011.817,4317.887,3,0
+"Leuven,  Belgium",Leuven, Belgium,"Leuven, Flemish Brabant, Flanders, Belgium",50.879202,4.7011675,1033.795,5366.675,2,0
+"Groningen,  Netherlands",Groningen, Netherlands,"Groningen, Netherlands",53.2190652,6.5680077,1176.288,6275.869,2,0
+"Bologna,  Italy",Bologna, Italy,"Bologna, Emilia-Romagna, Italy",44.4937577,11.3430308,1189.306,4920.577,4,0
+"Cardiff,  United Kingdom",Cardiff, United Kingdom,"Cardiff, Wales, CF, United Kingdom",51.4816546,-3.1791934,1242.56,6652.997,2,0
+"Madrid,  Spain",Madrid, Spain,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",40.4167047,-3.7035825,1843.816,8813.907,4,0
+"Leiden,  Netherlands",Leiden, Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.4811088666,2230.079,11854.644,4,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,2300.868,14051.166,1,0
+"Hamilton,  Canada",Hamilton, Canada,"Hamilton, Golden Horseshoe, Ontario, Canada",43.2560802,-79.8728583,2319.026,14163.712,1,0
+"University of Maryland,  United States",University of Maryland, United States,"University of Maryland, College Park, University Boulevard East, Berwyn, College Park, Prince George's County, Maryland, 20740, United States",38.99203005,-76.946102902,2328.277,14221.05,1,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,2418.356,11992.871,5,0
+"Dayton,  United States",Dayton, United States,"Dayton, Montgomery County, Ohio, United States",39.7589478,-84.1916069,2483.848,15185.282,1,0
+"Evanston,  United States",Evanston, United States,"Evanston, Evanston Township, Cook County, Illinois, United States",42.0447388,-87.6930459,2516.472,15387.483,1,0
+"Oslo,  Norway",Oslo, Norway,"Oslo, Norway",59.9133301,10.7389701,2539.759,13824.921,3,0
+"Urbana,  United States",Urbana, United States,"Urbana, Champaign County, Illinois, United States",40.1117174,-88.207301,2567.68,15704.871,1,0
+"Gainesville,  United States",Gainesville, United States,"Gainesville, Alachua County, Florida, United States",29.6519684,-82.3249846,2645.533,16187.406,1,0
+"Copenhagen,  Denmark",Copenhagen, Denmark,"Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1357, Denmark",55.6867243,12.5700724,2746.44,14793.081,4,0
+"Nanjing,  China",Nanjing, China,"Nanjing, Nanjing City, Jiangsu, 210008, China",32.0609736,118.7916458,3027.172,18552.814,1,0
+"Provo,  United States",Provo, United States,"Provo, Utah County, Utah, United States",40.2338438,-111.6585337,3045.227,18664.717,1,0
+"Yongin-si,  South Korea",Yongin-si, South Korea,"Yongin-si, Gyeonggi, South Korea",37.2405741,127.1785572,3072.807,18835.663,1,0
+"Tohoku,  Japan",Tohoku, Japan,"Tohoku, Kamikita County, Aomori Prefecture, Japan",40.7279915,141.2579371,3224.938,19778.57,1,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,3245.533,19906.221,1,0
+"Hiroshima,  Japan",Hiroshima, Japan,"Hiroshima, Hiroshima Prefecture, Japan",34.3916058,132.4518156,3251.26,19941.716,1,0
+"Hsinchu,  Taiwan",Hsinchu, Taiwan,"Hsinchu, Taiwan Province, Taiwan",24.8066333,120.9686833,3255.988,19971.019,1,0
+"Joetsu,  Japan",Joetsu, Japan,"Joetsu, Niigata Prefecture, Japan",37.1478816,138.2359501,3279.257,20115.244,1,0
+"Kagoshima Prefecture,  Japan",Kagoshima Prefecture, Japan,"Kagoshima Prefecture, Japan",31.521587,130.5474077,3291.631,20191.936,1,0
+"Mexico City,  Mexico",Mexico City, Mexico,"Mexico City, Mexico",19.4326296,-99.1331785,3300.942,20249.645,1,0
+"San Francisco,  United States",San Francisco, United States,"San Francisco, California, United States",37.7790262,-122.419906,3301.52,20253.229,1,0
+"Palo Alto,  United States",Palo Alto, United States,"Palo Alto, Santa Clara County, California, United States",37.4443293,-122.1598465,3306.996,20287.168,1,0
+"Northridge,  United States",Northridge, United States,"Northridge, Los Angeles, California, United States",34.2345615,-118.5369316,3336.215,20468.266,1,0
+"Mito,  Japan",Mito, Japan,"Mito, Ibaraki Prefecture, Japan",36.3657792,140.4713933,3339.895,20491.077,1,0
+"Cologne,  Germany",Cologne, Germany,"Cologne, North Rhine-Westphalia, Germany",50.938361,6.959974,3572.904,18397.769,7,0
+"Valparaíso,  Chile",Valparaíso, Chile,"Valparaíso, Provincia de Valparaíso, Valparaiso Region, Chile",-33.0458456,-71.6196749,3761.767,23105.847,1,0
+"Concepcion,  Chile",Concepcion, Chile,"Concepcion, Provincia de Concepción, Biobío Region, Chile",-36.8270795,-73.0502399,3877.475,23823.006,1,0
+"Bonn,  Germany",Bonn, Germany,"Bonn, North Rhine-Westphalia, Germany",50.735851,7.10066,4039.22,20647.292,8,0
+"Boston,  United States",Boston, United States,"Boston, Suffolk County, Massachusetts, United States",42.3602534,-71.0582912,4259.741,25982.644,2,0
+"Perth,  Australia",Perth, Australia,"Perth, City of Perth, Western Australia, 6000, Australia",-31.9527121,115.8604796,4397.041,27043.288,1,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,4454.742,27191.264,2,0
+"Gothenburg,  Sweden",Gothenburg, Sweden,"Gothenburg, Göteborgs Stad, Västra Götaland County, 41106, Sweden",57.7072326,11.9670171,4577.639,24795.816,6,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,4629.586,28274.954,2,0
+"Green Bank Telescope,  United States",Green Bank Telescope, United States,"Green Bank Telescope, Slavin Hollow Road, Pocahontas County, West Virginia, 24944, United States",38.4330645,-79.8398628151,4815.763,29428.883,2,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,5575.809,34139.661,2,0
+"Seoul,  South Korea",Seoul, South Korea,"Seoul, Nowon-gu, South Korea",37.5666791,126.9782914,6120.771,37517.346,2,0
+"Kyoto,  Japan",Kyoto, Japan,"Kyoto, Kyoto Prefecture, Japan",35.021041,135.7556075,6591.314,40433.775,2,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,6663.01,40878.148,2,0
+"New Haven,  United States",New Haven, United States,"New Haven, New Haven County, Connecticut, United States",41.29843435,-72.9310234271,8767.159,53500.4,4,0
+"Austin,  United States",Austin, United States,"Austin, Travis County, Texas, United States",30.2711286,-97.7436995,9018.292,55266.578,3,0
+"Nagoya,  Japan",Nagoya, Japan,"Nagoya, Aichi Prefecture, Japan",35.1851045,136.8998438,9935.258,60949.949,3,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,11962.706,55345.362,27,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,12784.548,77980.943,6,0
+"Daejeon,  South Korea",Daejeon, South Korea,"Daejeon, South Korea",36.3496,127.3848,15500.723,95025.496,5,0
+"Taipei,  Taiwan",Taipei, Taiwan,"Taipei, Taiwan",25.0375198,121.5636796,22848.774,140149.543,7,0
+"Charlottesville,  United States",Charlottesville, United States,"Charlottesville, Virginia, United States",38.029306,-78.4766781,23829.239,145597.526,10,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,56214.052,345270.915,15,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,103778,636718.678,31,0

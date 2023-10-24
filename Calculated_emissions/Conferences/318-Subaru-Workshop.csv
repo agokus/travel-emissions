@@ -1,0 +1,54 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Waikoloa, Hawaii, United States",Waikoloa,United States,"Waikoloa, Hawaii, United States",19.9403309809,-155.8345158457,0,0,0,0
+"Hilo,  United States",Hilo, United States,"Hilo, Hawaiʻi County, Hawaii, United States",19.7073734,-155.0815803,163.75,5476.603,0,35
+"Honolulu,  United States",Honolulu, United States,"Honolulu, Honolulu County, Hawaii, United States",21.304547,-157.855676,670.583,2632.541,5,0
+"Moffett Field Historical Society Museum,  United States",Moffett Field Historical Society Museum, United States,"Moffett Field Historical Society Museum, Building 126, Cummins Avenue, Ames Research Center, Santa Clara County, California, 94035-0016, United States",37.41129325,-122.0541698031,1260.217,7580.94,1,0
+"University of California,  United States",University of California, United States,"University of California, Berkeley, Derby Street, Claremont, Berkeley, Alameda County, California, 94720-1076, United States",37.8753497,-122.2396336492,1260.816,7588.874,1,0
+"San Jose,  United States",San Jose, United States,"San Jose, Santa Clara County, California, United States",37.3361905,-121.890583,1261.797,7601.849,1,0
+"Los Angeles,  United States",Los Angeles, United States,"Los Angeles, California, United States",34.0536909,-118.242766,1327.274,8016.819,1,0
+"Austin,  United States",Austin, United States,"Austin, Travis County, Texas, United States",30.2711286,-97.7436995,1935.958,11789.451,1,0
+"Narashino,  Japan",Narashino, Japan,"Narashino, Chiba Prefecture, Japan",35.670572,140.018956,2111.497,12877.446,1,0
+"Koshigaya,  Japan",Koshigaya, Japan,"Koshigaya, Saitama Prefecture, Japan",35.8903993,139.7908633,2117.773,12916.34,1,0
+"Osaka Prefecture,  Japan",Osaka Prefecture, Japan,"Osaka Prefecture, Japan",34.6198813,135.490357,2246.728,13715.611,1,0
+"Louisville,  United States",Louisville, United States,"Louisville, Jefferson County, Kentucky, United States",38.2542376,-85.759407,2272.725,13876.738,1,0
+"Okayama,  Japan",Okayama, Japan,"Okayama, Okayama Prefecture, Japan",34.6553944,133.9194595,2292.709,14000.598,1,0
+"Mansfield,  United States",Mansfield, United States,"Mansfield, Richland County, Ohio, United States",40.75839,-82.5154471,2354.678,14384.683,1,0
+"Waterloo,  Canada",Waterloo, Canada,"Waterloo, Region of Waterloo, Southwestern Ontario, Ontario, Canada",43.4652699,-80.5222961,2398.721,14657.665,1,0
+"Toronto,  Canada",Toronto, Canada,"Toronto, Golden Horseshoe, Ontario, Canada",43.6534817,-79.3839347,2427.528,14836.207,1,0
+"Santa Cruz County,  United States",Santa Cruz County, United States,"Santa Cruz County, California, United States",37.050096,-121.9905908,2517.657,15125.144,2,0
+"Stony Brook,  United States",Stony Brook, United States,"Stony Brook, Glenmoore, Hopewell Township, Mercer County, New Jersey, 08525, United States",40.3656365,-74.7880621,2565.257,15689.854,1,0
+"Waltham,  United States",Waltham, United States,"Waltham, Middlesex County, Massachusetts, United States",42.3756401,-71.2358004,2645.688,16188.372,1,0
+"Medford,  United States",Medford, United States,"Medford, Middlesex County, Massachusetts, United States",42.4184296,-71.1061639,2648.744,16207.31,1,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,3063.806,18570.22,2,0
+"Santiago,  Chile",Santiago, Chile,"Santiago, Provincia de Santiago, Santiago Metropolitan Region, Chile",-33.4377756,-70.6504502,3513.361,21566.223,1,0
+"Stockholm,  Sweden",Stockholm, Sweden,"Stockholm, Stockholms kommun, Stockholm County, 111 29, Sweden",59.3251172,18.0710935,3642.428,22366.181,1,0
+"Cambridge,  United Kingdom",Cambridge, United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,3796.533,23321.326,1,0
+"Zurich,  Switzerland",Zurich, Switzerland,"Zurich, District Zurich, Zurich, Switzerland",47.3744489,8.5410422,4024.526,24734.433,1,0
+"Bordeaux,  France",Bordeaux, France,"Bordeaux, Gironde, New Aquitaine, Metropolitan France, France",44.841225,-0.5800364,4030.334,24770.427,1,0
+"Santander,  Spain",Santander, Spain,"Santander, Cantabria, Spain",43.4620412,-3.8099719,4037.169,24812.793,1,0
+"Matsumoto,  Japan",Matsumoto, Japan,"Matsumoto, Nagano Prefecture, Japan",36.2382047,137.9687141,4339.794,26478.816,2,0
+"Nagoya,  Japan",Nagoya, Japan,"Nagoya, Aichi Prefecture, Japan",35.1851045,136.8998438,4407.206,26896.637,2,0
+"Kyoto,  Japan",Kyoto, Japan,"Kyoto, Kyoto Prefecture, Japan",35.021041,135.7556075,4475.149,27317.751,2,0
+"Kobe,  Japan",Kobe, Japan,"Kobe, Hyogo Prefecture, Japan",34.6932379,135.1943764,4510.316,27535.717,2,0
+"Hiroshima,  Japan",Hiroshima, Japan,"Hiroshima, Hiroshima Prefecture, Japan",34.3916058,132.4518156,4673.837,28549.223,2,0
+"Pittsburgh,  United States",Pittsburgh, United States,"Pittsburgh, Allegheny County, Pennsylvania, United States",40.4416941,-79.9900861,4848.576,29632.253,2,0
+"New Haven,  United States",New Haven, United States,"New Haven, New Haven County, Connecticut, United States",41.29843435,-72.9310234271,5217.519,31918.968,2,0
+"Taipei,  Taiwan",Taipei, Taiwan,"Taipei, Taiwan",25.0375198,121.5636796,5473.217,33503.79,2,0
+"Hsinchu,  Taiwan",Hsinchu, Taiwan,"Hsinchu, Taiwan Province, Taiwan",24.8066333,120.9686833,5514.969,33762.571,2,0
+"Melbourne,  Australia",Melbourne, Australia,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142176,144.9631608,5821.386,35661.751,2,0
+"Chiba,  Japan",Chiba, Japan,"Chiba, Chiba Prefecture, Japan",35.609985,140.118126,6326.121,38580.451,3,0
+"Victoria,  Canada",Victoria, Canada,"Victoria, Capital Regional District, British Columbia, Canada",48.4283182,-123.3649533,7091.059,42902.247,5,0
+"Copenhagen,  Denmark",Copenhagen, Denmark,"Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1357, Denmark",55.6867243,12.5700724,7511.255,46135.586,2,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,7853.155,48254.69,2,0
+"Greenbelt,  United States",Greenbelt, United States,"Greenbelt, Good Luck Road, New Carrollton, Prince George's County, Maryland, 20706, United States",38.9937333,-76.883065797,10066.007,61550.684,4,0
+"Princeton,  United States",Princeton, United States,"Princeton, Mercer County, New Jersey, United States",40.3492744,-74.6592958,10275.303,62847.9,4,0
+"Heidelberg,  Germany",Heidelberg, Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,11865.594,72914.208,3,0
+"Garching bei München,  Germany",Garching bei München, Germany,"Garching bei München, Landkreis München, Bavaria, 85748, Germany",48.2513878,11.6509662,12037.337,73978.671,3,0
+"Hayama,  Japan",Hayama, Japan,"Hayama, Miura County, Kanagawa Prefecture, Japan",35.2729088,139.5931769,12747.792,77753.127,6,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,13758.353,84226.258,5,0
+"Baltimore,  United States",Baltimore, United States,"Baltimore, Maryland, United States",39.2908816,-76.610759,15133.499,92539.785,6,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,15970.683,96470.75,12,0
+"Kashiwa,  Japan",Kashiwa, Japan,"Kashiwa, Chiba Prefecture, Japan",35.8676218,139.9756876,23236.849,141716.231,11,0
+"Matsuyama,  Japan",Matsuyama, Japan,"Matsuyama, Ehime Prefecture, Japan",33.8395188,132.7653521,23302.374,142332.004,10,0
+"Sendai,  Japan",Sendai, Japan,"Sendai, Miyagi Prefecture, Japan",38.2677554,140.8691498,27100.346,165242.948,13,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,137737.094,840069.563,65,0

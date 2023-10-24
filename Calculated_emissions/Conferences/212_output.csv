@@ -1,0 +1,16 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Aspen, United States",Aspen,United States,"Aspen Center for Physics, Aspen, United States",39.1974645541,-106.8284864716,0,0,0,0
+"New York,  United States",New York, United States,"New York, United States",40.7127281,-74.0060152,1018.075,5572.43,1,0
+"Seattle,  United States",Seattle, United States,"Seattle, King County, Washington, United States",47.6038321,-122.3300624,1169.121,6235.084,2,0
+"Tucson,  United States",Tucson, United States,"Tucson, Pima County, Arizona, United States",32.2228765,-110.9748477,1564.246,6883.718,4,0
+"Gainesville,  United States",Gainesville, United States,"Gainesville, Alachua County, Florida, United States",29.6519684,-82.3249846,1814.156,9896.79,2,0
+"Chicago,  United States",Chicago, United States,"Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212,1845.795,9876.812,3,0
+"Pasadena,  United States",Pasadena, United States,"Pasadena, California, United States",34.1476452,-118.1444779,2365.294,11537.174,5,0
+"Cambridge,  United States",Cambridge, United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,3288.523,18034.522,3,0
+"Tokyo,  Japan",Tokyo, Japan,"Tokyo, Japan",35.6828387,139.7594549,6038.235,37005.783,2,0
+"Paris,  France",Paris, France,"Paris, Ile-de-France, Metropolitan France, France",48.8566969,2.3514616,7855.88,48061.924,3,0
+"Potsdam,  Germany",Potsdam, Germany,"Potsdam, Brandenburg, Germany",52.4009309,13.0591397,8134.779,49790.551,3,0
+"Warsaw,  Poland",Warsaw, Poland,"Warsaw, Masovian Voivodeship, Poland",52.2319581,21.0067249,8494.615,52020.816,3,0
+"Rome,  Italy",Rome, Italy,"Rome, Roma Capitale, Lazio, Italy",41.8933203,12.4829321,8925.779,54693.18,3,0
+"Beijing,  China",Beijing, China,"Beijing, Dongcheng District, Beijing, 100010, China",39.906217,116.3912757,9961.396,61111.955,3,0
+"Christ University,  India",Christ University, India,"Christ University, Bangaluru, 3rd Cross Road, Sadgunte Palya, Suddagunte Palya Ward, South Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560029, India",12.9344255,77.6058913,13848.603,85204.931,3,0

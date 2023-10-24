@@ -1,0 +1,7 @@
+location,city,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount
+"Atchison, United States",Atchison,United States,"Atchison, Kansas, United States",39.5606184401,-95.1242218645,0,0,0,0
+"Kansas City,  United States",Kansas City, United States,"Kansas City, Jackson County, Missouri, United States",39.100105,-94.5781416,250.705,2776.359,17,0
+"Wichita,  United States",Wichita, United States,"Wichita, Sedgwick County, Kansas, United States",37.6922361,-97.3375448,951.4,3777.733,7,0
+"Omaha,  United States",Omaha, United States,"Omaha, Douglas County, Nebraska, United States",41.2587459,-95.9383758,1044.869,3550.569,9,0
+"Des Moines,  United States",Des Moines, United States,"Des Moines, Polk County, Iowa, United States",41.5910323,-93.6046655,1088.128,4323.365,8,0
+"Chicago,  United States",Chicago, United States,"Chicago, Cook County, Illinois, United States",41.8755616,-87.6244212,2964.869,12584.102,9,0
