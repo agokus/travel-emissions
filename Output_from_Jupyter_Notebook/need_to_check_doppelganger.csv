@@ -1,0 +1,133 @@
+conference_id,city,index,location,country,address,latitude,longitude,co2_kg,distance_km,plane trips_amount,train trips_amount,continent,num_persons,is_local,locals
+034,Cambridge,137,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.139153737368744,22652.84,138725.491,8,0,Europe,8,False,0
+034,Cambridge,140,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,69911.976,423042.706,49,0,North America,49,False,0
+035,Cambridge,21,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,1151.988,5051.805,3,0,Europe,3,False,0
+035,Cambridge,37,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,7909.132,48182.33,4,0,North America,4,False,0
+039,Heidelberg,1,"Heidelberg,  Australia",Australia,"Heidelberg, Melbourne, City of Banyule, Victoria, 3084, Australia",-37.7513665,145.069740281416,998.142,5460.365,1,0,Oceania,1,False,0
+039,Heidelberg,41,"Heidelberg,  Germany",Germany,"Heidelberg, Baden-Württemberg, Germany",49.4093582,8.694724,17988.077,110651.811,4,0,Europe,4,False,0
+046,Moscow,9,"Moscow,  United States",United States,"Moscow, Latah County, Idaho, United States",46.7323875,-117.0001651,1126.57,6182.393,1,0,North America,1,False,0
+046,Moscow,33,"Moscow,  Russia",Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,3527.676,21654.948,1,0,Asia,1,False,0
+054,Cambridge,7,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,35.091,1173.615,0,2,Europe,2,False,0
+054,Cambridge,48,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,1820.005,11070.77,1,0,North America,1,False,0
+058,Cambridge,0,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,0.0,0.0,0,4,Europe,4,True,4
+058,Cambridge,68,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,3462.19,21039.413,2,0,North America,2,False,0
+064,Cambridge,11,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,564.881,2304.408,2,0,North America,2,False,0
+064,Cambridge,48,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,3833.468,23340.601,2,0,Europe,2,False,0
+075,Cambridge,9,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,70.823,2368.655,0,4,Europe,4,False,0
+075,Cambridge,30,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,3643.693,22164.368,2,0,North America,2,False,0
+078,Cambridge,40,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,4026.149,24325.185,3,0,North America,3,False,0
+078,Cambridge,51,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,9965.714,60929.065,4,0,Europe,4,False,0
+088,London,17,"London,  United Kingdom",United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,985.409,5388.777,1,0,Europe,1,False,0
+088,Cambridge,18,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,994.734,5441.202,1,0,Europe,1,False,0
+088,Cambridge,31,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,2584.017,15806.132,1,0,North America,1,False,0
+088,London,55,"London,  Canada",Canada,"London, Southwestern Ontario, Ontario, N6A 1G4, Canada",42.9836747,-81.2496068,5588.709,34219.614,2,0,North America,2,False,0
+090,London,6,"London,  United Kingdom",United Kingdom,"London, Westminster, England, SW1A 2DX, United Kingdom",51.5073219,-0.1276474,467.277,2257.775,1,0,Europe,1,False,0
+090,London,20,"London,  Canada",Canada,"London, Southwestern Ontario, Ontario, N6A 1G4, Canada",42.9836747,-81.2496068,2150.473,13119.018,1,0,North America,1,False,0
+091,Cambridge,23,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,5272.547,32469.69,1,0,North America,1,False,0
+091,Cambridge,26,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,5499.847,33878.497,1,0,Europe,1,False,0
+092,Cambridge,17,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,864.867,3917.076,2,0,North America,2,False,0
+092,Cambridge,31,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,2044.271,12460.774,1,0,Europe,1,False,0
+095,Cambridge,36,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.139153737368744,962.445,4755.094,2,0,Europe,2,False,0
+095,Cambridge,84,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,10432.339,63611.561,5,0,North America,5,False,0
+098,Cambridge,20,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,1046.363,5466.402,2,0,Europe,2,False,0
+098,Cambridge,39,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,7912.925,48205.839,4,0,North America,4,False,0
+099,Cambridge,23,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.139153737368744,1934.179,10571.564,2,0,Europe,2,False,0
+099,Cambridge,84,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,22992.701,140622.303,9,0,North America,9,False,0
+108,Cambridge,17,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,879.611,4793.974,1,0,Europe,1,False,0
+108,Cambridge,58,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,4963.523,30344.7,2,0,North America,2,False,0
+115,Cambridge,25,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,1034.124,5369.285,2,0,Europe,2,False,0
+115,Cambridge,54,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,10800.252,65682.24,6,0,North America,6,False,0
+119,Cambridge,5,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,28.139,941.093,0,1,Europe,1,False,0
+119,Cambridge,34,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,3256.998,19767.627,2,0,North America,2,False,0
+125,Cambridge,6,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,51.161,1711.061,0,7,North America,7,False,0
+125,London,9,"London,  Canada",Canada,"London, Southwestern Ontario, Ontario, N6A 1G4, Canada",42.9836747,-81.2496068,334.96,1427.187,1,0,North America,1,False,0
+125,Cambridge,51,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,5294.146,32184.252,3,0,Europe,3,False,0
+125,London,55,"London,  United Kingdom",United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,8835.603,53714.965,5,0,Europe,5,False,0
+138,Cambridge,20,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.139153737368744,861.235,3885.89,2,0,Europe,2,False,0
+138,Cambridge,22,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,2041.188,12441.669,1,0,North America,1,False,0
+148,Cambridge,40,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,7637.774,46919.753,2,0,North America,2,False,0
+148,Cambridge,45,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,11920.856,73047.071,4,0,Europe,4,False,0
+157,London,16,"London,  United Kingdom",United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,821.924,4468.295,1,0,Europe,1,False,0
+157,London,30,"London,  Canada",Canada,"London, Southwestern Ontario, Ontario, N6A 1G4, Canada",42.9836747,-81.2496068,2650.141,16215.971,1,0,North America,1,False,0
+158,Cambridge,23,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.139153737368744,453.88,2142.724,1,0,Europe,1,False,0
+158,Cambridge,96,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,20701.366,126210.913,10,0,North America,10,False,0
+160,Cambridge,14,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,861.235,3885.89,2,0,Europe,2,False,0
+160,Cambridge,16,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,2041.188,12441.669,1,0,North America,1,False,0
+167,Cambridge,28,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,9804.083,60346.58,2,0,Europe,2,False,0
+167,Cambridge,30,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,10075.644,62029.718,2,0,North America,2,False,0
+170,Cambridge,4,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,117.894,3942.944,0,11,Europe,11,False,0
+170,Cambridge,25,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,13701.376,83244.154,8,0,North America,8,False,0
+175,Cambridge,29,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,5040.473,31031.291,1,0,North America,1,False,0
+175,Cambridge,38,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,9781.376,60205.841,2,0,Europe,2,False,0
+183,Cambridge,13,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,905.732,4268.028,2,0,Europe,2,False,0
+183,Cambridge,31,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,3736.51,22739.652,2,0,North America,2,False,0
+185,Cambridge,12,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,712.199,2413.613,4,0,Europe,4,False,0
+185,Cambridge,35,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,3335.363,20253.332,2,0,North America,2,False,0
+187,Cambridge,0,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,0.0,0.0,0,79,North America,79,True,79
+187,Canberra,30,"Canberra,  United States",United States,"Canberra, Houston, Harris County, Texas, 77061, United States",29.641919,-95.289916,945.086,5162.08,1,0,North America,1,False,0
+187,Cambridge,41,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,1731.095,10519.707,1,0,Europe,1,False,0
+187,Canberra,78,"Canberra,  Australia",Australia,"Canberra, District of Canberra Central, Australian Capital Territory, 2601, Australia",-35.2975906,149.1012676,10702.928,65917.632,2,0,Oceania,2,False,0
+193,Cambridge,4,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,242.862,941.093,1,0,Europe,1,False,0
+193,Cambridge,39,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,9770.994,59302.882,6,0,North America,6,False,0
+198,Cambridge,15,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,1241.258,7330.131,1,0,North America,1,False,0
+198,Cambridge,28,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,2776.441,16998.781,1,0,Europe,1,False,0
+202,Moscow,46,"Moscow,  United States",United States,"Moscow, Latah County, Idaho, United States",46.7323875,-117.0001651,1864.792,11348.362,1,0,North America,1,False,0
+202,Moscow,57,"Moscow,  Russia",Russia,"Moscow, Central Federal District, Russia",55.7504461,37.6174943,2407.412,13232.114,2,0,Asia,2,False,0
+202,London,62,"London,  Canada",Canada,"London, Southwestern Ontario, Ontario, N6A 1G4, Canada",42.9836747,-81.2496068,2871.34,17377.309,2,0,North America,2,False,0
+202,Cambridge,77,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,4093.556,22041.069,6,0,Europe,6,False,0
+202,London,98,"London,  United Kingdom",United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,7008.661,37793.961,10,0,Europe,10,False,0
+202,Cambridge,132,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,32417.787,195684.712,25,0,North America,25,False,0
+205,Cambridge,11,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,491.825,2468.602,1,0,Europe,1,False,0
+205,Cambridge,46,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,14901.847,90894.35,7,0,North America,7,False,0
+207,Cambridge,19,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,2074.774,12649.835,1,0,Europe,1,False,0
+207,Cambridge,24,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,2613.237,13644.812,5,0,North America,5,False,0
+210,Cambridge,11,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,397.637,1755.36,1,0,Europe,1,False,0
+210,Cambridge,27,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,1991.56,12134.07,1,0,North America,1,False,0
+220,Leiden,7,"Leiden,  Germany",Germany,"Leiden, Gestratz, Argental (VGem), Landkreis Lindau, Bavaria, 88167, Germany",47.6577604,10.0120264,282.679,1153.453,1,0,Europe,1,False,0
+220,Leiden,32,"Leiden,  Netherlands",Netherlands,"Leiden, Zoeterwoude, South Holland, Netherlands",52.1518157,4.4811088666,2054.503,9124.019,5,0,Europe,5,False,0
+229,Cambridge,15,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,466.846,2254.074,1,0,Europe,1,False,0
+229,Cambridge,28,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,2092.65,12760.627,1,0,North America,1,False,0
+230,Cambridge,55,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,2406.144,11887.992,5,0,Europe,5,False,0
+230,Cambridge,93,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,47988.989,292614.604,23,0,North America,23,False,0
+232,Cambridge,13,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,416.715,1855.249,1,0,Europe,1,False,0
+232,Cambridge,36,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,6087.191,37099.563,3,0,North America,3,False,0
+234,Cambridge,11,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,366.54,1592.538,1,0,Europe,1,False,0
+234,Cambridge,21,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,1942.0,11826.897,1,0,North America,1,False,0
+23_,Cambridge,17,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,4237.763,26056.078,1,0,North America,1,False,0
+23_,Cambridge,25,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,6172.754,37839.535,2,0,Europe,2,False,0
+243,Cambridge,12,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,1231.505,7201.111,1,0,Europe,1,False,0
+243,Cambridge,21,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,2868.479,17569.233,1,0,North America,1,False,0
+246,Cambridge,18,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,858.804,3865.008,2,0,Europe,2,False,0
+246,Cambridge,48,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,13962.654,85073.215,7,0,North America,7,False,0
+251,Cambridge,0,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,0.0,0.0,0,45,Europe,45,True,45
+251,Cambridge,55,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,8655.476,52598.533,5,0,North America,5,False,0
+254,London,1,"London,  United Kingdom",United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,19.414,649.309,0,1,Europe,1,False,0
+254,London,4,"London,  United Kingdom",United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,186.86,649.309,1,0,Europe,1,False,0
+259,London,20,"London,  United Kingdom",United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,826.891,3676.256,2,0,Europe,2,False,0
+259,London,30,"London,  Canada",Canada,"London, Southwestern Ontario, Ontario, N6A 1G4, Canada",42.9836747,-81.2496068,2204.915,13456.451,1,0,North America,1,False,0
+270,Cambridge,40,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.2055314,0.1186637,2077.047,12663.921,1,0,Europe,1,False,0
+270,Cambridge,71,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, 02139-9991, United States",42.3750997,-71.1056157,4174.787,21780.981,8,0,North America,8,False,0
+276,Cambridge,45,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,3556.841,21835.709,1,0,North America,1,False,0
+276,Cambridge,50,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,3897.198,23735.598,2,0,Europe,2,False,0
+297,Cambridge,2,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,24.1,806.031,0,1,Europe,1,False,0
+297,Cambridge,18,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,1819.369,11066.832,1,0,North America,1,False,0
+307,Cambridge,22,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,2081.44,8611.82,7,0,North America,7,False,0
+307,Cambridge,30,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,5788.397,35247.632,3,0,Europe,3,False,0
+315,Cambridge,20,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,863.893,3543.376,3,0,North America,3,False,0
+315,Cambridge,30,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537374,1921.66,11700.83,1,0,Europe,1,False,0
+320,Cambridge,20,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,436.804,1996.076,1,0,Europe,1,False,0
+320,Cambridge,68,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,8087.208,49286.053,4,0,North America,4,False,0
+330,Cambridge,14,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,1243.534,7360.24,1,0,North America,1,False,0
+330,Cambridge,45,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,8275.744,50664.254,3,0,Europe,3,False,0
+334,London,4,"London,  United Kingdom",United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,38.829,1298.618,0,2,Europe,2,False,0
+334,London,28,"London,  Canada",Canada,"London, Southwestern Ontario, Ontario, N6A 1G4, Canada",42.9836747,-81.2496068,4023.541,24518.673,2,0,North America,2,False,0
+337,Cambridge,19,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,1483.564,8024.471,2,0,Europe,2,False,0
+337,Cambridge,21,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,2305.294,14078.604,1,0,North America,1,False,0
+347,London,11,"London,  United Kingdom",United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,438.895,1638.193,2,0,Europe,2,False,0
+347,Cambridge,20,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,1106.419,4143.327,5,0,Europe,5,False,0
+347,London,31,"London,  Canada",Canada,"London, Southwestern Ontario, Ontario, N6A 1G4, Canada",42.9836747,-81.2496068,4117.479,25100.903,2,0,North America,2,False,0
+347,Cambridge,34,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,7457.541,45383.362,4,0,North America,4,False,0
+352,Cambridge,1,"Cambridge,  United Kingdom",United Kingdom,"Cambridge, Cambridgeshire, East of England, England, United Kingdom",52.19758465,0.1391537373687439,6.444,215.508,0,1,Europe,1,False,0
+352,London,5,"London,  United Kingdom",United Kingdom,"London, Greater London, England, United Kingdom",51.5073219,-0.1276474,14.822,495.709,0,3,Europe,3,True,3
+352,London,25,"London,  Canada",Canada,"London, Southwestern Ontario, Ontario, N6A 1G4, Canada",42.9836747,-81.2496068,1903.593,11588.85,1,0,North America,1,False,0
+352,Cambridge,57,"Cambridge,  United States",United States,"Cambridge, Middlesex County, Massachusetts, United States",42.3750997,-71.1056157,11945.571,72571.294,7,0,North America,7,False,0
