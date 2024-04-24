@@ -1,7 +1,7 @@
 # travel-emissions
 This repository contains the data published in 'Astronomy’s climate 
 emissions: global travel to scientific meetings in 2019 by
-Gokus et al. (2023) in PNAS Nexus.
+Gokus et al. (2024) in PNAS Nexus (https://academic.oup.com/pnasnexus/article-lookup/doi/10.1093/pnasnexus/pgae143).
 
 Processed data files (output in form of .csv files from the 
 'Travel Footprint calculator' by Didier Barret at https://travel-footprint-calculator.irap.omp.eu/)
